@@ -1,0 +1,795 @@
+72
+73
+Analysis of Financial 
+Results
+Analysis of Financial Results   
+Asseco Central Europe
+For the twelve-month period ended 31 December 2025 (“2025”), as well as for the comparable twelve-month period ended 31 December 2024 
+(“2024”), Asseco Central Europe, a.s., Slovakia reported the following financial results:  
+EUR thousands
+2025
+Margin
+2024
+Margin
+Change y/y
+Sales revenues
+70,320
+ --
+59,553
+ --
+18.1%
+Gross profit on sales
+16,215
+23.1%
+12,854
+21.6%
+26.1%
+Operating profit
+6,888
+9.8%
+4,972
+8.3%
+38.5%
+Dividends paid from subsidiaries
+14,088
+--
+9,389
+--
+-25.9%
+Other financial actrivities
+2,282
+--
+-499
+--
+-122.5%
+Pre-tax profit
+23,258
+33.1%
+13,862
+23.3%
+67.8%
+Net profit for the period reported
+22,006
+31.3%
+13,095
+22.0%
+68.0%
+The Company’s revenue increased to EUR 70.3 million in 2025.
+The Other Public Administration Entities sector recorded the most significant increase in revenue, rising by EUR 5.2 million. In the Central and Local 
+Government and Banking sectors, revenue increased by EUR 2.4 million in each case. The Utilities sector recorded a revenue increase of EUR 0.1 
+million, while revenue in the Healthcare sector decreased by EUR 0.2 million.
+From a product structure perspective, the strongest growth was recorded in the sale of proprietary software and services, where revenues in-
+creased year-on-year by EUR 10.4 million. A positive development was also recorded in hardware sales, which increased by EUR 0.6 million. On 
+the other hand, sales of software and services declined year-on-year by EUR 0.2 million.
+The increase in revenue was also reflected in higher costs, which rose by EUR 4.2 million compared with 2024. Despite the increase in costs, the 
+Company managed to improve its gross margin, which rose by EUR 3.4 million. 
+The increase in the gross margin had a positive impact on the Company’s financial performance. The operating margin also improved, rising from 
+8.3% to 9.8%.
+As part of the Company’s investing activities in 2025, Software Foundation was acquired and subsequently fully integrated into Asseco CE SK. 
+Another activity was the sale of Prosoft.
+The total impact of transactions within other financial assets in 2025 were in the amount of 2,3 mil. EUR (mainly the settlement of intercompany 
+share transfers through the distribution of retained earnings from previous period in the amount of 17,9 mil. EUR and the subsequent revaluation 
+of shares in the amount of 16,3 mil. EUR). In 2024 the impact of these transactions amounted to -0,5 mil. EUR.
+In 2025, the Company reported profit before tax of EUR 23.258 million, representing an increase of EUR 9.4 million.  
+In 2025, the Company reported a net profit of EUR 22.006 million, representing an increase of EUR 8.9 million. 
+70,320
+6,888
+22,006
+Revenues
+Operating profit
+Net profit
+2024
+2025
+Revenues structure by type (EUR thousands)
+Financial Results (EUR thousands)
+59,553
+4,972
+13,095
+Revenues
+Operating profit
+Net profit
+59,744
+9,813
+763
+Proprietary 
+software and 
+services
+Third-party 
+software and 
+services
+Equipment
+Operating profit %
+49,342
+10,047
+164
+Proprietary 
+software and 
+services
+Third-party 
+software and 
+services
+Equipment
+8.3%
+9.8%
+
+74
+75
+Analysis of Financial Results  
+Asseco Central Europe Group
+For the twelve-month period ended 31 December 2025 (“2025”), as well as for the comparable twelve-month period ended 31 December 2024 
+(“2024”), the Group reported the following financial results:
+EUR thousands
+2025
+Margin
+2024
+Margin
+Change y/y
+Sales revenues
+476,223
+ --
+412,905
+ -- 
+15.3%
+Gross margin
+138,918
+29.2%
+115,320
+27.9%
+20.5%
+Operating profit
+68,966
+14.5%
+55,013
+13.3%
+25.4%
+Pre-tax profit
+67,783
+14.2%
+54,431
+13.2%
+24.5%
+Net profit for the period
+57,069
+12.0%
+46,968
+11.4%
+21.5%
+The Group recorded a year-on-year increase in revenue of 15.3%. The increase was mainly driven by companies that recorded the largest growth, 
+namely the AES Group (+EUR 23.4 million), Asseco CE SK (+EUR 10.8 million), Asseco CE Cloud (+EUR 9.7 million), EXE (+EUR 9.6 million) and Asseco 
+CE CZ (+EUR 9.5 million).
+Gross profit margin increased year-on-year by 20.5%. This growth was mainly driven by product-oriented companies within the AES Group (+EUR 
+13.6 million), as well as Asseco CE SK (+EUR 3.4 million), Asseco CE in the Czech Republic (+EUR 2.6 million) and CEIT (+EUR 0.9 million). 
+Production costs increased year-on-year by 8.4%. The largest increase in production costs was recorded in the AES Group, where production 
+costs rose by EUR 9.2 million, followed by Asseco CE SK (+EUR 3.1 million), CEIT (+EUR 2.3 million) and Asseco CE Cloud (+EUR 1.6 million)
+Selling expenses increased year-on-year by 5%. Administrative expenses rose by 13%, representing an increase of EUR 5.3 million in absolute 
+terms. This increase was mainly driven by the AES Group, where administrative expenses increased by EUR 3.0 million, and by Asseco CE SK, 
+where administrative expenses increased by EUR 1.1 million, as well as by Asseco CE in the Czech Republic, where these expenses increased by 
+EUR 0.6 million. 
+The Group reported operating profit of EUR 68.97 million (year-on-year increase of 25.4%).
+Profit before tax increased year-on-year by 24.5%. The Group’s net profit increased by EUR 10.1 million to a total of EUR 57.07 million. Profit attribut-
+able to shareholders amounted to EUR 25.8 million, representing an increase of EUR 5.1 million compared with the previous year. 
+The majority of revenue was generated from the sale of proprietary software and services, which reached almost EUR 370 million in 2025, rep-
+resenting an increase of EUR 44.5 million compared with 2024. The infrastructure segment – sales of third-party software and services – also 
+recorded an increase of EUR 9.6 million. Resale of computer hardware and infrastructure increased year-on-year by EUR 9.1 million.
+The Asseco Central Europe Group presents four main operating segments.
+The Asseco Central Europe segment includes the parent company together with its Czech subsidiary bearing the same name, the Asseco Berit 
+companies in Germany and Switzerland, as well as Exe and Asseco CE Cloud.
+The Asseco Solutions segment consists of the Asseco Enterprise Solutions Group, which provides proprietary ERP products and related services.
+The CEIT Group represents a separate operating segment, while the “Other” segment includes the Hungarian company ACE Magyarország.
+The Asseco Central Europe segment recorded a 21.8% increase in revenue in 2025 (EUR 39.5 million). This growth was mainly driven by Asseco CE 
+SK and Asseco CE Cloud.
+The operating profit of the Asseco Central Europe segment increased year-on-year by EUR 2.6 million to EUR 14.0 million, mainly due to higher 
+operating profit generated by Asseco CE in the Slovenak and Czech Republic.
+In 2025, as part of the segment’s investing activities, Software Foundation was acquired and subsequently fully integrated into Asseco CE SK. In 
+line with the Group’s expansion strategy, the Czech company Tovek was acquired as part of the Asseco Central Europe segment in the second 
+half of the year. 
+The Asseco Solutions segment recorded improved results in 2025 compared with the previous year – revenue increased by 10.4% and operating 
+profit by 22.9% to EUR 53.0 million. This segment recorded the highest profitability, achieving a margin of 21.3% in 2025. As part of the investment 
+activities of this segment, a new company, DahliaMatic was incorporated into the Group’s structure. 
+The CEIT segment, which consists of companies within the CEIT Group, recorded a year-on-year increase in revenue of EUR 3,8 million to EUR 23.6 
+million in 2025. Operating profit increased year-on-year by EUR 0.4 million.
+The “Other” segment recorded a decline of EUR 0.9 million compared with the previous year.
+2024
+2025
+412,905
+55,013
+46,968
+Revenues
+Operating profit
+Net profit
+Operating profit structure by segments (EUR thousands)
+Revenues structure by type (EUR thousands)
+Financial Results (EUR thousands)
+12.4%
+6.4%
+21.3%
+24.0%
+13.0%
+2.0%
+476,223
+68,966
+57,073
+Revenues
+Operating profit
+Net profit
+11,422
+43,052
+873
+-1,279
+Asseco CE
+Asseco 
+Solutions
+Asseco  
+CEIT
+Other
+14,023
+52,921
+375
+926
+Asseco CE
+Asseco 
+Solutions
+Asseco  
+CEIT
+Other
+Asseco CE
+Asseco CEIT
+Asseco Solutions
+EBIT Margin %
+369,974
+92,242
+14,007
+Proprietary 
+software and 
+services
+Third-party 
+software and 
+services
+Equipment
+325,458
+82,580
+4,867
+Proprietary 
+software and 
+services
+Third-party 
+software and 
+services
+Equipment
+
+76
+77
+Report on the Activities 
+of the Supervisory 
+Board
+Adam Góral 
+Chairman of the Supervisory Board
+Miroslav Kepencay 
+Member of the Supervisory Board
+Marek Panek 
+Member of the Supervisory Board
+Przemyslaw Seczkowski 
+Member of the Supervisory Board
+Based on the review of the company’s activities, the examination of 
+the individual and consolidated financial statements for 2025, and 
+the auditor’s opinion, the Supervisory Board states that:
+•	 The company operates in compliance with applicable legal reg-
+ulations, the Articles of Association, and the decisions of the Gen-
+eral Meeting and the Supervisory Board;
+•	 The company’s accounting is properly maintained in accordance 
+with reality and the laws of the Slovak Republic;
+•	 The individual and consolidated financial statements have been 
+audited by BDO Audit, spol. s r.o.;
+•	 The auditor’s opinion on the financial statements as of December 
+31, 2025, is unqualified.
+The Supervisory Board recommends that the General Meeting ap-
+proves the individual and consolidated financial statements for 2025 
+and accepts the Board of Directors’ proposal for profit distribution.
+We express our gratitude to the Board of Directors for the company’s 
+management and financial performance and approve the payment 
+of bonuses and rewards to the Board members.
+Bratislava, on March 27, 2026
+regarding the Individual and Consolidated Financial Statements of Asseco 
+Central Europe, a.s. for the Year 2025
+TThe Supervisory Board of the company met as needed during 
+2025, including in the form of online meetings or via communication 
+devices enabling the remote participation of its members.
+On February 6, 2025, the Supervisory Board granted consent to the 
+reappointment of Mr. Branislav Tkáčik as a member of the company’s 
+Board of Directors, effective from February 9, 2025.
+At the meeting on March 21, 2025, the Supervisory Board discussed 
+the submitted materials and took note of them while at the same 
+time recommending them to the company’s General Meeting for 
+approval:
+•	 Individual and consolidated financial results of the company;
+•	 The company’s Annual Report and Consolidated Annual Report 
+for 2025;
+•	 Profit distribution of the company as proposed by the Board of 
+Directors;
+•	 The Supervisory Board’s report on the financial statements and 
+the activities of the Board of Directors for 2025;
+•	 Selection of the audit firm BDO Audit, spol. s r. o. to perform au-
+diting activities for 2025.
+The Supervisory Board also took note of the forecast for the compa-
+ny’s budget performance for the first quarter of 2025, as well as the 
+forecast for its performance through the end of 2025, as submitted 
+by the company’s Board of Directors. Under miscellaneous matters, 
+the Supervisory Board approved the sale of a 51% stake in eDocu, a.s. 
+At the same time, the Supervisory Board granted consent to grant 
+procuration to Mr. Peter Drenka, to act individually.
+On May 12, 2025, the Supervisory Board granted consent to the ac-
+quisition of part of the business of Software foundation, s. r. o., com-
+pany ID No.: 52 347 028, with its registered office at Vajnorská 100/B, 
+831 04 Bratislava.
+On August 21, 2025, the Supervisory Board granted consent to the 
+provision of a guarantee for Asseco CE CZ, in accordance with the 
+Loan Agreement concluded between Asseco CE CZ and Česká 
+spořitelna bank.
+At the meeting on September 26, 2025, the Supervisory Board dis-
+cussed and took note of the company’s individual and consolidated 
+financial results for the first half of 2025, as well as the forecast for 
+budget performance for the third quarter of 2025 and through the 
+end of 2025, including the cash flow plan through the end of 2025.
+On November 25, 2025, the Supervisory Board granted consent to 
+the acquisition of 95 shares in Asseco CEIT, a.s., as well as to the sub-
+sequent increase of other capital funds in this company up to the 
+amount of EUR 4 million. At the same time, the Supervisory Board 
+granted consent to the sale of a 100% business share in IPI, s. r. o., 
+for an expected purchase price ranging from EUR 5.3 million to EUR 
+5.5 million.
+At the meeting held on December 18, 2025, the Supervisory Board 
+discussed and took note of the company’s individual and consol-
+idated financial results for the third quarter of 2025, as well as the 
+forecast for budget performance through the end of 2025 and the 
+cash flow plan through the end of 2025, as submitted by the com-
+pany’s Board of Directors. At the same time, the Supervisory Board 
+approved the company’s budget for 2026 as submitted by the Board 
+of Directors, with the expected net profit for the Group amounting 
+to EUR 26.96 million.
+The net profit for 2025 increased to EUR 22 million, reflecting a 68% 
+growth (or EUR 8.9 million) compared to 2024. This increase was 
+driven by a rise in operating profit of nearly EUR 2 million and an 
+increase in dividend income of nearly EUR 5 million. 
+The consolidated profit of Asseco Central Europe Group for 2025 
+exceeded EUR 57 million, representing a 21.5% increase (or EUR 10.1 
+million) compared to 2024. The profit attributable to the sharehold-
+ers of the parent company amounted to EUR 25.8 million, marking a 
+25% increase (or EUR 5.1 million). 
+
+ 
+ 
+ 
+  
+ 
+Consolidated financial statements of Asseco Central Europe Group for year ended 31 December 2025 
+(in EUR thousand) 
+page 33 
+The net book value of intangible assets, during the period of twelve months ended 31 December 2025 and in the 
+comparative period, changed as a result of the following transactions: 
+For 12 months ended 31 December 2025  
+Land and 
+buildings 
+Computers 
+and other 
+office 
+equipment 
+Transport 
+vehicles 
+Other 
+tangible 
+assets 
+Total 
+Net book value of right-of-use assets  
+as at 1 January 2025 
+29,499 
+158 
+1,449 
+54 
+31,160 
+Additions, of which: 
+5,098 
+- 
+959 
+- 
+6,057 
+New lease contracts 
+2,642 
+- 
+916 
+- 
+3,558 
+Modifications of existing lease contracts (extending 
+the lease term, change of interest rate) 
+1,260 
+- 
+- 
+- 
+1,260 
+Increases resulting from the change in variable 
+interest rates and indices (e.g. inflation) 
+490 
+- 
+- 
+- 
+490 
+Acquisition of subsidiares 
+706 
+- 
+43 
+- 
+749 
+Reductions, of which: 
+(6,019) 
+(84) 
+(1,065) 
+(24) 
+(7,192) 
+Depreciation charge for the reporting period  
+(5,919) 
+(84) 
+(949) 
+(24) 
+(6,976) 
+Contract termination (before the end of lease term) 
+(43) 
+- 
+(100) 
+- 
+(143) 
+Modifications of existing lease contracts (shortening 
+of lease term, change of interest rate) 
+(57) 
+- 
+(5) 
+- 
+(62) 
+Decreases resulting from the change in the amount 
+of lease payments due to changes in variable interest 
+rates and indices (e.g. inflation) 
+- 
+- 
+(11) 
+- 
+(11) 
+Exchange differences on translation of foreign 
+operations  
+389 
+- 
+1 
+- 
+390 
+Net book value of right-of-use assets  
+as at 31 December 2025 
+28,967 
+74 
+1,344 
+30 
+30,415 
+ 
+For 12 months ended 31 December 2024  
+Land and 
+buildings 
+Computers 
+and other 
+office 
+equipment 
+Transport 
+vehicles 
+Other 
+tangible 
+assets 
+Total 
+Net book value of right-of-use assets  
+as at 1 January 2024 
+19,488 
+344 
+1,661 
+195 
+21,688 
+Additions, of which: 
+6,971 
+- 
+1,064 
+24 
+8,059 
+New lease contracts 
+2,832 
+- 
+860 
+24 
+3,716 
+Modifications of existing lease contracts (extending 
+the lease term, change of interest rate) 
+3,152 
+- 
+173 
+- 
+3,325 
+Increases resulting from the change in variable 
+interest rates and indices (e.g. inflation) 
+987 
+- 
+- 
+- 
+987 
+Acquisition of subsidiares 
+- 
+- 
+31 
+- 
+31 
+Reductions, of which: 
+(5,724) 
+(186) 
+(1,257) 
+(165) 
+(7,332) 
+Depreciation charge for the reporting period  
+(5,217) 
+(186) 
+(1,240) 
+(25) 
+(6,668) 
+Contract termination (before the end of lease term) 
+(15) 
+- 
+- 
+(140) 
+(155) 
+Modifications of existing lease contracts (shortening 
+of lease term, change of interest rate) 
+(298) 
+- 
+- 
+- 
+(298) 
+Decreases resulting from the change in the amount 
+of lease payments due to changes in variable interest 
+rates and indices (e.g. inflation) 
+(193) 
+- 
+- 
+- 
+(193) 
+Purchase of underlying asset 
+- 
+- 
+(17) 
+- 
+(17) 
+Other 
+(1) 
+- 
+- 
+- 
+(1) 
+Changes in presentation 
+8,760 
+- 
+(17) 
+- 
+8,743 
+Exchange differences on translation of foreign 
+operations  
+4 
+- 
+(2) 
+- 
+2 
+Net book value of right-of-use assets  
+as at 31 December 2024 
+29,499 
+158 
+1,449 
+54 
+31,160 
+ 
+
+ 
+ 
+ 
+  
+ 
+Consolidated financial statements of Asseco Central Europe Group for year ended 31 December 2025 
+(in EUR thousand) 
+page 34 
+5.4. Goodwill 
+Significant accounting policies 
+Goodwill is initially measured at cost, being the excess of the aggregate of the consideration transferred and the amount 
+recognized for non-controlling interests, and any previous interest held, over the net identifiable assets acquired and 
+liabilities assumed. If the fair value of the net assets acquired exceeds the aggregate consideration transferred, the Group 
+reassesses whether it has correctly identified all of the assets acquired and all of the liabilities assumed and reviews the 
+procedures used to measure the amounts to be recognized at the acquisition date. If the reassessment still results in an 
+excess of the fair value of net assets acquired over the aggregate consideration transferred, then the gain is recognized 
+in profit or loss. As at the acquisition date, the acquired goodwill is allocated to every cash-generating unit which may 
+benefit from synergy effects arising from a business combination. Each cash-generating unit or group of units to which 
+the goodwill is so allocated shall: (i) represent the lowest level within the Group at which the goodwill is monitored for 
+internal management purposes; and (ii) not be larger than an operating segment identified in accordance with IFRS 8 
+Operating Segments. 
+After initial recognition, goodwill is measured at cost less any accumulated impairment losses. Goodwill is tested for 
+impairment on an annual basis as at 31 December, or more frequently if there are indications to do so. Goodwill is not 
+subject to amortization. 
+An impairment write-down is determined by estimating the recoverable value of a cash-generating unit to which 
+goodwill has been allocated. In the event the recoverable value of a cash-generating unit is lower than its carrying 
+amount, an impairment charge shall be recognized. Such write-down is recognized as a financial expense. 
+Where goodwill forms part of a cash-generating unit and part of the operation within that unit is disposed of, the 
+goodwill associated with the operation disposed of is included in the carrying amount of the operation when determining 
+the gain or loss on disposal of the operation. Goodwill disposed of in these circumstances is measured based on the 
+relative values of the operation disposed of and the portion of the cash-generating unit retained. 
+ 
+For impairment testing purposes, goodwill is allocated by the Group to individual companies or group of 
+companies. 
+ 
+Goodwill  
+31 December 2025  
+31 December 2024  
+Asseco Central Europe (Slovakia) - ISZP, MPI, DWC, XANTA, 
+Software Foundation 
+7,161  
+5,248  
+Asseco Central Europe (Czech Republic) 
+19,685  
+18,942  
+Exe (including EdgeCom) 
+1,875  
+1,875  
+Tovek 
+3,911  
+- 
+Asseco Solutions (Slovakia) 
+7,647  
+7,647  
+Asseco Solutions (Germany) 
+16,795  
+16,795  
+Asseco Solutions (Czech Republic) 
+7,995  
+7,959  
+Asseco Business Solutions S.A. 
+60,356  
+59,435  
+DahliaMatic Group 
+9,178  
+- 
+CEIT Group 
+5,441  
+5,441  
+Asseco Central Europe Magyarorszag 
+5,319  
+4,981  
+Total goodwill 
+145,363  
+128,323  
+ 
+ 
+ 
+
+ 
+ 
+ 
+  
+ 
+Consolidated financial statements of Asseco Central Europe Group for year ended 31 December 2025 
+(in EUR thousand) 
+page 35 
+During the period of twelve months ended 31 December 2025, the following changes in goodwill were observed: 
+Goodwill as allocated to 
+Cash Generating Units:  
+Goodwill at the 
+beginning of the 
+period  
+Impairment 
+write-off (-) 
+Acquisition of 
+control and 
+acquisition under 
+commont control (+) 
+Foreign 
+exchange 
+differences (+/-) 
+Goodwill at the end 
+of the period 
+Asseco Central Europe 
+(Slovakia) (including 
+Software Foundation) 
+5,248  
+(150) 
+2,063  
+-  
+7,161  
+Asseco Central Europe 
+(Czech Republic) 
+18,942  
+-  
+-  
+743  
+19,685  
+Exe (including EdgeCom) 
+1,875  
+-  
+-  
+-  
+1,875  
+Tovek 
+- 
+-  
+3,825  
+86  
+3,911  
+Asseco Solutions (Slovakia) 
+7,647  
+-  
+-  
+-  
+7,647  
+Asseco Solutions 
+(Germany) 
+16,795  
+-  
+-  
+-  
+16,795  
+Asseco Solutions (Czech 
+Republic) 
+7,959  
+-  
+-  
+36  
+7,995  
+Asseco Business Solutions 
+S.A. 
+59,435  
+-  
+152  
+769  
+60,356  
+DahliaMatic Group 
+- 
+-  
+9,112  
+66  
+9,178  
+CEIT Group 
+5,441  
+-  
+-  
+- 
+5,441  
+Asseco Central Europe 
+Magyarorszag 
+4,981  
+-  
+-  
+338  
+5,319  
+Total 
+128,323  
+(150) 
+15,112  
+2,078  
+145,363  
+ 
+Acquisition of control are decsribed below. 
+1) Acquisition of shares in Tax Order Sp. z o.o.  
+On 27 March 2025, Asseco Business Solutions S.A. acquired 60% of shares in Tax Order Sp. z o.o., a company 
+based in Poland. The purchase price amounted to PLN 2,700 thousand (EUR 643 thousand) and it was fully paid 
+in cash. 
+As part of the provisional purchase price allocation, the excess of the purchase price paid over the value of net 
+assets acquired in the amount of PLN 648 thousand (EUR 154 thousand) was allocated to goodwill.  
+ 
+Until 31 December 2025, the process of purchase price allocation has not yet been completed by the Group. 
+Therefore, goodwill recognized on this acquisition may be subject to change in the period of 12 months from the 
+date of obtaining control over that company. 
+2) Acquisition of Software Foundation s.r.o. business  
+On 1 June 2025, Asseco Central Europe, a.s. based in Slovakia acquired Software Foundation s.r.o. based in 
+Slovakia. The acquisition involved a set of activities and assets that meet the definition of a business under IFRS 
+3. The purchase price amounted to EUR 5.5 million, of which EUR 4.2 million was paid in cash, while the amount 
+of EUR 1.3 million constitutes a deferred payment depending on future operating profits of the acquired 
+company. 
+As part of the provisional purchase price allocation, the excess of the purchase price paid over the value of 
+net assets acquired was recognized in intangible assets in the amount of EUR 3.3 million, while the amount of 
+EUR 2.1 million was allocated to goodwill. 
+Until 31 December 2025, the process of purchase price allocation has not yet been completed by the Group.  
+Therefore, goodwill recognized on this acquisition may be subject to change in the period of 12 months from the 
+date of obtaining control. The provisional values of identifiable assets and liabilities of the acquired business as 
+at the acquisition date are presented below:

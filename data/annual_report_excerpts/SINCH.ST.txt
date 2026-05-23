@@ -1,0 +1,1712 @@
+Connecting every  
+business with every  
+customer, everywhere  
+in the world
+Sinch is powering a new era of intelligent, secure and 
+scalable communications. Our global team of Sinchers 
+is building the most trusted foundation for customer 
+engagement, helping businesses strengthen relationships, 
+deliver better experiences and grow with confidence.  
+2
+Sinch Annual Report 2025
+
+Contents
+4
+About Sinch
+5
+Why invest
+6
+Comments from the CEO
+8
+The year in brief
+10
+Market
+12
+Strategy
+14
+Customers
+17
+Products
+20
+Operating segments
+26
+Sustainability
+30
+Share performance and ownership structure
+Management report
+33
+The company’s operations, financial performance  
+and position
+41
+Message from the Chairman of the Board
+42
+Corporate governance statement
+47
+Board of Directors and executive management
+50
+Risks and risk management
+53
+Sustainability report
+54
+General information
+64
+Climate action
+73
+Empowered people
+77
+Trusted partner
+Financial reporting
+89
+Consolidated income statement
+89
+Consolidated statement of comprehensive income
+90
+Consolidated statement of financial position
+91
+Consolidated statement of changes in equity
+92
+Consolidated statement of cash flows
+93
+Financial notes, consolidated
+119
+Parent company income statement
+120
+Parent company balance sheet
+121
+Parent company statement of changes in equity
+121
+Parent company cash flow statement
+122
+Financial notes, Parent company
+130
+Certification and signatures
+131
+Auditor’s report and opinion
+135
+Definitions
+137
+Annual general meeting, terms and acronyms, addresses
+The audited annual report for Sinch AB (publ) 556882-8908 consists of 
+the management report including the statutory sustainability report and 
+the accompanying financial statements on pages 33–129 and Deloitte AB 
+has submitted a statement on the fact that a statutory sustainability report 
+in accordance with the requirements of the Annual Accounts Act has been 
+prepared. The annual report and the sustainability report are published in 
+Swedish and English. The official version of the annual report is the Swedish 
+version signed by the Board of Directors or through the common European 
+electronic format (ESEF). The annual report and the ESEF sustainability 
+report are published on www.sinch.com.
+3
+Sinch Annual Report 2025
+
+About Sinch 
+Our vision is to connect every business with every customer, everywhere in the world. With 
+the industry’s most trusted foundation for intelligent customer communications, Sinch powers 
+over 900 billion interactions annually for more than 200,000 customers across the globe. 
+Leading global companies, including AI innovators, rely on Sinch to strengthen customer 
+relationships and deliver seamless experiences across messaging, voice and email. Profitable 
+since its founding in 2008, Sinch generated net sales of SEK 27.1 billion in 2025 and has over 
+4,000 employees in 59 countries, with headquarters in Stockholm. Sinch is listed on Nasdaq 
+Stockholm (XSTO: SINCH). Visit us at sinch.com.
+SEK 27,080m
+200,000+
+59
+Net sales
+Customers
+Countries with local presence
+4,040
+SEK 9,426m
+900+
+Employees at year-end 20251)
+Gross profit
+Billion customer interactions per year – 
+messages, voice calls and emails
+Americas
+Share of net sales 63% 
+Share of gross profit 63% 
+Share of employees1) 39%
+EMEA
+Share of net sales 24% 
+Share of gross profit 22% 
+Share of employees1) 31%
+APAC
+Share of net sales 13% 
+Share of gross profit 15% 
+Share of employees1) 30% 
+1)  Employees including consultants (FTE) as of December 31, 2025.
+Share of net sales
+Share of net sales
+Share of net sales
+About Sinch
+63%
+24%
+13%
+4
+Sinch Annual Report 2025
+
+Products
+Investment in AI
+In 2025, we made meaningful progress towards strengthening 
+the intelligence of our communications platform and setting the 
+foundation for the next era of AI-driven engagement. Throughout 
+the year, we expanded AI capabilities across our product portfolio 
+to make customer interactions smarter and easier to develop. We 
+enhanced real-time intelligence, safety and workflow automation 
+in our omnichannel APIs. Capabilities include natural language 
+understanding, sentiment analysis, speech and image recognition, 
+harmful content detection and automatic redaction of sensitive 
+information.
+We built shared AI components that now power multiple Sinch 
+applications. These make it faster for users to manage campaigns 
+and create content. Email and messaging workflows also became 
+more intuitive with AI-assisted writing, subject line optimization and 
+around-the-clock virtual assistants. New connectors now allow 
+customers to bring AI-driven automation into the third-party tools 
+they use every day. We also introduced capabilities of reviewing 
+campaigns automatically, for accuracy, compliance and faster 
+approvals at scale.
+ 
+These advancements are made possible by combining our channel 
+excellence with AI and orchestration of communication flows. 
+More than 900 billion interactions each year, touching most of the 
+world’s mobile numbers and email addresses, give us a deep, real-
+time understanding of how digital identities behave and interact 
+across channels. This includes which contacts are reachable, how 
+audiences engage and signals that help identify fraud or suspicious 
+behavior. This scale and global reach create a durable advantage 
+that is difficult to replicate.
+Looking forward, we will continue developing agent-driven 
+solutions that make our products even smarter. By building 
+on intelligence generated from a vast volume of customer 
+interactions, we let businesses automate conversations, streamline 
+workflows and deliver more trusted and meaningful user 
+experiences.
+Collectively, these achievements reflect our commitment to 
+providing an intelligent, secure and scalable foundation for the 
+world’s digital communications.
+19
+Sinch Annual Report 2025
+
+The Americas is Sinch’s largest operating segment, generating 
+63 percent of consolidated net sales and gross profit. The 
+region covers both North and Latin America, with North America 
+contributing about 96 percent of the segment’s gross profit. The 
+United States and Brazil are the two countries contributing the 
+most to gross profit.
+Sinch’s customer base in the region ranges from small businesses 
+using Sinch Applications to many of the largest U.S. enterprises, 
+which leverage Sinch’s APIs and Network Connectivity services.
+Operating segments
+Operating segments
+Sinch’s business structure consists of three operating segments: Americas, EMEA and APAC.
+Americas
+Sinch Americas overview
+Key developments in 2025
+•	 Continued enterprise growth through new agreements with two 
+Fortune 10 companies, increasing the total number of Fortune 
+10 customers to seven.
+•	 Signed partner agreements with Authvia to power payment-
+enabled messaging across North America and with OneReach 
+for Agentic AI. 
+•	 Launched a service that helps emergency call centers identify 
+and manage 911 network outages in line with U.S. regulatory 
+requirements.
+Powering communications for the world’s biggest brands 
+85,210
+SEK 16,980m
+Customers
+Net sales
+1,5821)
+SEK 5,916m
+Employees
+Gross profit
+Tech
+Financial services
+Telco
+Retail
+Travel and transport
+1) Employees including consultants (FTE) as of December 31, 2025.
+Net sales
+	 7%	
+Applications  
+	 65%	 API Platform 
+	 28%	 Network Connectivity
+Gross profit
+	 14%	 Applications  
+	 57%	 API Platform 
+	 29%	 Network Connectivity
+20
+Sinch Annual Report 2025
+
+Operating segments
+Customer case
+How Avtal increased recovery rates by  
+more than 50 percent with SMS and email
+Avtal, a U.S.-based financial services technology company, is 
+transforming how debt collection agencies and creditors collect 
+on delinquent accounts. Instead of relying on traditional call 
+centers, the company enables consumers to resolve accounts 
+through familiar channels such as SMS and email. This approach 
+boosts recovery rates, while giving consumers a friendlier, more 
+transparent experience.
+With confusing communication, unfamiliar caller IDs and agents 
+focused on quotas, people are often hesitant to respond to 
+traditional debt collection methods. Avtal set out to fix that.
+Powering a modern messaging system
+To fulfill its mission, Avtal needed a messaging partner that could 
+provide direct carrier connections, handle compliance in a heavily 
+regulated industry and scale up to millions of messages every 
+month. Sinch’s reliability, compliance and scale made it a natural fit. 
+With Sinch, Avtal can securely reach consumers on familiar 
+channels while ensuring that all messages meet carrier and 
+regulatory requirements. The platform supports everything from 
+10DLC (a U.S.-approved business texting channel that uses a 
+standard-looking 10-digit phone number configured for business 
+use) to short code registration and is also preparing for new 
+channels like RCS.
+Now, Avtal’s consumers receive a simple text or email with a 
+payment portal link. This lets them view balances, enroll in payment 
+plans, or dispute charges without picking up the phone. The added 
+flexibility leads to higher engagement, building trust and delivering 
+stronger outcomes for Avtal’s clients.
+The results are clear: recovery rates have increased and messaging 
+volumes are growing rapidly, with seven million messages sent in a 
+single month.
+Khaled Bittar, CEO of Avtal, noted, “By introducing SMS, MMS, RCS 
+and email, recovery rates have increased by 50 to 70 percent, 
+depending on the industry.”
+Scaling together for future growth
+What started as a search for reliable messaging infrastructure has 
+grown into a collaborative partnership. Sinch provides the technical 
+foundation and works closely with Avtal to plan new features, 
+troubleshoot issues and prepare for future growth.
+“There’s a ton of documentation that makes it friendly for our 
+engineering team. And on the support side, we get amazingly quick 
+responses,” Khaled said.
+With Sinch handling the complexity of scaling messaging, Avtal 
+can focus on making account resolution more transparent, 
+respectful and effective.
+Overview
+Challenge: modernize communication for debt resolution
+Solution: compliant SMS and email with carrier expertise
+Results: higher recovery rates and scalable growth through 
+well-informed consumers
+Sinch’s tech is really well 
+built out, there’s a ton of 
+documentation that makes it 
+friendly for our engineering 
+team. And then on the support 
+side, we get amazingly quick 
+responses.
+Khaled Bittar
+CEO, Avtal
+21
+Sinch Annual Report 2025
+
+The EMEA operating segment serves Sinch customers across 
+Europe, the Middle East and Africa, contributing approximately 22 
+percent of Sinch’s gross profit. Most of the business comes from 
+customers in Europe, with the UK and France making the largest 
+contributions to gross profit.
+About half of the gross profit is generated by large enterprise 
+customers, while medium-sized enterprises account for a smaller 
+share. The remaining profit comes from around 75,000 small 
+businesses. The technology sector is the largest industry vertical 
+in terms of gross profit, followed by telecom operators, finance, 
+retail and professional services. Indirect sales through partners and 
+ecosystems account for around 25 percent of the region’s gross 
+profit.
+EMEA
+Key developments in 2025
+•	 Leading the market in the transition to RCS, driving a 285 
+percent year-over-year surge in message volumes across the 
+region.
+•	 Capitalized on high demand from the retail and e-commerce 
+sectors by delivering advanced Conversational Marketing 
+solutions.
+•	 Expanded into the AI-native market by securing our first global 
+client and launching a strategic expansion into EMEA.
+Operating segments
+Sinch EMEA overview
+Powering communications for the world’s biggest brands 
+81,846
+SEK 6,451m
+Customers
+Net sales
+1,2301)
+SEK 2,064m
+Employees
+Gross profit
+Tech
+Financial services
+Telco
+Retail
+And more
+1) Employees including consultants (FTE) as of December 31, 2025.
+Net sales
+	 14%	 Applications  
+	 77%	 API Platform 
+	 9%	
+Network Connectivity
+Gross profit
+	 32%	 Applications  
+	 57%	 API Platform 
+	 11%	 Network Connectivity
+22
+Sinch Annual Report 2025
+
+Operating segments
+Customer case
+How Marigold delivers fast, compliant  
+mobile messaging across 75+ countries
+Sinch helped Marigold tailor routing policies for each of the bank’s 
+markets, ensuring low latency and full compliance.
+“That’s the kind of flexibility and forethought we value,” Andy says. 
+“Every SMS isn’t equal. Sinch helps us treat each one with the level 
+of care the customer deserves.”
+Faster innovation with Conversation API
+Marigold is further differentiating with new channels such as RCS, 
+which enable businesses to send interactive messages directly to a 
+user’s native messaging app, no download required.
+Through a single integration with Sinch Conversation API, Marigold 
+can quickly add and manage new channels such as WhatsApp, 
+Line and KakaoTalk, reducing the engineering team’s workload.
+Together, Marigold and Sinch are redefining fast, secure and 
+scalable messaging for global brands.
+“We hold ourselves and our partners, to a high standard as we look 
+to always keep our customers ahead of their competition,” Andy 
+shared. “But with responsive partners like Sinch, the results speak 
+for themselves.”
+Overview
+Challenge: deliver fast, compliant mobile messaging across 
+multiple countries and channels
+Solution: partner with Sinch for its global reach, low latency 
+and easy integration via Conversation API
+Results: fast, reliable messaging across 75+ countries, 
+enhancing customer satisfaction
+Marigold’s market-leading omnichannel customer engagement 
+software helps global brands build stronger customer relationships 
+through personalized experiences.
+Andy Gladwin, Vice President of Mobile at Marigold, noted that 
+delivering these kinds of experiences at a global scale, particularly 
+through mobile messaging, can present unique challenges.
+“Increasingly, our customers need a cross-channel environment 
+to meet their global customers on their preferred platforms,” said 
+Andy. “We pride ourselves on being global experts with strong 
+local execution. Collaborating with partners like Sinch allows us to 
+extend that expertise even further, ensuring we meet customers 
+where they are, with the highest quality and deliverability.”
+Powering global messaging with Sinch
+Marigold partnered with Sinch for its flexible APIs, reliable global 
+network and strong relationships with more than 600 operators 
+worldwide.
+“Sinch is part of our ecosystem,” Andy explains. “Their 
+infrastructure provides direct connectivity, minimum latency and 
+compliance for sensitive use cases, whether it’s banking traffic or 
+customer onboarding.”
+Marigold also relies on Sinch’s up-to-date industry expertise as 
+messaging technology evolves and local regulations change.
+“As we serve customers across more markets and a growing range 
+of use cases, partners like Sinch help us go beyond deliverability to 
+optimize the overall customer experience,” Andy said.
+A high-stakes use case: bank SMS at scale
+The collaboration with Sinch enables Marigold to meet clients’ 
+specific needs. Andy cited a global bank using Marigold for 
+customer engagement that required fast, reliable delivery of 
+two-factor authentication messages and fraud alerts across 75 
+countries. Delays of even a few seconds could damage customer 
+trust or increase fraud risk.
+3,000
+messages sent per day
+50%
+average response rate
+23
+Sinch Annual Report 2025
+
+The APAC operating segment serves Sinch’s customers in the Asia-
+Pacific region, with India and Australia as the largest contributing 
+countries. APAC accounts for 15 percent of Sinch’s gross profit and 
+is divided into three subregions: Australia and New Zealand, India 
+and the rest of Asia.
+Sinch serves a wide range of customers in the region, with the 
+majority being Applications customers across various sectors in 
+Australia and New Zealand. In India, Sinch has a strong base of 
+enterprise customers, particularly in the financial sector, primarily 
+utilizing its cloud-based API services. A growing number of 
+enterprises have become Sinch API customers and contribute 
+to growth in the rest of Asia. The financial sector is the largest 
+industry vertical in the region, followed by technology, telecom, 
+healthcare and retail.
+APAC
+Key developments in 2025
+•	 Increased cross-selling between products, supporting a more 
+diversified business across Asia.
+•	 Continued growth of the carrier white-label product in Australia 
+and New Zealand.
+•	 Increased customer adoption of RCS and conversational 
+messaging in India. 
+Operating segments
+Sinch APAC overview
+Powering communications for the world’s biggest brands 
+36,821
+SEK 3,649m
+Customers
+Net sales
+1,2281)
+SEK 1,446m
+Employees
+Gross profit
+Tech
+Financial services
+Telco
+Retail
+And more
+1) Employees including consultants (FTE) as of December 31, 2025.
+Net sales
+	 31%	 Applications  
+	 66%	 API Platform 
+	 3%	
+Network Connectivity
+Gross profit
+	 47%	 Applications  
+	 52%	 API Platform 
+	 1%	
+Network Connectivity
+24
+Sinch Annual Report 2025
+
+Operating segments
+Customer case
+Clothing The Gaps builds stronger  
+customer connections with Sinch SMS
+It saw the results immediately. Campaign ROI reached an 
+astounding 2,000 percent, with traffic to the Shopify site spiking 
+the moment messages went out.
+Support every step of the way
+After the Black Friday success, Clothing The Gaps and Sinch 
+quickly developed a broader communications strategy and a 
+trusted partnership. Sinch now reviews text message drafts before 
+they are sent, giving Clothing The Gaps plenty of peace of mind 
+that its SMS will resonate.
+Beyond retail campaigns, Clothing The Gaps now uses SMS to 
+power advocacy work. It sends messages for National Aboriginal 
+and Islanders Day Observance Committee (NAIDOC) Week and 
+other campaigns for action and petitions.
+It is now planning future holiday promotions and exploring how 
+SMS can support advocacy campaigns around other key dates.
+For both Clothing The Gaps and Sinch, the relationship goes 
+beyond technology, driven by shared purpose and long-term 
+growth.
+“Not only is it about generating really positive returns in the 
+campaign sense, but it’s also about spreading a really important 
+message,” Cameron said.
+Overview
+Challenge: get customers to engage with communications
+Solution: SMS campaigns with strategy and technical 
+support from Sinch Engage
+Results: instant engagement and growth
+Clothing The Gaps is an Aboriginal social enterprise with roots in 
+Wurundjeri Country, Australia. Offering everything from t-shirts 
+to tote bags, the company encourages customers to “wear their 
+values on their tee” and spark conversations that support First 
+Nations justice.
+While Clothing The Gap had built a strong community of 
+supporters, it struggled to reach people effectively. Email 
+newsletters and daily social media posts were not delivering the 
+engagement it needed.
+“We’d been using email marketing for a long time and we were 
+posting to social every day, but we weren’t seeing the cut-through 
+and open rates we were looking for,” said Laura Thompson, CEO at 
+Clothing The Gaps.
+That’s when Laura started looking at SMS to connect instantly with 
+the community.
+Working with Sinch for smart campaigns
+Clothing The Gaps wanted more than just a digital customer 
+communications platform. It needed strategic support to get it 
+right. With Sinch Engage, it gained both the technical support to 
+send SMS and the insight to reach its audience more effectively.
+That support came from Cameron Kellaghan-Tasker from Sinch, 
+who worked closely with Laura and her team to make SMS a core 
+part of their communications.
+“We were able to implement a strategy that made sense for the 
+customer base, targeting them at the source using SMS,” Cameron 
+said.
+With Sinch’s help, Clothing the Gaps created smart, segmented 
+campaigns to complement email and social. For Black Friday, 
+instead of sending messages to its entire list, it targeted the most 
+engaged customers first and rolled out messages in phases.
+We chose Sinch because of the strong 
+relationship we built with the team. As this 
+was new to us, we needed not only technical 
+support to send SMS, but also strategic 
+guidance on how to best reach and engage 
+our audience.
+Laura Thompson
+CEO and co-founder
+25
+Sinch Annual Report 2025
+
+Sustainability 
+Trust at the core of  
+our growth: Sinch  
+Sustainability Strategy 
+Sinch’s vision is to connect every business with every customer, everywhere in the world. We 
+achieve this by powering the most trusted foundation for intelligent customer communications. 
+Positioned at the heart of the global digital infrastructure, our services make everyday life more 
+engaging, informed, safe and happy for billions of people worldwide. Sinch is committed to 
+sustainability as a driver of long-term value and resilience, focused on three strategic pillars:  
+Trusted partner, Climate action and Empowered people.
+Trusted partner 
+Secure & Trusted Solutions
+Deliver secure and trusted solutions by 
+ensuring platform integrity, responsible 
+use of AI and helping our customers 
+protect their users.
+Business Ethics
+Embedding ethical practices and 
+compliance throughout our own 
+operations.
+Responsible Sourcing
+Ensuring our partners across the 
+value chain align with our values and 
+standards for environmental, social and 
+governance (ESG) performance.
+Climate action
+Decarbonizing Our Services 
+Minimizing the carbon footprint of our 
+products and services across their 
+lifecycle.
+Green Operations
+Transitioning to low-impact operations 
+through energy efficiency, fossil-free 
+energy and sustainable practices.
+Ecosystem Collaboration  
+Partnering across our value chain and 
+industry to accelerate collective climate 
+solutions.
+Empowered people
+Inclusion
+Fostering a diverse and inclusive culture 
+where everyone can be their authentic 
+selves.
+Leadership & Development 
+Building purpose-driven leaders who 
+inspire and empower high-performance 
+teams, while fostering continuous 
+learning and growth for all employees.
+Culture & Engagement 
+Promoting a healthy, value-driven 
+workplace where employees feel 
+supported, motivated and connected to 
+the company’s mission.
+26
+Sinch Annual Report 2025
+
+Management report
+33
+The company’s operations, financial 
+performance and position
+41
+Message from the Chairman of the Board
+42
+Corporate governance statement
+47
+Board of Directors and Global Leadership Team
+50
+Risks and risk management
+53
+Sustainability report
+Financial reporting 
+89
+Consolidated income statement
+89
+Consolidated statement of comprehensive income
+90
+Consolidated statement of financial position
+91
+Consolidated statement of changes in equity
+92
+Consolidated statement of cash flow
+93
+Financial notes: Group
+119
+Parent company income statement
+120
+Parent company balance sheet
+121
+Parent company statement of changes in equity
+121
+Parent company cash flow statement
+122
+Financial notes: Parent
+130
+Certification and signatures
+131
+Auditor’s report and opinions
+135
+Definitions
+137
+Annual general meeting, terms and acronyms, addresses
+Financial  
+information
+Contents
+Sinch Annual Report 2025
+32
+
+Management report
+Management report
+Business and organization
+Sinch is a leading vendor of digital customer engagement services. 
+Powered by the Sinch cloud communications platform, enterprises 
+can reach every person on the planet – within a second or two – via 
+messaging, voice calls and email. 
+The business is structured in three geographical regions, which 
+make up Sinch’s operating segments: Americas, EMEA and APAC. 
+Americas is Sinch’s largest operating segment and contributes more 
+than 60 percent of consolidated net sales and gross profit. The 
+region includes both North and Latin America with the US and Brazil 
+being the largest contributing countries.
+The EMEA operating segment serves Sinch customers across 
+Europe, the Middle East and Africa with the largest contributing 
+countries being the UK and France.
+The APAC operating segment serves Sinch customers throughout 
+the Asia-Pacific region, with India and Australia as the largest 
+contributing countries. 
+As a complement to the operating segments, Sinch’s products are 
+divided into three product categories that are related in terms of 
+sales channels, platforms, technology and organizational structure: 
+Applications, API Platform and Network Connectivity.
+Applications is a category of products that target business users and 
+consists of software applications for customer interaction, such as 
+email and SMS-based marketing campaigns. 
+Products in the API Platform category target developers and 
+businesses with high IT maturity. APIs enable businesses to generate 
+mobile messaging, voice calls and email using Sinch cloud services.
+Network Connectivity mainly target telecom carriers. The portfolio 
+includes services to manage carrier-to-carrier voice calls, 
+emergency calls and SMS-related software.
+Sinch’s business consists of cloud-based customer communications. 
+Accordingly, intangible assets are the core of the business and 
+critical to long-term value creation. The capacity to deliver and 
+maintain customer trust depends upon these assets. Sinch’s key 
+resources are mainly its technology, customer relationships, network 
+and operator relationships, brands and employees.
+These resources are the foundation of the Sinch offering and power 
+the company’s global reach and technological solutions that lead to 
+long-term and valuable relationships. 
+Significant events during the financial year
+During the year, the following events have been communicated:
+IDC recognized Sinch in February as a leader in the IDC CPaaS 
+MarketScape for the third time in recent years. IDC highlighted 
+Sinch’s global reach and local presence in 60+ countries worldwide 
+as a strong foundation for reliable performance and expertise. IDC 
+also noted that Sinch’s comprehensive portfolio addresses the 
+needs of businesses and user groups.
+Sinch launched the RCS Business Enablement Service in March - a 
+solution that helps operators launch and manage RCS for Business 
+securely and efficiently.
+Jonas Dahlberg took over as the new CFO of Sinch on the first of 
+April. “We are very pleased to welcome Jonas Dahlberg to Sinch. 
+His extensive experience from scaled, global businesses and proven 
+ability to drive both growth and profitability improvements will be a 
+great asset to Sinch as we now focus on execution and accelerated 
+growth,” says Laurinda Pang, CEO.
+Sinch announced a new partnership with Authvia in May. The 
+partnership enables businesses to offer seamless and secure mobile 
+payments directly within messaging channels such as SMS, RCS and 
+WhatsApp—accelerating the shift toward transaction-ready digital 
+conversations.
+Sinch was also recognized as a Leading RCS Vendor by ROCCO and 
+received an award as a Tier 1 vendor, a recognition based on direct 
+feedback from mobile operators across 64 countries.
+In June, Sinch launched Mailgun Inspect, a powerful new API-first 
+solution that enables partners to embed robust email testing and 
+quality assurance tools directly in their platforms.
+That same month, Sinch published “The state of customer 
+communications,” a market study that showed that nearly all 
+businesses planned to integrate artificial intelligence in their 
+customer communications in 2025. The report showed that AI 
+will play a key role in changing how businesses create seamless 
+experiences across customer communication channels.
+Sinch informed the market about its Model Context Protocol (MCP) 
+in July. MCP ensures that AI agents can successfully execute actions 
+through Sinch’s Global Customer Communications Cloud Platform.
+Also in July, research firm Gartner named Sinch a Magic Quadrant 
+Leader for CPaaS for the third year running.
+Sinch was founded with a cost-conscious ethos and scalability as a fundamental principle and with 
+the goal of making it easy for businesses to communicate with their customers.  Sinch has always 
+had sharp focus on growing the business organically while delivering solid profitability. In parallel, 
+the company has successfully executed several strategic acquisitions to widen our offering, add new 
+sales channels and generate economies of scale.
+33
+Sinch Annual Report 2025
+
+Management report
+The Board of Directors of Sinch decided in July to initiate a buyback 
+of up to 10 percent of total shares outstanding in the company.  
+In August, Sinch went live with RCS for Business with all major Tier 
+1 U.S. mobile operators, giving businesses across the US the ability 
+to transform the way they engage with their customers through 
+verified, conversational experiences.
+Daniel Morris took over as the new Chief Product Officer on the 
+first of October. “I am delighted to welcome Daniel to the Global 
+Leadership Team following a thorough recruitment process,” said 
+Laurinda Pang. “Daniel steps into this role at a pivotal time as AI 
+creates transformative opportunities in our sector. His product vision 
+and strong operational execution will be key to ensuring our portfolio 
+remains industry-leading and continues to deliver exceptional value 
+to our customers.”
+Sinch informed the market in November of the company’s strong 
+position within AI as AI innovators across all regions now use the 
+company’s API products.
+Sinch published its predictions regarding customer communications 
+and how AI is rewriting the rules of digital communication heading 
+into 2026.
+Sinch announced in December the appointment of Lindy 
+Puttkammer as the new Chief Human Resources Officer, effective 
+January 1, 2026. “It is always a special moment when we are able 
+to promote an exceptional leader from within our own organization,” 
+said Laurinda Pang. “Lindy’s deep understanding of our culture and 
+business, combined with her comprehensive expertise, makes her 
+the ideal person to lead our HR department forward. I am confident 
+that she will build on our success and continue to develop our global 
+talent.”
+Important events after the end of the 
+financial year
+Sinch bought back an additional 12,260,000 shares in January 
+2026, after which the total number of repurchased shares 
+corresponded to 8.8 percent of total shares outstanding.
+Sinch entered into a 2-year credit agreement of SEK 1,000m 
+with the Swedish Export Credit Corporation for the purpose of 
+refinancing existing loans in the beginning of 2026. And after the 
+release of the year-end report Sinch secured a new 18-months SEK 
+1,000m loan from Nordea and a new 18-months SEK 1,000m loan 
+from SEB, with proceeds used for general corporate purposes and 
+refinancing of existing loans.
+An EGM was held in February, at which shareholders resolved to 
+reduce share capital by SEK 742,112.94 by canceling 74,211,294 
+previously repurchased shares. The decision was made to give the 
+Board of Directors a renewed option to resolve on further share 
+buybacks under the current mandate. The EGM simultaneously 
+decided in favor of a bonus issue of SEK 742,112.94 to restore 
+share capital to its original level before the reduction.
+Following the Extraordinary General Meeting and until the date 
+on which the content of the annual and consolidated financial 
+statements was decided, an additional 55,468,649 shares were 
+repurchased.
+In April, Sinch announced the appointment of Jonathan Bean as the 
+new Executive Vice President, EMEA & Global Partnerships after 
+Nicklas Molin who will leave Sinch at the end of April. Jonathan Bean 
+transitions from his role as Chief Marketing Officer, which he has 
+held since 2019, and will lead Sinch’s EMEA business and global 
+partner ecosystem. Sinch has initiated the search for a new Chief 
+Marketing Officer.
+Sinch Group overview  
+SEKm
+2025 
+2024 
+Δ% 
+Net sales
+27,080
+28,712 
+-6%
+Gross profit
+9,426
+9,685 
+-3%
+Gross margin
+35%
+34% 
+- 
+EBITDA
+3,195
+2,665 
+20%
+EBITDA margin
+12%
+9% 
+- 
+Adjusted EBITDA
+3,605
+3,586 
+1%
+Adjusted EBITDA margin
+13%
+12% 
+- 
+Adjusted EBITDA/gross profit
+38%
+37% 
+- 
+EBIT
+863
+–5,807 
+- 
+EBIT margin
+3%
+-20% 
+- 
+Adjusted EBIT
+3,026
+3,066 
+1%
+Adjusted EBIT margin
+11%
+11% 
+- 
+Profit or loss for the year
+217
+–6,413 
+- 
+Cash flow from operating activities
+2,103
+2,944 
+-29% 
+Cash and cash equivalents
+553
+1,083 
+-49%
+For a list and definitions of financial measurements defined or not 
+defined under IFRS and for operational measurements, see pages 
+135-136.
+Net sales
+Consolidated net sales decreased slightly in the 2025 financial year 
+to SEK 27,080m (28,712). The currency headwind on consolidated 
+net sales was 6 percent. Net sales increased organically by 1 
+percent.
+Gross profit
+Gross profit decreased by 3 percent to SEK 9,426m (9,685). 
+Organic growth was 4 percent. The currency headwind was  7 
+percent, corresponding to SEK -644m. 
+The gross margin was 35 percent (34).
+Operating profit
+Consolidated EBITDA increased by 20 percent to SEK 3,195m 
+(2,665). Adjusted EBITDA amounted to SEK 3,605m (3,586).
+EBIT amounted to SEK 863m (-5,807). Adjusted EBIT was SEK 
+3,026m (3,066). Adjusted EBITDA and Adjusted EBIT are reported to 
+clarify performance in underlying operations. See also G4.
+Sinch incurred combined integration and restructuring costs in 2025 
+of SEK 210m.
+34
+Sinch Annual Report 2025
+
+Financial reporting 
+98 
+Sinch Annual Report 2025 
+Revenue recognition  
+Key sources of estimation uncertainty  
+The Group uses estimates and judgments to determine the 
+amounts and dates of revenue recognition, particularly in order to 
+determine the transaction price and its allocation among identified 
+contractual performance obligations. The transaction price, 
+including variable consideration, is estimated at contract inception 
+and periodically thereafter. Judgments are used in the estimation 
+process based on past experiences with the type of business or 
+customer class. This includes possible price adjustments based on 
+the most recent information available concerning contract 
+negotiations, which could have retroactive impact on the prices of 
+previously ordered or delivered services. Net sales in 2025 
+amounted to SEK 27,080m (28,712). See G5.  
+Judgments related to application of consolidated accounting 
+policies  
+Revenue for services is recognized when control of the service has 
+been transferred to the customer. This evaluation should be made 
+from a customer perspective, taking into account indicators such 
+as the transfer of the significant risks and rewards of ownership, 
+the customer’s acceptance of the asset, access and the right to 
+invoice. Judgments may be required to evaluate whether risks and 
+rights have been transferred to the customer and whether the 
+customer has accepted the services. All indicators of control 
+transfer are often considered as a whole to determine whether the 
+transfer of control has occurred in a customer contract. 
+Management evaluates on an ongoing basis the customer’s ability 
+and intention to pay according to contract. The evaluation is based 
+on the customer’s latest credit report and payment history. The 
+evaluation may change during fulfillment of the contract and if 
+there is evidence that the customer’s ability or intention to pay has 
+deteriorated, there should be no further recognition of revenue 
+until the payment criteria have been satisfied. 
+Impairment testing of goodwill and other intangible assets  
+Key sources of estimation uncertainty 
+Goodwill is not amortized; it is tested for impairment annually and 
+when there is indication that an impairment loss has occurred. 
+Other intangible assets are amortized over the estimated useful life 
+of the asset. Impairment testing is carried out by assessing the 
+recoverable amount of the cash-generating unit and requires 
+management to make several key assumptions. Calculation of the 
+recoverable amount is based on management’s updated business 
+plans and forecasts for future discounted cash flows. Key 
+assumptions used to prepare the impairment test are described 
+further in G13. A significant change in key assumptions could have 
+material impact on the carrying amount of goodwill.  
+Although no impairment of goodwill was identified during the year, 
+a goodwill impairment of SEK 6,000m had negative impact on EBIT 
+during the comparison period, which is reported under the line item 
+“Depreciation, amortization and impairments” on the consolidated 
+income statement. As of December 31, 2025, acquisition-related 
+intangible assets amounted to SEK 27,715m (33,562), including 
+goodwill of SEK 17,596m (20,343).  
+Judgments related to application of consolidated accounting 
+policies 
+In connection with initial recognition and subsequent 
+remeasurements, management assesses both the parameters 
+used when cash flow forecasts are prepared as well as when there 
+are indications of impairment. Judgment is also required to define 
+cash-generating units for impairment testing.  
+Deferred tax 
+Key sources of estimation uncertainty  
+Valuation of deferred tax assets entails judgment concerning the 
+tax deductibility of costs that are not yet taxable and estimations 
+regarding sufficient future taxable income that would allow the use 
+of loss carryforwards (LCFW) and/or unused tax credits in various 
+tax jurisdictions. All deferred tax assets are subject to annual 
+review of probable use. Valuation of temporary differences, LCFW 
+and tax credits are based on management’s estimations of future 
+taxable income in various tax jurisdictions against which temporary 
+differences and LCFW can be used. These judgments are based 
+primarily on business plans for the Group’s assessed outcomes 
+regarding future taxable profit. Deferred tax assets amounted to 
+SEK 1,179m (1,273) as of December 31, 2025. See G11 for more 
+information.  
+Provisions for other taxes 
+Key sources of estimation uncertainty 
+Provisions are recognized when the Group has, or can be 
+considered to have, an obligation as a result of a past event and it 
+is probable that an outflow of economic resources will be required 
+to settle the obligation. It must also be possible to reliably estimate 
+the amount.  
+Provisions are uncertain by nature and are based on multiple 
+assumptions and management’s best estimation of the expected 
+outcome. The company is reporting a provision of SEK 700m 
+related to non-income-based taxes for historical periods on the 
+statement of financial position per December 31, 2025. This 
+provision is based on several assumptions, of which the most 
+significant are the application of taxes to Sinch’s services, which 
+jurisdictions the company believes may demand historical taxes 
+and the tax base for revenues from these jurisdictions. Sinch is not 
+presently subject to tax assessment or audit in any of the 
+jurisdictions related to this provision. If relevant jurisdictions 
+interpret these assumptions differently, there may be a different 
+outcome.  
+See G24 for further information about provisions. 
+Other judgments and estimations 
+Valuation of cost of services sold  
+Sources of estimation uncertainty  
+Accrual of the costs of services sold requires estimates to minimize 
+the risk of future differences. The cost of services sold in Sinch’s 
+messaging services arises when each mobile network operator 
+charges a fee per message. The subsequent billing from mobile 
+operators often occurs many months after the traffic was 
+generated. As a result, costs are accumulated as accrued costs 
+until billing has occurred.  
+Judgments and estimates of reserves related to accrued traffic 
+costs are part of the monthly process to account for traffic costs 
+in a manner that provides a fair picture. These estimations are 
+based on past experience and several other assumptions deemed 
+reasonable under the circumstances. The cost of services sold 
+amounted to SEK 17,564m (19,026) for the 2025 financial year 
+and the accrued traffic costs amounted to SEK 2,326m (2,351) as 
+of December 31, 2025.  
+Accounting for income tax, VAT and other taxes  
+Sources of estimation uncertainty  
+Accounting for income tax is based on evaluation of income tax in 
+all tax jurisdictions where profits arise. According to that set down 
+in IFRIC 23, uncertainty over income tax treatment is considered 
+only if and in connection with accounting for and valuation of 
+income tax items in the financial statements. Assets related to VAT 
+
+Financial reporting 
+Sinch Annual Report 2025 
+99 
+and other taxes are considered separately for use in each tax 
+jurisdiction in accordance with local regulations. The total 
+complexity of the rules that concern taxes and accounting for 
+taxes require management’s involvement in judgments of the 
+classification of transactions and in estimations of the probable 
+outcomes of claimed deductions and/or disputes. 
+G4. Segment reporting 
+ 
+ 
+ 
+ 
+An operating segment is a component of an entity that engages in 
+business activities from which it may earn revenues and incur 
+expenses and for which financial information is available. An 
+operating segment’s gross profit or loss is subsequently reviewed 
+by the entity’s chief operating decision maker (CODM) in order to 
+assess the performance of and allocate resources to the operating 
+segment. The CEO of Sinch has been identified as the CODM.  
+Each operating segment has a managing director who is 
+responsible for day-to-day operations and who regularly reports 
+the outcomes of the operating segment’s performance to the 
+CODM. Assets and liabilities are not monitored by the CODM 
+broken down by operating segment. Non-current assets include 
+intangible assets, property, plant and equipment and ROU assets. 
+The Group’s operating segments are Americas, EMEA and APAC. 
+These three regions represent the domiciles of our customers. See 
+also Definitions. Note that items below Gross profit are not 
+allocated to the segments. 
+ 
+ 
+ 
+ 
+ 
+Non-current assets by region 
+2025, SEKm
+Americas
+EMEA
+APAC 
+Other
+Group
+Net sales
+16,980
+6,451
+3,649
+-
+27,080
+Cost of services sold 
+-11,064
+-4,387
+-2,203
+-
+-17,654
+Gross profit 
+5,916
+2,064
+1,446
+-
+9,426
+Opex
+-
+-
+-
+-6,231
+-6,231
+EBITDA
+-
+-
+-
+3,195
+3,195
+EBITDA adjustments
+-
+-
+-
+410
+410
+Adjusted EBITDA
+-
+-
+-
+3,605
+3,605
+Depreciation / amortization and impairment
+-
+-
+-
+-
+-2,333
+EBIT
+-
+-
+-
+-
+863
+Net financial income or expense 
+-
+-
+-
+-
+-390
+Profit or loss before tax
+-
+-
+-
+-
+472
+2024, SEKm
+Americas
+EMEA
+APAC 
+Other
+Group
+Net sales
+18,109
+6,640
+3,963
+-
+28,712
+Cost of services sold 
+-12,111
+-4,521
+-2,395
+-
+-19,026
+Gross profit 
+5,998
+2,119
+1,568
+-
+9,685
+Opex
+-
+-
+-
+-7,020
+-7,020
+EBITDA
+-
+-
+-
+2,665
+2,665
+EBITDA adjustments
+-
+-
+-
+-921
+-921
+Adjusted EBITDA
+-
+-
+-
+3,586
+3,586
+Depreciation / amortization and impairment
+-
+-
+-
+-
+-8,473
+EBIT
+-
+-
+-
+-
+-5,807
+Net financial income or expense 
+-
+-
+-
+-
+-428
+Profit or loss before tax
+-
+-
+-
+-
+-6,235
+SEKm
+2025
+2024
+Americas
+Brazil
+1,839
+2,009
+Mexico
+119
+130
+USA
+21,862
+27,519
+Rest of the region
+23
+26
+EMEA
+Belgium
+55
+54
+Denmark
+152
+170
+Finland
+948
+1,014
+France
+2,099
+2,358
+Netherlands
+756
+905
+United Kingdom
+695
+823
+Sweden
+425
+404
+Germany
+460
+537
+Rest of the region
+53
+55
+APAC 
+Australia
+2,882
+3,313
+India
+452
+593
+Rest of the region
+26
+40
+Total
+32,847
+39,950 
+
+Financial reporting 
+100 
+Sinch Annual Report 2025 
+G5. Net sales 
+Net sales are broken down by product categories and regions, see 
+Definitions for more information. Of total net sales, SEK 3,558m 
+(3,350) refers to a single customer, which is attributable to the API 
+Platform product category and mainly to the Americas region.  
+Sinch uses the exception (under IFRS 15.121) relating to 
+unsatisfied performance obligations referring to contracts that will 
+be realized within 12 months. See G20and G25 for disclosures of 
+contract balances. 
+ 
+ 
+1) Revenues are recognized at a point in time or over the period in which the performance obligation is satisfied, which is determined based on the manner in which control is 
+transferred to the customer. See further details in G2. 
+ 
+ 
+1) Revenues are recognized at a point in time or over the period in which the performance obligation is satisfied, which is determined based on the manner in which control is 
+transferred to the customer. See further details in G2. 
+ 
+Significant countries’ net sales 
+  
+2025, SEKm
+Americas
+EMEA
+APAC 
+Group
+Net sales by product category 
+Applications 
+1,138
+931
+1,138
+3,207
+API Platform 
+11,075
+4,975
+2,411
+18,461
+Network Connectivity 
+4,767
+544
+100
+5,412
+Total
+16,980
+6,451
+3,649
+27,080
+Net sales allocation per point in time ¹
+Over time 
+8,441
+972
+280
+9,692
+At one point in time 
+8,539
+5,479
+3,370
+17,388
+Total
+16,980
+6,451
+3,649
+27,080
+2024, SEKm
+Americas
+EMEA
+APAC 
+Group
+Net sales by product category 
+Applications 
+1,201
+930
+1,223
+3,354
+API Platform 
+12,038
+5,086
+2,633
+19,758
+Network Connectivity 
+4,870
+624
+106
+5,601
+Total
+18,109
+6,640
+3,963
+28,712
+Net sales allocation per point in time ¹
+Over time 
+8,891
+972
+271
+10,134
+At one point in time 
+9,218
+5,668
+3,692
+18,578
+Total
+18,109
+6,640
+3,963
+28,712
+SEKm
+Region
+2025
+2024
+USA
+Americas
+15,231
+16,420
+United Kingdom
+EMEA
+2,160
+2,051
+India
+APAC 
+1,390
+1,695
+Australia
+APAC 
+1,086
+1,150
+France
+EMEA
+936
+933
+Brazil
+Americas
+832
+772
+Singapore
+APAC 
+543
+532
+Germany
+EMEA
+492
+472
+Sweden
+EMEA
+475
+572
+Netherlands
+EMEA
+442
+408
+Rest of the world
+3,494
+3,707
+Total
+27,080
+28,712
+
+Auditor’s report 
+134 
+Sinch Annual Report 2025 
+meets the requirements of Chapter 16, Section 4(a) of the Swedish 
+Securities Market Act (2007:528), based on the procedures 
+performed. 
+RevR 18 requires us to plan and execute procedures to achieve 
+reasonable assurance that the Esef report is prepared in a format 
+that meets these requirements. 
+Reasonable assurance is a high level of assurance, but it is not a 
+guarantee that an engagement carried out according to RevR 18 
+and generally accepted auditing standards in Sweden will always 
+detect a material misstatement when it exists. Misstatements can 
+arise from fraud or error and are considered material if, individually 
+or in aggregate, they could reasonably be expected to influence the 
+economic decisions of users taken on the basis of the Esef report. 
+The firm applies International Standard on Quality Management 1, 
+which requires the firm to design, implement and operate a system 
+of quality management including policies or procedures regarding 
+compliance with ethical requirements, professional standards and 
+applicable legal and regulatory requirements. 
+The examination involves obtaining evidence, through various 
+procedures, that the Esef report has been prepared in a format that 
+enables uniform electronic reporting of the annual accounts and 
+consolidated accounts. The procedures selected depend on the 
+auditor’s judgment, including the assessment of the risks of material 
+misstatement in the report, whether due to fraud or error. In 
+carrying out this risk assessment, and in order to design audit 
+procedures that are appropriate in the circumstances, the auditor 
+considers those elements of internal control that are relevant to the 
+preparation of the Esef report by the Board of Directors and the 
+Managing Director, but not for the purpose of expressing an opinion 
+on the effectiveness of those internal controls. The examination also 
+includes an evaluation of the appropriateness and reasonableness 
+of assumptions made by the Board of Directors and the Managing 
+Director. 
+The procedures mainly include a validation that the Esef report has 
+been prepared in a valid XHMTL format and a reconciliation of the 
+Esef report with the audited annual accounts and consolidated 
+accounts. 
+Furthermore, the procedures also include an assessment of whether 
+the consolidated statement of financial performance, financial 
+position, changes in equity, cash flow and disclosures in the Esef 
+report have been marked with iXBRL in accordance with what 
+follows from the Esef regulation. 
+The auditor’s examination of the corporate governance statement 
+The Board of Directors is responsible for that the corporate 
+governance report on pages 41-46 has been prepared in 
+accordance with the Annual Accounts Act. 
+Our examination of the corporate governance report is conducted 
+in accordance with FAR’s standard RevR 16 The auditor’s 
+examination of the corporate governance statement. This means 
+that our examination of the corporate governance report is 
+different and substantially less in scope than an audit conducted in 
+accordance with International Standards on Auditing and generally 
+accepted auditing standards in Sweden. We believe that the 
+examination has provided us with sufficient basis for our opinions. 
+A corporate governance report has been prepared. Disclosures in 
+accordance with chapter 6 section 6 the second paragraph points 
+2-6 of the Annual Accounts Act and chapter 7 section 31 the 
+second paragraph the same law are consistent with the other parts 
+of the annual accounts and consolidated accounts and are in 
+accordance with the Annual Accounts Act. 
+ 
+Deloitte AB, was appointed auditor of Sinch AB (publ) by the 
+general meeting of the shareholders on the 2025-05-22 and has 
+been the company’s auditor since 2012-02-01. 
+ 
+Stockholm, April 22 2026 
+Deloitte AB 
+ 
+Refer to signature on the Swedish original 
+ 
+Johan Telander 
+Authorized Public Accountant 
+ 
+ 
+
+Definitions 
+Sinch Annual Report 2025 
+135 
+Definitions 
+Regions 
+The Sinch operating model and operating segments are based on 
+three geographical regions: Americas, EMEA and APAC. The 
+regions represent the domiciles of our customers. 
+Product categories 
+Sinch discloses supplementary financial information across three 
+product categories. 
+Applications 
+This product category targets business users and consists of 
+software applications for customer engagement, supporting use 
+cases across marketing, operations and customer care.  
+API Platform 
+Products within this category target developers and product 
+managers. APIs allow businesses to trigger mobile messaging, 
+voice calling and emails from their own internal or third-party IT 
+systems. 
+Network Connectivity 
+Network Connectivity products target telecom operators and 
+wholesale voice buyers. The portfolio primarily includes voice and 
+messaging interconnect services, operator software and services.  
+Financial measurements defined under IFRS: 
+Earnings per share, basic and diluted  
+Definition: Net profit for the period attributable to owners of the 
+parent divided by the volume-weighted average number of shares 
+outstanding in the period before/after dilution. 
+Financial measurements not defined under 
+IFRS: 
+The company presents certain financial measurements that are not 
+defined under IFRS. The company believes that these 
+measurements provide useful supplemental information to 
+investors and the company’s management for reasons including 
+that they facilitate evaluation of the company’s performance. 
+Because not all companies calculate financial measurements in the 
+same way, these are not always comparable to measurements 
+used by other companies. These financial measurements should 
+therefore not be considered a substitute for measurements defined 
+under IFRS. Please refer to investors.sinch.com for a reconciliation 
+of these financial measurements and organic growth.  
+Gross profit  
+Definition: Net sales less the cost of services sold. 
+Purpose: A large share of Sinch’s cost of services sold consists of 
+traffic fees paid to mobile operators. Traffic fees differ significantly 
+from one country to the next. Changes in traffic patterns and 
+volume mix can have high impact on net sales and the gross 
+margin even though there is no effect on gross profit in absolute 
+numbers.  
+Gross margin  
+Definition: Gross profit in relation to net sales.  
+Purpose: The gross margin reflects the percentage of sales that 
+comprises internal value creation and is not passed on to suppliers. 
+Gross profit growth  
+Definition: Gross profit for the year divided by gross profit in the 
+preceding year.  
+Operating expenses (Opex) 
+Definitions: Opex is defined as the difference between gross profit 
+and EBITDA and consists of the following items: Other operating 
+income, Work performed by the entity and capitalized, Other 
+external expenses, Employee benefits expenses and Other 
+operating expenses. 
+EBITDA 
+Definition: Profit for the period before financial income, financial 
+expenses, tax and depreciation, amortization and impairments of 
+property, plant and equipment and intangible assets.  
+Purpose: Enables comparisons of profitability over time, regardless 
+of the effects of the rate of depreciation and amortization of non-
+current assets, financing structure and the corporation tax rate.  
+EBIT 
+Definition: Profit for the period before financial income, financial 
+expenses and tax.  
+Adjusted operating expenses (Adjusted Opex) 
+Definition: Adjusted Opex is defined as the difference between 
+gross profit and Adjusted EBITDA and consists of the following 
+items: Other operating income, Work performed by the entity and 
+capitalized, Other external expenses, Employee benefits expenses, 
+Other operating expenses and EBITDA adjustments. 
+Sales and marketing expenses 
+Definition: Expenditures associated with promoting and selling our 
+products, including acquiring new customers and managing 
+existing customer relationships.  
+Research and development expenses 
+Definition: Expenditures associated with the development, 
+improvement and technical operations of our products, net of 
+capitalized software development.  
+General and administrative expenses 
+Definition: Expenditures for support functions such as finance, 
+human resources, facilities, information technology and other 
+administrative functions. 
+Acquisition costs 
+Definition: Acquisition costs are such costs incurred as a 
+consequence of a business combination. 
+Integration costs 
+Definition: Integration costs arise mainly in connection with 
+business combinations and in connection with the creation of a 
+common IT infrastructure. The nature of the costs consists of 
+alignment of processes, brands and technical systems. The costs 
+are of a non-recurring nature but, unlike restructuring costs, they 
+are connected to the entity’s current and future operations. As of 
+2024, integration costs include only external costs and resources. 
+Restructuring costs  
+Definition: Restructuring costs comprise direct costs related to 
+restructuring and have no connection with the company’s current 
+operations. Restructuring costs include mainly the costs of laying 
+off employees and indirect costs related to the layoffs. 
+Adjusted EBITDA 
+Definition: EBITDA excluding acquisition costs, integration costs, 
+restructuring costs, operational foreign exchange gains/losses, 
+costs of share-based incentive programs and non-recurring 
+adjustments. 
+
+Definitions 
+136 
+Sinch Annual Report 2025 
+Purpose: Enables comparison of profitability over time in 
+underlying operations.  
+Adjusted EBITDA per share  
+Definition: Adjusted EBITDA divided by the volume-weighted 
+average number of shares outstanding for the period after dilution.  
+Purpose: Measures the earnings per share generated by the 
+business adjusted for acquisition costs, integration costs and other 
+adjustment items. 
+Adjusted EBITDA/gross profit 
+Definition: The measure shows the company’s Adjusted EBITDA as 
+a percentage of gross profit. In addition to net sales, the cost of 
+services sold is included in gross profit.  
+EBITDA margin /Adjusted EBITDA margin  
+Definition: EBITDA/Adjusted EBITDA in relation to net sales.  
+Amortization/depreciation of acquisition-related assets 
+Definition: Amortization of acquired intangible assets/depreciation 
+of acquired property, plant and equipment. Depreciation of 
+property, plant and equipment and amortization of other intangible 
+assets are included in acquisition-related 
+amortization/depreciation, as this is a measure of the use of 
+resources necessary to generate profit. 
+Adjusted EBIT 
+Definition: EBIT after the same adjustments as for Adjusted EBITDA 
+and excluding non-cash acquisition-related depreciation, 
+amortization and impairments of intangible assets and property, 
+plant and equipment.  
+Purpose: Enables comparison of profitability over time, regardless 
+of amortization/depreciation and impairment of acquisition-related 
+property, plant and equipment and intangible assets, and 
+independently of financing structure and the corporation tax rate.  
+EBIT margin/Adjusted EBIT margin 
+Definition: EBIT/Adjusted EBIT in relation to net sales.  
+Net margin  
+Definition: Net profit for the year in relation to net sales. 
+Purpose: The net margin is a performance indicator that indicates 
+the size of the company’s profit in relation to its turnover, which is 
+useful to assess the efficiency of the company’s operations. 
+Interest-bearing liabilities 
+Definition: Bond loans, bank loans, overdraft facilities, commercial 
+paper and lease liabilities.  
+Purpose: Used to calculate net debt.  
+Net debt  
+Definition: Interest-bearing liabilities less cash and cash 
+equivalents.  
+Purpose: Used to track the debt trend and visualize the size of 
+refinancing requirements.  
+Net debt/Adjusted EBITDA R12M 
+Definition: Net debt divided by Adjusted EBITDA, past 12 months. 
+Net debt and Adjusted EBITDA are both measured excluding IFRS 
+16-related lease liabilities. 
+Purpose: Shows how many years it would take to pay off the 
+company’s debts presuming that net debt and Adjusted EBITDA 
+are constant and with no consideration of other cash flows.  
+Equity ratio 
+Definition: Equity as a percentage of total assets.  
+Purpose: Illustrates the company’s financial position. A good 
+equity/assets ratio equips the company to manage periods of 
+economic downturn and the financial basis for growth.  
+Return on equity  
+Definition: Profit or loss for the year divided by average equity.  
+Purpose: Return on equity is a measurement of profitability in 
+relation to the carrying amount of equity. Return on equity is a 
+measurement of how investments are used to generate higher 
+earnings and return on shareholders’ capital. 
+Net investments in property, plant and equipment and intangible 
+assets  
+Definition: Investments in property, plant and equipment and 
+intangible assets during the period less divested property, plant 
+and equipment and intangible assets.  
+Free cash flow 
+Definition: Cash flow from operating activities after net investments 
+in property, plant and equipment and intangible assets during the 
+period. 
+Free cash flow per share 
+Definition: Free cash flow divided by the volume-weighted average 
+number of shares outstanding for the period after dilution. 
+Purpose: Measures free cash flow per share generated by the 
+business. 
+Cash conversion 
+Definition: Free cash flow divided by adjusted EBITDA.  
+Purpose: Measures the free cash flow generated by the business in 
+relation to profitability in underlying operations. 
+Interest coverage ratio  
+Definition: EBIT plus interest income divided by interest expenses 
+excluding IFRS 16-related lease liabilities.  
+Purpose: Indicates the company’s ability to cover its interest 
+expenses. 
+Operational measurements 
+Percentage female 
+Definition: Average number of women in relation to the average 
+total number of employees during the period, recalculated as full-
+time equivalents. 
+Average number of employees and consultants 
+Definition: Average number of employees and consultants during 
+the period, recalculated as full-time equivalents.  
+Organic growth  
+Definition: Growth in local currency and excluding acquisitions. 
+Purpose: Sinch’s presentation currency is SEK, while a large portion 
+of revenues and costs are in other currencies. Growth adjusted for 
+acquired entities and currency effects shows underlying growth. 
+Acquisitions are considered part of organic operations after 12 
+months. 
+R12M 
+Definition: Sales, earnings or other results for the past 12 months.

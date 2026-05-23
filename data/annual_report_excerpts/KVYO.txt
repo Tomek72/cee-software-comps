@@ -1,0 +1,450 @@
+Table of Contents
+Klaviyo, Inc.
+Notes to the Consolidated Financial Statements
+1. Organization and Business Description
+Klaviyo, Inc. (the “Company” or “Klaviyo”) is a technology company that provides a cloud-based, software-as-a-service (“SaaS”) platform that enables consumer-
+focused businesses to capture, store, analyze, and use their first-party data to create and deliver personalized consumer experiences across digital channels. The
+Company’s platform combines proprietary data, action, and intelligence layers to unify customer data and support real-time activation across multiple use cases,
+including marketing, customer service, analytics, and data management.
+The Company’s offerings include marketing automation capabilities that allow customers to orchestrate campaigns across multiple channels, including email, text
+messaging, WhatsApp messaging, and mobile push. The Company also offers customer service solutions, including Customer Agent, Customer Hub and Helpdesk, as
+well as marketing analytics, and data platform functionality.
+The Company generates revenue through the sale of subscriptions that provide customers access to its platform. Subscription plans are tiered based on the number
+of consumer profiles stored on the Company’s platform and the number of emails, text messages, and WhatsApp messages sent as well as customer tickets and
+conversations through Klaviyo Service.
+The Company is headquartered in Boston, Massachusetts and was incorporated in the state of Delaware on September 14, 2012. The Company has several wholly-
+owned subsidiaries in the United States and international jurisdictions.
+2. Summary of Significant Accounting Policies
+Basis of Presentation
+The accompanying consolidated financial statements have been prepared in conformity with accounting principles generally accepted in the United States of
+America (“GAAP”). Any reference in these notes to applicable guidance is meant to refer to the authoritative GAAP as found in the Accounting Standards Codification
+(“ASC”) and Accounting Standards Updates (“ASUs”) of the Financial Accounting Standards Board (“FASB”).
+Principles of Consolidation
+The accompanying consolidated financial statements include the accounts of the Company and its wholly-owned subsidiaries. All intercompany transactions are
+eliminated in consolidation.
+Use of Estimates
+The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of
+assets and liabilities, the disclosure of contingent assets and liabilities at the date of the financial statements, and the reported amounts of revenues and expenses during
+the reporting period. Significant items subject to such estimates and assumptions include, but are not limited to, the allowance for doubtful accounts, determination of
+revenue recognition under ASC 606, Revenue from Contracts with Customers (“ASC 606”), estimated benefit period of deferred contract acquisition costs, estimated
+life of prepaid marketing expense, and historical valuation of common stock and stock-based compensation, including fair value of the warrants.
+The Company evaluates estimates based on historical and anticipated results, trends, and various other assumptions. The Company assesses these estimates on a
+regular basis; however, actual results could differ from these estimates.
+95
+
+Table of Contents
+Klaviyo, Inc.
+Notes to the Consolidated Financial Statements
+Segment Information
+Operating segments are defined as components of an entity for which separate financial information is available and that is regularly reviewed by the Chief
+Operating Decision Maker (“CODM”) in deciding how to allocate resources to an individual segment and in assessing performance. The Company’s CODM is its Chief
+Executive Officer. The Company has determined that it operates in one operating segment and one reportable segment as the CODM reviews financial information
+presented on a consolidated basis for purposes of making operating decisions, allocating resources, and evaluating financial performance.
+The key measure of segment profit or loss that the CODM uses to make operating decisions, allocate resources and evaluate financial performance is the
+Company’s consolidated net loss, as reported in the Consolidated Statements of Operations and Comprehensive Loss. Net loss is used to plan and forecast for future
+periods, design and implement key marketing strategies, expand into new markets, and launch new offerings. Significant expense categories regularly provided to the
+CODM are those disclosed in the Consolidated Statements of Operations and Comprehensive Loss. There are no other expenses supplemental to those disclosed in these
+consolidated financial statements that are regularly provided to the CODM.
+Information related to the geographical distribution of the Company’s revenues and long-lived assets is disclosed in Note 14. Segment Information and Geographic
+Data.
+Revenue Recognition
+The Company derives revenue primarily from subscription fees related to access to its cloud-based SaaS platform. The platform enables customers to store and use
+first-party consumer data to deliver personalized consumer experiences across multiple digital communication channels and access data-driven marketing, customer
+service, analytics, and data platform functionality.
+Contractual subscriptions for customers generally auto-renew on either a monthly, quarterly, or annual basis, and customers may elect not to renew by providing at
+least five days’ advance notice for contracts on a monthly billing cycle and thirty days’ advance notice for contracts with any other billing cycles. Customers do not have
+the right to take possession of the Company’s software. Subscription pricing is determined based on a customer’s profile count and messaging quantities and is
+considered fixed based on a tiered pricing structure. Variable consideration in the Company’s contracts is not material but represents the overage charges incurred by
+customers who exceed their allotments.
+The Company recognizes revenue under the core principle that depicts the transfer of control to the Company’s customers in an amount reflecting the consideration
+to which the Company expects to be entitled. In order to achieve that core principle, the Company evaluates its revenue arrangements under the five-step model as
+follows: (1) identify the contract with a customer, (2) identify the performance obligations in the contract, (3) determine the transaction price, (4) allocate the transaction
+price to the performance obligations in the contract, and (5) recognize revenue when or as the Company satisfies a performance obligation.
+Typically, the SaaS subscription contracts consist of a single performance obligation, and revenue is recognized over time as the performance obligation is satisfied.
+The performance obligation is deemed to be satisfied ratably as the customer simultaneously receives and consumes the services that the Company performs over the
+contract term. Due to the term of a majority of the Company’s contracts being less than one year, the Company has determined a significant financing component does
+not exist.
+The Company accounts for individual performance obligations separately if they have been determined to be distinct (i.e., the services are distinct if identifiable
+from other items in the arrangement and the customer can benefit from them on their own or with other resources that are readily available). The transaction price is
+allocated to the distinct performance
+96
+
+Table of Contents
+Klaviyo, Inc.
+Notes to the Consolidated Financial Statements
+obligations on a relative stand-alone selling price basis. Stand-alone selling prices are determined based on the prices at which the Company separately sells
+subscriptions.
+Sales and value-added taxes collected from customers and remitted to government authorities are excluded from revenue. The Company incurs fees based on
+transaction volume and dollar amounts processed through its credit card processor, which are classified as general and administrative expense. Through the Company’s
+credit card processor, all receivables related to credit cards are collected within three business days.
+Cost of Revenue
+Cost of revenue consists of costs related to supporting and hosting the Company’s software platform and channel offering for paying customers. These costs
+primarily include cloud-based infrastructure costs, outbound communication sending costs, employee-related costs including payroll, benefits, bonuses, and stock-based
+compensation expense related to the customer support team, amortization of capitalized internal-use software development costs, and allocated overhead costs,
+including rent, facilities, depreciation, and costs related to information technology.
+Deferred Revenue
+Deferred revenue primarily consists of billings in advance of revenue recognition from subscription services and is recognized as the revenue recognition criteria
+are met.
+The Company generally bills its subscription customers in advance of their subscription term. Revenue that is expected to be recognized during future periods is
+recorded as deferred revenue.
+Deferred Contract Acquisition Costs
+Deferred contract acquisition costs are incremental costs incurred in connection with acquiring a customer contract and consist primarily of sales commissions and
+the associated payroll taxes. The Company expects to benefit from these costs for more than one year as the Company primarily pays sales commissions on the initial
+contract, and there are no commensurate commissions paid on contract renewals.
+Deferred contract acquisition costs are amortized on a basis consistent with the transfer of the services to which the asset relates. This results in capitalized costs
+being recognized on a ratable basis over the estimated period of future benefit ranging from 18 months to 60 months. The Company estimates the future period of
+benefit considering the size of the customer, the current contract term, the impact of estimated customer renewal terms, and the estimated life of the technology solution
+underlying the contracts. The Company periodically reviews the carrying amount of capitalized costs to determine whether events or changes in circumstances have
+occurred that could impact the period of benefit.
+As of December  31, 2025 and 2024, deferred contract acquisition costs expected to be recognized within one year were $29.6  million and $20.5  million,
+respectively, and deferred contract acquisition costs expected to be recognized beyond one year were $47.8 million and $32.5 million, respectively.
+Shopify Collaboration Agreement
+On July 28, 2022, the Company entered into a collaboration agreement with Shopify Inc. and certain of its affiliates (collectively, “Shopify”) to form a strategic
+relationship for the purposes of creating greater interoperability between the Klaviyo and Shopify platforms and forming a strategic product, distribution, and marketing
+relationship. Shopify became a related party upon execution of this agreement. The collaboration agreement has a term of 7 years and automatically renews for
+successive one-year periods unless the Company or Shopify provides written notice of non-renewal. In connection with the collaboration agreement, the Company
+entered into 3 separate agreements including a revenue sharing agreement, common stock warrant agreement, and stock purchase agreement.
+97
+
+Table of Contents
+Klaviyo, Inc.
+Notes to the Consolidated Financial Statements
+Diluted net loss per share attributable to Series A and Series B common stockholders is computed in the same manner as basic net loss per share, as the inclusion of
+all potentially dilutive securities outstanding would be antidilutive. See Note 13. Loss Per Share for further information.
+Impairment of Long-Lived Assets
+The Company periodically evaluates all long-lived assets or asset groups for impairment. Long-lived assets are evaluated for impairment whenever events or
+changes in circumstances indicate that the carrying value of an asset or asset group may not be recoverable. Recoverability of assets to be held and used is measured by
+comparing the carrying amount of an asset or asset group to the estimated undiscounted future net cash flows expected to be generated by the asset or the asset group. If
+the carrying amount of an asset or asset group exceeds its estimated undiscounted future net cash flows, an impairment charge is recognized by the amount by which the
+carrying amount of the asset or asset group exceeds the fair value of the asset. There was no impairment recorded during the years ended December 31, 2025, 2024, and
+2023.
+Recent Accounting Pronouncements
+The Company has implemented all applicable accounting pronouncements that are in effect.
+In December 2023, the FASB issued ASU No. 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures, which requires public entities, on an
+annual basis, to provide disclosure of specific categories in the rate reconciliation, as well as disclosure of income taxes paid disaggregated by jurisdiction. ASU 2023-
+09 is effective for fiscal years beginning after December 15, 2024, with early adoption permitted. The Company adopted ASU 2023-09 on its consolidated financial
+statements in the current period on a prospective basis. See Note 9. Income Taxes for the related disclosures.
+In November 2024, the FASB issued ASU No. 2024-03, Disaggregation of Income Statement Expenses. The new guidance requires additional disclosure related to
+the disaggregation of income statement expense categories. ASU 2024-03 is effective for annual periods beginning after December 15, 2026 and interim periods within
+fiscal years beginning after December 15, 2027, with early adoption permitted. The Company is currently evaluating the impact of adopting ASU 2024-03 on its
+consolidated financial statements.
+In September 2025, the FASB issued ASU No. 2025-06, Targeted Improvements to the Accounting for Internal-Use Software. The new guidance amends certain
+aspects of the accounting for and disclosure of software costs under ASC 350-40. ASU 2025-06 is effective for interim and annual periods beginning after December 15,
+2027, with early adoption permitted. The Company is currently evaluating the impact of adopting ASU 2025-06 on its consolidated financial statements and related
+disclosures.
+In December 2025, the FASB issued ASU No. 2025-11, Interim Reporting (Topic 270): Narrow-Scope Improvements. The new guidance is intended to improve the
+navigability of the guidance in ASC 270 and clarify when it applies. ASU 2025-11 is effective for interim periods beginning after December 15, 2027, with early
+adoption permitted. The Company is currently evaluating the impact of adopting ASU 2025-11 on its interim condensed consolidated financial statements and related
+disclosures.
+There are no other new accounting pronouncements that have been issued that would have a material impact on the Company's financial position or results of
+operations.
+105
+
+Table of Contents
+Klaviyo, Inc.
+Notes to the Consolidated Financial Statements
+3. Revenue Recognition
+Disaggregation of Revenue
+The Company provides disaggregation of revenue based on geographic region in Note 14. Segment Information and Geographic Data.
+Deferred Revenue
+The change in deferred revenue reflects billings during the period for which the performance obligation was not satisfied prior to the end of the period, partially
+offset by revenues recognized during the period. The following table summarizes the changes in the balance of deferred revenue during the periods presented (in
+thousands):
+Year Ended December 31,
+2025
+2024
+Balance at beginning of the period
+$
+64,497 
+$
+40,100 
+Plus: Billings during the period
+1,272,767 
+961,861 
+Less: Revenue recognized during the period
+(1,234,019)
+(937,464)
+Balance at end of the period
+$
+103,245 
+$
+64,497 
+For the years ended December 31, 2025 and 2024, revenue recognized from amounts included in deferred revenue at the beginning of the period was $64.5 million
+and $40.1 million, respectively.
+Remaining Performance Obligations
+Remaining performance obligations represent the amount of contracted future revenue that has not yet been recognized, including deferred revenue. As of
+December 31, 2025, the Company’s remaining performance obligations were $253.7 million, of which $235.9 million is expected to be recognized within the next
+twelve months and $17.8 million is expected to be recognized during a period greater than twelve months.
+4. Fair Value Measurements
+The following table sets forth the Company’s financial instruments that were measured at fair value on a recurring basis at the periods indicated below, by level
+within the fair value hierarchy (in thousands):
+As of December 31, 2025
+Level 1
+Level 2
+Level 3
+Total
+Cash equivalents:
+Money market funds
+$
+325,904 
+$
+— 
+$
+— 
+$
+325,904 
+Total
+$
+325,904 
+$
+— 
+$
+— 
+$
+325,904 
+As of December 31, 2024
+Level 1
+Level 2
+Level 3
+Total
+Cash equivalents:
+Money market funds
+$
+278,235 
+$
+— 
+$
+— 
+$
+278,235 
+Total
+$
+278,235 
+$
+— 
+$
+— 
+$
+278,235 
+106
+
+Table of Contents
+Klaviyo, Inc.
+Notes to the Consolidated Financial Statements
+As of December 31, 2025 and 2024, certain of the Company’s cash equivalents were held in money market funds. The Company’s investments in money market
+funds are classified within Level 1 of the fair value hierarchy as they are valued using quoted market prices in active markets.
+As of December 31, 2025 and 2024, the Company’s carrying amounts of financial instruments, including cash, restricted cash, accounts receivable, accounts
+payable, and accrued liabilities approximate their fair value due to their short-term maturities.
+107
+
+Table of Contents
+Klaviyo, Inc.
+Notes to the Consolidated Financial Statements
+13. Loss Per Share
+Basic net loss per share attributable to Series A and Series B common stockholders is computed by dividing the net loss by the number of weighted-average
+outstanding common shares. Diluted net loss per share attributable to Series A and Series B common stockholders is determined by giving effect to all potential common
+equivalents during the reporting period, unless including them yields an antidilutive result, and is calculated using the treasury stock method. The Company considers its
+warrants, Investment Option, RSUs, Options, and shares to be issued under the ESPP as potential common equivalents, but excluded them from the computation of
+diluted earnings per share attributable to common stockholders in the periods presented, as their effect was antidilutive during the years ended December 31, 2025, 2024
+and 2023.
+The rights, including the liquidation and dividend rights, of the holders of Series A and Series B common stock are identical, except with respect to voting and
+conversion. As the liquidation and dividend rights are identical, the undistributed earnings are allocated on a proportionate basis to each series of common stock and the
+resulting basic and diluted net loss per share attributable to common stockholders are, therefore, the same for both Series A and Series B common stock on both
+individual and combined basis.
+The following table presents the calculation of basic and diluted net loss per share attributable to Series A and Series B common stockholders for the periods
+presented (in thousands, except share and per share data):
+Year Ended December 31,
+2025
+2024
+2023
+Net loss per share attributable to Series A and Series B common stockholders,
+basic and diluted:
+Numerator:
+Net loss
+$
+(31,768)
+$
+(46,142)
+$
+(308,233)
+Denominator:
+Weighted-average shares - basic and diluted
+290,896,895 
+266,336,826 
+242,889,272 
+Net loss per share attributable to Series A and Series B common stockholders,
+basic and diluted
+$
+(0.11)
+$
+(0.17)
+$
+(1.27)
+The following table summarizes the potential common shares excluded from the computation of diluted net income (loss) per share:
+Year Ended December 31,
+2025
+2024
+2023
+Warrants outstanding
+2,410,676 
+3,788,204 
+5,165,732 
+Investment Option
+15,743,174 
+15,743,174 
+15,743,174 
+RSUs outstanding
+14,550,455 
+17,421,450 
+14,690,417 
+Options outstanding
+2,225,979 
+25,164,415 
+31,734,725 
+ESPP
+245,840 
+258,033 
+— 
+Total
+35,176,124 
+62,375,276 
+67,334,048 
+14. Related Party Transactions
+In December 2025, the Company entered into a contract with Wyze Labs, Inc., who is a related party to a member of our Board of Directors. During the year ended
+December 31, 2025, we have recognized an immaterial amount of revenue within the Consolidated Statements of Operations and Comprehensive Loss. As of December
+31, 2025, there is an
+122
+
+Table of Contents
+Klaviyo, Inc.
+Notes to the Consolidated Financial Statements
+outstanding accounts receivable balance of $220.4 thousand and deferred revenue balance of $202.2 thousand within the Consolidated Balance Sheets and total
+remaining performance obligation under the contract of $392.6 thousand.
+In May 2025, the Company purchased services from Jellyfish, who is a related party to a member of our Board of Directors. As of December 31, 2025, we
+purchased services in the aggregate of approximately $212.5 thousand, of which $148.0 thousand was included within prepaid expenses on the Consolidated Balance
+Sheets and an immaterial amount was included within operating expenses on the Consolidated Statements of Operations and Comprehensive Loss.
+15. Segment Information and Geographic Data
+As described in the Company’s Summary of Significant Accounting Policies, the Company operates as one operating segment. Revenue and long-lived assets by
+geographic region are as follows:
+Disaggregation of Revenue
+Revenue by geographic area, based on the location of the Company’s customers, is as follows (in thousands):
+Year Ended December 31,
+2025
+2024
+2023
+Americas:
+United States
+$
+741,101 
+$
+584,844 
+$
+443,471 
+Other Americas
+59,636 
+47,461 
+38,180 
+APAC 
+127,179 
+95,920 
+72,797 
+EMEA
+United Kingdom
+123,609 
+90,593 
+63,424 
+Other EMEA
+182,494 
+118,646 
+80,227 
+Total Revenue
+$
+1,234,019 
+$
+937,464 
+$
+698,099 
+(1) Other than the United States, no other individual country accounted for 10% or more of total revenue for any of the periods presented.
+(2) Asia-Pacific
+(3) Europe, the Middle East and Africa
+(4) Other than the United Kingdom, no other individual country accounted for 10% or more of total revenue for any of the periods presented.
+Disaggregation of Long-lived Assets
+Long-lived assets consist of property and equipment and ROU assets. Long-lived assets by geographical region are as follows:
+Year Ended December 31,
+2025
+2024
+Americas
+United States
+$
+171,140 
+$
+71,894 
+APAC 
+1,402 
+2,207 
+EMEA
+United Kingdom
+8,615 
+17,016 
+    Other 
+310 
+— 
+Total Long-lived Assets
+$
+181,467 
+$
+91,117 
+(1) Asia-Pacific
+(2) Europe, the Middle East and Africa
+ (1)
+(1)(2)
+ (1)(3)
+ (4)
+(1)
+ (2)
+(3)
+123
+
+Table of Contents
+Klaviyo, Inc.
+Notes to the Consolidated Financial Statements
+(3) No other country in this geographic region represented more than 10% of the Company’s long-lived assets for the periods presented
+16. Restructuring Costs
+During the years ended December 31, 2025 and 2023, the Company recorded $4.2 million and $7.9 million, respectively, of restructuring costs. The restructuring
+plans in 2025 and 2023 resulted in a reduction of approximately 3% and 8%, respectively, of Company’s full time workforce. The Company’s restructuring actions were
+intended to improve operational efficiencies. Restructuring costs consist primarily of employee severance and related benefits as well as stock-based compensation from
+the modification of terminated employee stock options. There were no restructuring costs incurred during the year ended December 31, 2024.
+See Note 12. Stock-Based Compensation for further detail on award modifications due to the 2023 restructuring. Restructuring costs included in the Consolidated
+Statements of Operations and Comprehensive Loss is as follows (in thousands):
+Year Ended December 31,
+2025
+2024
+2023
+Cost of revenue
+$
+— 
+$
+— 
+$
+1,138 
+Selling and marketing
+— 
+— 
+1,832 
+Research and development
+4,224 
+— 
+3,375 
+General and administrative
+— 
+— 
+1,532 
+Total
+$
+4,224 
+$
+— 
+$
+7,877 
+There were no unpaid restructuring costs as of December 31, 2025 and 2023.
+124

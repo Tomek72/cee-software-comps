@@ -1,0 +1,17 @@
+{
+  "company_name": "Convertiser",
+  "one_line_description": "Performance marketing and affiliate network platform connecting advertisers with publishers via automated monetization widgets and APIs.",
+  "target_segment": "mixed",
+  "product_scope": "platform",
+  "headcount_estimate": 31,
+  "headcount_source": "linkedin",
+  "primary_geography": "poland",
+  "plausible_strategic_acquirers": [
+    "Awin",
+    "Admitad",
+    "Tradedoubler",
+    "Kelkoo Group",
+    "RTB House"
+  ],
+  "equity_story_pillar": "Full-stack affiliate infrastructure with productized publisher tooling (widgets, APIs, WordPress plugins) that extends beyond a traditional CPA network."
+}

@@ -1,0 +1,10 @@
+{
+  "ticker": "HUBS",
+  "company_name": "HubSpot, Inc.",
+  "one_line_description": "Provider of an AI-powered, agentic customer platform unifying marketing, sales, service, operations, content, and commerce hubs around a Smart CRM for growing businesses.",
+  "revenue_model": "hybrid_saas_services",
+  "end_market": "horizontal",
+  "customer_profile": "mid_market",
+  "primary_geography": "global",
+  "rd_intensity_signal": "high"
+}

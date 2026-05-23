@@ -1,0 +1,10 @@
+{
+  "ticker": "TRST.L",
+  "company_name": "Trustpilot Group plc",
+  "one_line_description": "Operates a global online consumer review platform sold to businesses via annual subscription plans, serving customers across the UK, North America and Europe.",
+  "revenue_model": "pure_saas",
+  "end_market": "horizontal",
+  "customer_profile": "mixed",
+  "primary_geography": "global",
+  "rd_intensity_signal": "medium"
+}

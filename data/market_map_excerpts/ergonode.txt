@@ -1,0 +1,15 @@
+Ergonode is the Product Information Management platform, and, as our clients claim, the most user-friendly one. Every business is both, for and about people and Ergonode is designed to be a useful tool that supports your e-commerce. It is Desktop PWA-ready and built on a developer-friendly approach: Symfony, DDD, event-sourcing, PostgresSQL and headless Vue.js.
+
+Twoje dane w jednym miejscu
+
+Dzięki Ergonode możesz przechowywać i łatwo zarządzać zdjęciami, atrybutami, opisami, plikami. Wszystkie dane o produkcie znajdują się w jednym miejscu na wyciągnięcie ręki, z odpowiednio określonymi dostępami.
+
+Spójność danych w każdym kanale
+
+Ergonode to sposób na zarządzanie w modelu omnichannel. Wbudowane funkcje, takie jak zmienne, projektowanie układu strony produktowej i częste aktualizacje, gwarantują bezproblemową pracę.
+
+Wygodna praca z katalogiem
+
+Ergonode to swoboda tworzenia modeli danych produktów za pomocą narzędzi bez kodu. To system dopasuje się do Twoich potrzeb, struktury danych oraz innych narzędzi z których korzystasz.
+
+PIM zaprojektowany do niemal każdego zastosowania

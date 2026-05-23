@@ -1,0 +1,17 @@
+{
+  "company_name": "Tpay",
+  "one_line_description": "Polish online payment gateway offering BLIK, card, and bank transfer processing with marketplace settlement for e-commerce merchants.",
+  "target_segment": "mixed",
+  "product_scope": "platform",
+  "headcount_estimate": 194,
+  "headcount_source": "linkedin",
+  "primary_geography": "poland",
+  "plausible_strategic_acquirers": [
+    "Bank Pekao",
+    "Nexi",
+    "Worldline",
+    "PayU",
+    "Adyen"
+  ],
+  "equity_story_pillar": "Established Polish PSP with high BLIK conversion, deep local merchant integrations, and a strategic banking partnership with Pekao providing distribution and stability."
+}

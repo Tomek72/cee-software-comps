@@ -1,0 +1,3384 @@
+Text S.A. Group of Companies 
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All 
+figures are expressed in PLN (unless stated otherwise).  
+ 
+ 
+2 
+ 
+TABLE OF CONTENT 
+ 
+1. SELECTED CONSOLIDATED FINANCIAL DATA 
+3 
+2. ANNUAL CONSOLIDATED STATEMENT OF FINANCIAL POSITION 
+4 
+3. ANNUAL CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME (MULTIPLE-
+STEP VARIANT) 
+5 
+4. NET EARNINGS PER ORDINARY SHARE (PLN) 
+6 
+5. ANNUAL CONSOLIDATED STATEMENT OF CHANGES IN EQUITY 
+6 
+6. ANNUAL CONSOLIDATED CASH FLOW STATEMENT 
+8 
+7. GENERAL INFORMATION 
+9 
+8. BASIS FOR PREPARATION OF THE FINANCIAL STATEMENTS AND ACCOUNTING 
+PRINCIPLES APPLIED 
+11 
+9. ADDITIONAL NOTES AND EXPLANATIONS 
+23 
+Note 1 Property, plant and equipment 
+23 
+Note 2 Intangible assets 
+24 
+Note 3 Long-term receivables 
+26 
+Note 4 Prepayments and accruals 
+26 
+Note 5 Accounts receivable and other receivables 
+27 
+Note 6 Cash and cash equivalents 
+27 
+Note 7 Equity 
+28 
+Note 8 Liabilities from contracts with customers 
+30 
+Note 9 Lease liabilities 
+31 
+Note 10 Short-term liabilities 
+31 
+ 
+1. Notes to the statement of comprehensive income 
+31 
+Note 11 Revenues from sales 
+31 
+Note 12 Costs of operating activity 
+33 
+Note 13 Other operating revenues and costs 
+33 
+Note 14 Financial revenues and costs 
+33 
+Note 15 Income tax and deferred tax 
+33 
+ 
+2. Explanatory notes to the cash flow statement 
+35 
+Note 16 Change in Short-Term Receivables 
+35 
+     3. Other explanatory notes 
+35 
+Note 17 Financial Instruments 
+35 
+Note 18 Benefits to the key managing staff (incl. remuneration for members of the Management Board and 
+members of the Supervisory Board) 
+36 
+Note 19 Contingent items and other off-balance sheet items 
+36 
+Note 20 Employment 
+36 
+Note 21 Description of factors and events, especially of non-typical nature, having an impact on the financial 
+results 
+37 
+Note 22 Events after the end of the financial year, not taken into account in the financial statements 
+37 
+Note 23 Transactions with related entities 
+37 
+Note 24 Cyclicality and seasonality of the activities run 
+37 
+Note 25 Remuneration of the statutory auditor 
+37 
+Note 26 Objective and principles of risk management 
+38 
+ 
+
+Text S.A. Group of Companies 
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All 
+figures are expressed in PLN (unless stated otherwise).  
+ 
+ 
+3 
+ 
+1. SELECTED CONSOLIDATED FINANCIAL DATA 
+Specification 
+PLN thousand 
+EUR thousand 
+for the period of 
+12 months ended 
+31 March 2025 
+for the period of 
+12 months ended 
+31 March 2024 
+for the period 
+of 12 months 
+ended 31 
+March 2025 
+for the period 
+of 12 months 
+ended 31 
+March 2024 
+Consolidated statement of comprehensive income  
+Net revenues from sales of products, merchandise, 
+and materials 
+               354 178  
+335 349 
+              82 903  
+75 639 
+Profit (loss) on operating activity 
+               177 367  
+179 021 
+              41 517  
+40 379 
+Gross profit (loss) 
+               177 738  
+178 876 
+              41 603  
+40 346 
+Net profit (loss) 
+               164 418  
+166 553                38 486  
+37 567 
+Profit (loss) per ordinary share (in PLN/EUR)  
+                       6.39  
+6.47                     1.49  
+1.46  
+Number of shares (in thousands) 
+                 25 750  
+25 750 
+              25 750  
+25 750  
+Consolidated cash flow statement 
+Net cash flows from operating activity 
+               178 591  
+177 569                41 803  
+40 051  
+Net cash flows from investing activity 
+               (31 039)  
+(30 269)                 (7 265)  
+(6 827)  
+Net cash flows from financing activity 
+             (154 708)  
+(158 260) 
+            (36 213)  
+(35 696) 
+Net cash flows, in total 
+                  (7 156)  
+(10 960)                (1 675)  
+(2 472)  
+Specification 
+PLN thousand 
+EUR thousand 
+31 March 2025 
+31 March 2024 
+31 March 2025 
+31 March 2024 
+ 
+Consolidated statement of financial position 
+Total assets  
+                226 705                  210 139                 54 185  
+48 609 
+Liabilities and provisions for liabilities 
+                  90 287                    83 447                 21 580                 19 152  
+Long-term liabilities 
+                    6 393                      2 362                   1 528                      549  
+Short-term liabilities  
+                  83 894                    81 085                 20 052  
+18 602 
+Equity  
+                136 418                  126 692                 32 605                 29 457  
+Share capital  
+                        515                         515                      123  
+                   120  
+Book value per share (in PLN/EUR) 
+                       5.30                         4.92                      1.27                     1.14   
+Number of shares (in thousands) 
+                  25 750                    25 750                25 750                 25 750  
+ 
+PLN/EUR exchange rate 
+ 
+1 April 2024 – 31 March 2025 
+1 April 2023 – 31 March 2024 
+For the figures in the statement of financial position 
+                    4.1839  
+                    4.3009  
+For the figures in the statement of comprehensive 
+income and in the cash flow statement 
+                    4.2722  
+                    4.4335  
+Highest rate for the period 
+                    4.3662  
+                    4.6902  
+Lowest rate for the period 
+                    4.1339  
+                    4.2804  
+ 
+Wrocław, 27 June 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+Mariusz Ciepły 
+ 
+Urszula Jarzębowska 
+ 
+Joanna Alwin 
+President of the 
+Management 
+Board 
+ 
+Member 
+of 
+the 
+Management Board 
+ 
+Chief Financial Officer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Text S.A. Group of Companies 
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All 
+figures are expressed in PLN (unless stated otherwise).  
+ 
+ 
+4 
+ 
+2. ANNUAL CONSOLIDATED STATEMENT OF FINANCIAL POSITION  
+ 
+Specification 
+Note 
+ 
+As at 31 March 2025 
+As at 31 March 2024 
+NON-CURRENT ASSETS 
+ 
+ 89 115   
+                   76 249   
+Property, plant and equipment 
+1 
+6 306  
+                  2 228   
+Intangible assets 
+2 
+76 563  
+                 69 088   
+Long-term receivables 
+3 
+160  
+- 
+Deferred income tax assets 
+15 
+6 048  
+                     4 932   
+Long-term prepayments 
+4 
+38  
+                             1   
+CURRENT ASSETS 
+ 
+ 137 590   
+                 133 890   
+Accounts receivable 
+5 
+1 536 
+                     3 398   
+CIT receivables 
+5 
+34 032  
+ 23 059   
+VAT receivables 
+5 
+22 355  
+ 21 073   
+Other receivables 
+5 
+67  
+ 759   
+Cash and cash equivalents 
+6 
+77 704  
+                   84 860   
+Long-term prepayments 
+4 
+1 896  
+                         741   
+Assets classified as held for sale 
+ 
+- 
+- 
+TOTAL ASSETS 
+ 
+226 705   
+                 210 139   
+EQUITY 
+ 
+ 136 418   
+                 126 692   
+Share capital 
+7.2. 
+515  
+                         515   
+Supplementary capital from retained earnings and transactions 
+of mergers under common control 
+7.3. 
+68 976  
+                   57 092   
+Currency conversion differences 
+ 
+(1 279) 
+(2 022) 
+Retained earnings 
+7.4. 
+68 206 
+                  71 107   
+Equity attributable to shareholders of the parent company 
+ 
+136 418   
+                126 692   
+Equity attributable to non-controlling interests 
+ 
+ -   
+- 
+LONG-TERM LIABILITIES 
+ 
+6 393   
+                      2 362   
+Deferred income tax liability 
+15 
+-   
+                            11   
+Other financial liabilities 
+ 
+3 878  
+- 
+Liabilities from contracts with customers 
+8 
+2 515  
+                      2 351   
+SHORT-TERM LIABILITIES 
+ 
+ 83 894   
+81 085  
+Other financial liabilities 
+9 
+1 128  
+                     1 078   
+Accounts payable 
+10 
+9 788  
+                      9 235   
+Current income tax liabilities 
+10 
+163  
+   484   
+Liabilities from contracts with customers 
+8 
+69 611  
+                   68 657   
+Other liabilities 
+10 
+3 204  
+                      1 631   
+Liabilities directly connected with non-current assets classified 
+as held for sale 
+ 
+- 
+                               -   
+TOTAL LIABILITIES 
+ 
+90 287  
+ 83 447   
+TOTAL LIABILITIES AND SHAREHOLDERS’ EQUITY 
+ 
+226 705  
+                 210 139   
+ 
+ 
+Wrocław, 27 June 2025  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mariusz Ciepły 
+ 
+Urszula Jarzębowska 
+ 
+Joanna Alwin 
+Prezes Zarządu 
+ 
+Członek Zarządu 
+ 
+Dyrektor Finansowy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Text S.A. Group of Companies 
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All 
+figures are expressed in PLN (unless stated otherwise).  
+ 
+ 
+5 
+ 
+ 
+3. ANNUAL CONSOLIDATED STATEMENT OF COMPREHENSIVE 
+INCOME (MULTIPLE-STEP VARIANT) 
+Specification 
+ Note 
+ 
+For the period of 12 months 
+ended 31 March 2025 
+ 
+For the period of 12 months ended 31 
+March 2024  
+Revenues from sales 
+11 
+354 178  
+335 349  
+Cost of goods sold 
+12 
+71 870  
+63 606  
+GROSS PROFIT (LOSS) ON SALES 
+ 
+282 308  
+271 743  
+Cost of sales 
+12 
+64 799  
+62 730  
+General administrative costs 
+12 
+40 207  
+30 155  
+Remaining operating revenues 
+13 
+235  
+289  
+Remaining operating costs 
+13 
+170  
+126  
+PROFIT (LOSS) ON OPERATING 
+ACTIVITY 
+ 
+177 367  
+179 021  
+Financial revenues 
+14 
+406  
+120  
+Financial costs 
+14 
+35  
+265  
+PROFIT (LOSS) BEFORE TAX 
+ 
+177 738  
+178 876  
+Income tax 
+15 
+13 320  
+12 323  
+NET PROFIT (LOSS) ON CONTINUED 
+OPERATIONS 
+ 
+164 418  
+166 553  
+NET PROFIT (LOSS) 
+ 
+164 418  
+166 553  
+Other comprehensive income items that 
+will not be reclassified into profit or loss 
+ 
+- 
+- 
+Other comprehensive income items that, 
+after meeting certain requirements, will 
+be reclassified into profit or loss 
+ 
+743 
+1 144  
+Exchange rate differences from 
+conversion of foreign entities 
+  
+743 
+1 144  
+Total other comprehensive income 
+  
+743  
+1 144  
+Total comprehensive income 
+  
+165 161  
+167 697  
+ 
+Wrocław, 27 June 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+Mariusz Ciepły 
+ 
+Urszula Jarzębowska 
+ 
+Joanna Alwin 
+President of the 
+Management 
+Board 
+ 
+Member 
+of 
+the 
+Management Board 
+ 
+Chief Financial Officer 
+ 
+ 
+ 
+ 
+ 
+
+Text S.A. Group of Companies 
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All 
+figures are expressed in PLN (unless stated otherwise).  
+ 
+ 
+6 
+ 
+4. NET EARNINGS PER ORDINARY SHARE (PLN) 
+Earnings per share (in PLN per share) 
+ 
+ 
+for the period of 12 months 
+ended 31 March 2025 
+ 
+ 
+for the period of 12 months 
+ended 31 March 2024 
+ 
+Continued and discontinued operations 
+Ordinary 
+6.39  
+6.47 
+Diluted 
+6.39  
+6.47 
+Continued operations 
+Ordinary 
+6.39  
+6.47 
+Diluted 
+6.39  
+6.47 
+Weighted average number of ordinary shares  
+25 750 000  
+25 750 000  
+Weighted average diluted number of ordinary shares 
+25 750 000  
+25 750 000  
+ 
+Ordinary profit on continued operations per share is calculated as the quotient of profit on continued 
+operations attributable to ordinary shareholders of the Parent Company and weighted average number 
+of issued ordinary shares in the financial year. 
+ 
+Diluted profit on continued operations per share is calculated as the quotient of profit on continued 
+operations attributable to ordinary shareholders of the Parent Company (after deduction of interest on 
+redeemed preference shares converted into ordinary shares) and the weighted average number of issued 
+ordinary shares in the financial year (adjusted for the effect of diluting options and diluting redeemed 
+preference shares converted into ordinary shares). 
+5. ANNUAL CONSOLIDATED STATEMENT OF CHANGES IN EQUITY 
+STATEMENT OF CHANGES IN 
+EQUITY for the period of 12 
+months ended 31 March 2025 
+Share capital 
+Supplemen-
+tary capital 
+Exchange 
+rate 
+differences 
+from 
+conversion 
+of a 
+subsidiary 
+Retained 
+earnings 
+Total equity 
+attributable to 
+equity holders of 
+the parent 
+company 
+Total equity 
+ 
+Equity as at 31 March 2024 
+515 
+57 092  
+(2 022) 
+71 107  
+ 126 692  
+ 126 692  
+Transfer of financial results to 
+equity 
+- 
+11 884  
+- 
+(11 884) 
+- 
+- 
+Dividends paid 
+- 
+- 
+- 
+(154 758) 
+(154 758) 
+(154 758) 
+Changes related to the settlement 
+of 
+the financial result 
+- 
+- 
+- 
+(677) 
+(677) 
+(677) 
+Total transactions with owners 
+- 
+11 884  
+- 
+(167 319) 
+(155 430) 
+(155 435) 
+Net profit (loss) for the period 
+- 
+- 
+- 
+164 418  
+164 418  
+164 418  
+Other comprehensive income 
+- 
+- 
+743  
+- 
+743  
+743  
+Total comprehensive income 
+- 
+- 
+743  
+164 418  
+165 161  
+165 161  
+Total changes in equity 
+- 
+11 884  
+743  
+(2 901) 
+9 731  
+9 726  
+Equity as at 31 March 2025  
+ 
+515 
+68 976  
+(1 279) 
+68 206 
+136 423  
+136 418  
+ 
+ 
+ 
+
+Text S.A. Group of Companies 
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All 
+figures are expressed in PLN (unless stated otherwise).  
+ 
+ 
+7 
+ 
+STATEMENT OF CHANGES IN 
+EQUITY for the period of 12 months 
+ended 31 March 2024  
+Share capital 
+Supplemen
+tary capital 
+Exchange 
+rate 
+differences 
+from 
+conversion 
+of a 
+subsidiary 
+Retained 
+earnings 
+Total equity 
+attributable to 
+equity holders of 
+the parent 
+company 
+Total equity 
+ 
+Equity as at 31 March 2023 
+515  
+38 580  
+(3 166) 
+80 657  
+116 586  
+116 586  
+Transfer of financial results to equity 
+- 
+18 512  
+- 
+(18 512) 
+- 
+- 
+Dividends paid 
+- 
+- 
+- 
+(157 591) 
+(157 591) 
+(157 591) 
+Total transactions with owners 
+- 
+18 512  
+- 
+(176 103) 
+(157 591) 
+(157 591) 
+Net profit (loss) for the period 
+- 
+- 
+- 
+166 553  
+166 553  
+166 553  
+Other comprehensive income 
+- 
+- 
+1 144  
+- 
+1 144  
+1 144  
+Total comprehensive income 
+- 
+- 
+1 144  
+166 553  
+167 697  
+167 697  
+Total changes in equity 
+- 
+18 512  
+1 144  
+(9 550) 
+10 106 
+10 106 
+Equity as at 31 March 2024 
+ 
+515  
+57 092  
+(2 022) 
+71 107  
+126 692  
+126 692  
+ 
+Wrocław, 27 June 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+Mariusz Ciepły 
+ 
+   Urszula Jarzębowska 
+ 
+Joanna Alwin 
+President 
+of 
+the
+Management Board
+ 
+Member 
+of 
+the   
+Management Board 
+ 
+Chief Financial Officer 
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+8  
+  
+ 
+6. ANNUAL CONSOLIDATED CASH FLOW STATEMENT 
+Specification 
+For the period of 12 
+months ended 31 March 
+2025 
+For the period of 
+12 months ended 
+31 March 2024 
+Profit before tax 
+177 738  
+178 876 
+Total adjustments: 
+6 954  
+15 777 
+Depreciation/amortization 
+24 241  
+19 369  
+Foreign exchange gains (losses) 
+- 
+1 093  
+Investment activities gains (losses) 
+(33) 
+0 
+Change in the balance of receivables 
+(18 857) 
+(7 818) 
+Change in the balance of short-term liabilities, save for financial liabilities 
+1 345  
+3 185  
+Change in the balance of prepayments and accruals 
+381  
+127  
+Change in the balance of assets and provisions for deferred income tax 
+(1 127) 
+(395) 
+Other adjustments 
+(1 004) 
+216 
+Cash generated from operating activities 
+184 692 
+194 653  
+Income tax paid 
+(5 203) 
+(17 084) 
+Net cash flows from operating activity 
+179 489  
+177 569 
+Expenditures on acquisition of intangible assets and property, plant and equipment 
+(30 787) 
+(30 269) 
+Net cash flows from investing activity 
+(30 787) 
+(30 269) 
+Payment of liabilities arising from financial lease agreements 
+(1 078)  
+(669) 
+Dividends paid 
+(154 858) 
+(157 591) 
+Interest paid 
+(21) 
+- 
+Net cash flows from financing activity 
+(155 758) 
+(158 260) 
+TOTAL NET CASH FLOWS 
+(7 156) 
+(10 960) 
+BALANCE SHEET CHANGE IN CASH, OF WHICH: 
+(7 156) 
+(10 960) 
+- change in the balance of cash arising from foreign exchange differences 
+- 
+- 
+CASH AT THE BEGINNING OF THE PERIOD 
+84 860  
+95 820  
+CASH AT THE END OF THE PERIOD 
+77 704  
+84 860  
+ 
+Wrocław, 27 June 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+Mariusz Ciepły 
+ 
+Urszula Jarzębowska 
+ 
+Joanna Alwin 
+President of the 
+Management 
+Board 
+ 
+Member 
+of 
+the 
+Management Board 
+ 
+Chief Financial Officer 
+ 
+ 
+ 
+ 
+ 
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+9  
+  
+ 
+7. GENERAL INFORMATION 
+ 
+Information on the parent company  
+ 
+The consolidated interim financial statements of Text S.A. Group of Companies (“Group of Companies”, 
+“Group”) comprise: 
+ 
+▪ 
+Consolidated statement of financial position as of 31 March 2025, which presents total balance of 
+assets, liabilities, and shareholders’ equity in the amount of (PLN thousand) 226,705; 
+ 
+▪ 
+Consolidated statement of comprehensive income for the period from 1 April 2024 to 31 March 2025, 
+which presents net profit of (PLN thousand) 164,418 and comprehensive income of (PLN thousand) 
+165,161; 
+ 
+▪ 
+Consolidated statement of changes in equity for the period from 1 April 2024 to 31 March 2025, 
+presenting an increase of equity by (PLN thousand) 9,726; 
+ 
+▪ 
+Consolidated cash flow statement for the period from 1 April 2024 to 31 March 2025, presenting a 
+decrease of net cash by (PLN thousand) 7,156; 
+ 
+▪ 
+Additional notes and explanations. 
+ 
+Group of Companies 
+ 
+The parent company of Text Spółka Akcyjna Group of Companies (hereinafter referred to as the “Group of 
+Companies”, “Group”) is Text S.A. (hereinafter referred to as the “Parent Company”, “Company”, “Reporting 
+Entity”). 
+The Parent Company was established by the Notarial Deed of 10 September 2007. The Parent Company is 
+entered in the Register of Entrepreneurs of the National Court Register kept by the District Court for Wrocław-
+Fabryczna – 6th Commercial Division with KRS No. 0000290756, REGON statistical number: 932803200, tax 
+identification number: 8992447196. 
+The registered office of the parent company is located in Wrocław at Zwycięska 47, 53-033 Wrocław. 
+Name of the reporting entity: Text Spółka Akcyjna 
+Principal object of activity: 62.01.Z. Software-related activities 
+Registered office of the Reporting Entity: Zwycięska 47, 53-033 Wrocław, Poland  
+Address of the registered office of the Reporting Entity: Zwycięska 47, 53-033 Wrocław, Poland 
+Legal form of the Reporting Entity: joint stock company 
+Country of registration: Poland 
+ 
+The duration of the parent company and the subsidiary included in the Group is indefinite.  The reporting entity 
+has no upstream unit. 
+ 
+ 
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+10  
+  
+ 
+ 
+ 
+Composition of the Management Board and the Supervisory Board 
+ 
+The Management Board of the Parent Company as at the balance sheet date and the date of approval of the 
+financial statements for publication was composed of: 
+● 
+Mariusz Ciepły – President of the Management Board; 
+● 
+Urszula Jarzębowska – Member of the Management Board. 
+During the reporting period, the composition of the Management Board of the Parent Company did not change. 
+As at the balance sheet date and as at the date of approval of these financial statements, the Company’s 
+Supervisory Board was composed of: 
+▪ 
+Maciej Jarzębowski – Chairperson of the Supervisory Board; 
+▪ 
+Jakub Sitarz – Vice-Chairperson of the Supervisory Board; 
+▪ 
+Marta Ciepła – Member of the Supervisory Board; 
+▪ 
+Marcin Mańdziak – Member of the Supervisory Board; 
+▪ 
+Marzena Czapaluk – Member of the Supervisory Board. 
+ 
+Information on the Group of Companies 
+ 
+The consolidated financial statements of Text S.A. Group of Companies cover its subsidiary Text Inc. (formerly 
+LiveChat Inc.), with its registered office at 101 Arch Street, 8th Floor, Boston, MA 02110, USA, in which the 
+Parent Company holds 100% of the shares. 
+Approval for publication 
+ 
+These consolidated financial statements have been prepared for the period from 1 April 2024 to 31 March 
+2025 and include comparative data for the period from 1 April 2023 to 31 March 2024. 
+The presented financial statements were approved for publication by the Parent Company’s Management 
+Board on 27 June 2025. 
+Translation of figures presented in a foreign currency and translation into the presentation currency 
+As at 31 March 2025, balance sheet items were presented in USD using the exchange rate of 1 USD = 3.8643 
+PLN, whereas items in the statement of financial results and comprehensive income were presented using the 
+exchange rate of 1 USD = 3.9802 PLN. The value of the Parent Company’s shares in its subsidiary Text Inc. was 
+translated using the historical exchange rate of 1 USD = 3.3129 PLN.  
+Pursuant to Resolution No. 24/2024 of the Annual General Meeting of Shareholders dated 22 August 2024, 
+effective from 1 April 2024, Text S.A., as the Parent Company, prepares its financial statements in accordance 
+with International Accounting Standards (IAS). 
+ 
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+11  
+  
+ 
+ 
+8. BASIS FOR PREPARATION OF THE FINANCIAL STATEMENTS AND 
+ACCOUNTING PRINCIPLES APPLIED 
+These statements were prepared assuming that the Group companies will continue as going concerns in the 
+foreseeable future, i.e. for a period of at least 12 months from the balance sheet date. 
+During the financial year, the Group recorded a decline in the number of LiveChat solution customers; however, 
+this was compensated by an increase in the average value of licenses (ARPL - Average Revenue per License), 
+as well as by increases in the number of customers and ARPL of other Company products (HelpDesk and 
+ChatBot). As a result, MRR (monthly recurring revenue from subscription fees), which, in the opinion of the 
+Management Board, best reflects the actual development of the Group's business, amounted to USD 7.12 
+million at the end of the financial year, representing an increase of 6.9% compared to the result recorded a year 
+earlier. The pace of growth depends on a variety of external and internal factors, such as the economic situation 
+in key markets, the rate of AI technology adoption by companies, and the activities of competitors. Changes in 
+how people and organizations search for content on the Internet may also significantly influence the pace and 
+manner of acquiring new customers. At the same time, product development may enable the Company to more 
+effectively address the needs and requirements of enterprise-class clients. Taking advantage of this market 
+opportunity may require, among other things, strengthening and expanding the sales department. 
+The ongoing Russian aggression in Ukraine has had no significant impact on the Group's business according to 
+the Management Board. The situation is similar in the case of the crisis in the Middle East – the markets there 
+have no significant direct impact on the Group's business, and the monthly recurring revenue (MRR) attributable 
+to Israel is several dozen thousand dollars. 
+ 
+The Parent Company's business indicators are simultaneously affected by many factors, including the economic 
+situation in key markets (e.g., the USA, Great Britain, Canada, Australia), product changes, marketing activities, 
+competitors' activities, and many others. The most common reasons for customer churn, according to 
+declarations, are business-related issues (such as company closure or a change in business profile) and a lack of 
+chats. Factors such as pricing or the choice of competing products play a significantly smaller role. 
+ 
+The Management Board of the Parent Company analyses, on an on-going basis, the financial situation of the 
+Group and the economic situation within the scope which might affect the financial results of the Group. The 
+above-mentioned analyses do not indicate that there exists material operational risk and/or market risk (e.g., 
+falling demand for solutions offered by the Group, loss of expected profitability of operating activity) which 
+might pose a threat to the Group’s continued operations. 
+A factor that may have a significant impact on the Group's business environment in the coming quarters may 
+be the development of AI (artificial intelligence) technology. The Group is working to introduce further AI-based 
+functionalities (including those using solutions from external suppliers) into its products. During Q3, the 
+Company made available a commercial version of the ChatBot product based on its own AI solutions, and in 
+April 2024, AI - ONE assistant was made available to LiveChat product users. In September 2024, a new AI 
+model was introduced into the ChatBot product, significantly enhancing the user experience. The Company is 
+currently focused on developing a Suite-class solution that integrates the functionalities of its existing products 
+while introducing new features 
+The Group's aim is to provide more value to its customers in this way, which should also translate into further 
+growth for the Group and an increase in financial results. At the same time, however, rapid technological 
+changes in the market may pose a threat to the Group's market position if it fails to adapt to them effectively. 
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+12  
+  
+ 
+The use of AI-based solutions may also translate into increased work efficiency.  
+ 
+Declaration of compliance and basis for preparation, effect of changes of applied standards or 
+interpretations  
+ 
+These consolidated financial statements prepared as at the balance sheet date have been prepared in 
+accordance with the International Accounting Standards, the International Financial Reporting Standards and 
+interpretations issued by the International Accounting Standards Board approved by the European Union 
+(hereinafter referred to as the “IFRS EU”).  
+ 
+The IFRS EU comprise standards and interpretations accepted by the International Accounting Standards Board 
+(IASB) and the International Financial Reporting Interpretations Committee (IFRIC), approved for application in 
+the EU.   
+While preparing the consolidated financial statements as at the balance sheet date, the Parent Company 
+adopted all new and approved standards and interpretations issued by the International Accounting Standards 
+Board and the International Financial Reporting Interpretations Committee and approved for application in the 
+EU, applicable to its activity. 
+ 
+Standards, interpretations, and amendments to published EU-approved standards that are effective for the 
+first time in reports for annual periods beginning on or after 1 April 2024: 
+ 
+− 
+Changes to IAS 1 "Presentation of Financial Statements" – The IAS Board clarified the principles for 
+classifying liabilities as long-term or short-term primarily in two respects: (1) it has been clarified that the 
+classification depends on the rights the entity has at the balance sheet date, (2) management's intentions 
+to accelerate or delay payment of the liability are not taken into account. The changes are effective for 
+annual periods beginning on or after 1 January 2024. 
+− 
+Changes to IAS 1 "Presentation of Financial Statements" – The change clarifies that, as of the balance 
+sheet date, an entity does not consider covenants that will have to be met in the future when classifying 
+liabilities as long- or short-term. However, the entity should disclose information about these covenants 
+in the explanatory notes to the financial statements. The change is effective for annual periods beginning 
+on or after 1 January 2024. 
+− 
+Changes to IAS 7 "Cash Flow Statement" and IFRS 7 "Financial Instruments - Disclosures" – The changes 
+clarify the features of agreements for financing liabilities to suppliers (known as reverse factoring 
+agreements) and introduce the obligation to disclose information on agreements concluded with suppliers, 
+including their terms, amounts of these liabilities, payment dates, and information on liquidity risk. The 
+changes are effective for annual periods beginning on or after 1 January 2024. 
+− 
+Changes to IFRS 16 "Leases" – The change clarifies the requirements for measuring the lease liability 
+arising from sale and leaseback transactions. It is intended to prevent inaccurate recognition of the result 
+on a transaction in the portion relating to the retained right of use when lease payments are variable and 
+do not depend on an index or rate. Effective date: for annual periods beginning on or after 1 January 2024. 
+ 
+The new and revised standards, which are applicable for the first time in financial year 2024/25, do not have a 
+material impact on the Group's consolidated financial statements. 
+ 
+In preparing these consolidated financial statements, the Group has not elected to early adopt any standard, 
+interpretation or amendment that has been published but has not yet become effective under European Union 
+regulations.  
+Standards and interpretations that have been published by the International Accounting Standards Board, but 
+have not yet come into force, are listed below: 
+ 
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+13  
+  
+ 
+− 
+Changes to IFRS 7 and IFRS 9 "Financial Instruments" – effective for annual periods beginning on or 
+after 1 January 2026; 
+− 
+Changes to IAS 21 "The Effects of Changes in Foreign Exchange Rates"-applicable for annual periods 
+beginning on or after 1 January 2025; 
+− 
+New IFRS 18 "Presentation and Disclosures in Financial Statements" – applicable for annual periods 
+beginning on or after 1 January 2027; 
+− 
+New IFRS 19 "Subsidiaries without public accountability: disclosure of information" – applicable for 
+annual periods beginning on or after 1 January 2027. 
+− 
+New IFRS 14 "Regulatory Accruals" – in accordance with the decision of the European Commission, 
+the process of approving the standard in its preliminary version will not be initiated before the standard 
+is published in its final version. 
+ 
+The effective dates are based on the content of the standards issued by the International Financial Reporting 
+Council. However, in the European Union, the application dates may differ and are announced at the time of 
+their approval by the European Union. 
+ 
+According to estimates of the Parent Company early application of the above-mentioned standards, 
+interpretations and changes to standards would not have a material effect on these financial statements.  
+ 
+Description of the adopted accounting principles (policy) 
+  
+The accounting policies applied to preparation of these consolidated financial statements are coherent with the 
+policies used for preparation of the annual consolidated financial statements for the financial year ended 31 
+March 2024. 
+ 
+The statements were prepared according to the principle of historical cost.  
+ 
+Presentation of financial statements  
+ 
+The financial statements are presented in accordance with IAS 1.   
+ 
+The “Consolidated statement of comprehensive income” is presented in the multiple-step format, whereas the 
+“Consolidated cash flow statement” is presented using an indirect method.  
+ 
+In case of retrospective introduction of amendments to accounting policies or error adjustments, the Company 
+presents the statement of financial position additionally prepared for the beginning of the reference period.  
+ 
+Consolidation  
+ 
+The consolidated financial statements comprise the financial statements of the Parent Company and the 
+financial statements of the company controlled by the Parent Company, i.e. the subsidiary, prepared as at the 
+balance sheet day. The Parent Company is evaluating whether it exercises control in accordance with the 
+definition of “control” set out in IFRS 10. In accordance with the definition, an investor controls an investee 
+when the investor is exposed, or has rights, to variable returns from its involvement with the investee and has 
+the ability to affect those returns through its power over the investee.  
+ 
+The financial statements of the Parent Company and the subsidiary covered by the consolidated financial 
+statements are prepared as at the same balance sheet date. Where it is necessary, adjustments are made to the 
+financial statements of the subsidiary in order to standardize the accounting policies used by the company to 
+adapt to the policies used by the Group of Companies.   
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+14  
+  
+ 
+ 
+The subsidiary is covered by consolidation using the full consolidation method.  
+ 
+The full consolidation method consists in combining financial statements of the Parent Company and its 
+subsidiary by way of aggregating full values of particular groups of assets, liabilities, equity, revenues and costs.  
+In order to present the Group of Companies as if it were a single business entity, the following intercompany 
+eliminations are made:  
+• 
+As at the moment of acquiring control the company’s goodwill or profit are recognized,  
+• 
+Non-controlling interests are determined and presented separately,  
+• 
+Balances of settlements between Group companies and transactions (revenues, costs, dividends) are 
+eliminated in full,  
+• 
+Gains and losses on intragroup transactions recognized at the carrying value of such assets as inventory 
+and fixed tangible assets are subject to elimination. Losses on intragroup transactions are analysed in 
+terms of asset impairment from the Group’s perspective,  
+• 
+The deferred tax due to temporary differences resulting from eliminating profits and losses on 
+intragroup transactions is recognized.  
+Foreign currency transactions  
+ 
+The Financial statements are presented in Polish zloty (PLN) which is the Parent Company’s functional currency.  
+ 
+Transactions expressed in currencies other than Polish zloty are converted to Polish zloty at the rate applicable 
+at the date of the transaction (spot exchange rate).  
+ 
+As at the balance sheet date, financial items in foreign currencies are translated into Polish zloty at the closing 
+exchange rate at the end of the reporting period, that is the average exchange rate fixed for a particular foreign 
+currency by the National Bank of Poland.  
+ 
+Non-monetary items are measured in terms of historical cost in a foreign currency and shown at the historical 
+cost value on the transaction day.  
+ 
+Non-monetary balance sheet items recorded at their fair value, expressed in a foreign currency, are measured 
+at the exchange rate as at the date of fair value determination, i.e. the average exchange rate determined for a 
+particular currency by the National Bank of Poland.  
+ 
+Intangible assets  
+ 
+Intangible assets cover patents and licenses, software, research and development costs and other intangible 
+assets that meet the criteria specified in IAS 38. The Group does not have any intangible assets with an 
+unlimited period of use.  
+ 
+Intangible assets as at the balance sheet date are carried at their cost less any accumulated amortization and 
+any accumulated impairment losses. Intangible assets with finite useful life are amortized using straight-line 
+method over the period of their useful economic life. The useful lives of specific intangible assets are reviewed 
+annually and, if necessary, adjusted effective from the beginning of the following financial year. 
+ 
+The annual amortization rates for costs of completed research and development are as follows: 
+− 20% for LiveChat and HelpDesk solutions;  
+− 30% for ChatBot solution.   
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+15  
+  
+ 
+ 
+The period was determined on the basis of duration of projects as part of which qualifying expenditures are 
+incurred. Measurement of research and development is the aggregate net value of invoices issued by 
+software developers dedicated to specific solutions (products).  
+ 
+Costs connected with software maintenance, incurred in future periods, are recognized as period costs at the 
+time they are incurred.  
+ 
+Research and development costs are recognized in the income statement at the moment they are incurred.  
+ 
+Expenditures directly connected with research and development are capitalised only if the criteria below are 
+met:  
+ 
+– 
+Completion of an intangible asset is feasible from the technical point of view so that it can be intended 
+for use or sale, 
+– 
+The Group intends to complete an asset and use or sell it, 
+– 
+The Group is capable of using or selling the intangible asset, 
+– 
+The intangible asset will bring economic benefits, and the Group can prove such benefits, for example 
+by – the existence of such an item in the market or its usability for the Group needs, 
+– 
+The Group is provided with technical, financial or other sources necessary for completing research and 
+development works with a view to selling or using the intangible asset, 
+– 
+Expenditures incurred in the course of research and development may be reliably measured and 
+allocated to a particular intangible asset. 
+ 
+Expenditures on research and development performed as part of a particular project are carried forward to the 
+following period if they may be expected to be recovered in the future. Future benefits are assessed based on 
+the policies set forth in IAS 36.  
+ 
+After initial recognition of expenditures on research and development, the historical cost method is applied, in 
+accordance with which assets are carried at their cost less any accumulated amortization and any accumulated 
+impairment losses. Completed research and development is amortized using a straight line method over the 
+foreseen period of their economic useful life, which on average is 3 years.  
+ 
+Gains and losses arising from disposal of intangible assets are determined as the difference between net 
+proceeds from sale and the carrying value of the intangible asset being disposed of.  
+Such gains and losses are recognized in the financial result as other revenues or operating costs at the time the 
+acquirer takes over control over the intangible asset in accordance with the requirements of IFRS 15. The 
+amount of remuneration in the intangible asset disposal transaction is determined in accordance with the 
+requirements of IFRS 15 relating to transfer pricing.  
+ 
+Property, plant and equipment  
+ 
+Property, plant, and equipment are initially recognized at acquisition or production cost. The acquisition cost 
+includes all expenses directly attributable to the purchase and preparation of the asset for its intended use. 
+ 
+After initial recognition of property, plant and equipment, excluding land, it is then presented at its acquisition 
+cost or manufacture cost less depreciation and impairment losses. Property, plant and equipment in progress is 
+not depreciated until the construction or assembly is finished and the asset is put into operation.  
+ 
+Assets are depreciated using the straight line method for the estimated period of use of a particular asset.  
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+16  
+  
+ 
+ 
+The annual depreciation rates applied by the Company are as follows:  
+ 
+−  computers – 30%;  
+ 
+−  adaptation of office space – 50%.  
+  
+Depreciation starts in a month following the month in which the fixed tangible asset becomes ready for use. 
+Economic useful lives and depreciation methods are verified once a year, resulting in an adjustment, if any, of 
+depreciation charges in the following years.  
+ 
+Fixed tangible assets are divided into elements being items of a significant value, to which a separate useful life 
+period can be assigned. A fixed tangible asset element can also be the cost of a major inspection as well as 
+significant spare parts and equipment, if they are used over a period longer than one year. Current costs 
+incurred after a fixed tangible asset commissioning, such as maintenance and repair costs, are recognized in the 
+income statement on the day they are incurred.  
+ 
+A particular item of property, plant and equipment may be removed from the statement of financial position 
+after disposal or if no economic benefits are expected from further using of such asset. Gains or losses on sale, 
+liquidation or cessation of use of fixed tangible assets are determined as the difference between revenues from 
+sales and the net value of such fixed tangible assets.  
+ 
+Such gains and losses are recognized in the result as other revenues or operating costs at the time the acquirer 
+takes over control over an item of plant, property and equipment in accordance with the IFRS requirements. 
+The amount of remuneration in the plant, property and equipment disposal transaction is determined in 
+accordance with the requirements of IFRS 15 relating to transfer pricing.  
+  
+Financial instruments  
+ 
+A financial instrument is any contract that gives rise to a financial asset of one party and a financial liability or 
+equity instrument of another party.  
+A financial asset or financial liability is recognized in the statement of financial position when the Group 
+becomes a party to such instrument. Standardized transactions of purchase and sale of financial assets and 
+liabilities are recognized as at the date of the transaction.  
+A financial asset is excluded from the financial statements when the rights to cash flows from the financial asset 
+expire or when the financial asset and basically the risk and benefits resulting from this asset are transferred 
+onto another entity.  
+  
+The Group derecognizes a financial liability from its statement of financial position only when it ceases to exist, 
+that means when the obligation specified in the contract was discharged, expired or cancelled. As at the 
+acquisition date, the Group measures financial assets and liabilities at their fair value, i.e. usually at the fair value 
+of payment made – in the case of an asset – or received – in the case of a liability. The Group includes the 
+transaction costs in the initial value of all the financial assets and liabilities, except for assets and liabilities 
+measured at their fair value through the consolidated statement of comprehensive income.  
+ 
+As at the balance sheet date, financial assets or liabilities are measured according to the principles shown 
+below:  
+ 
+Financial assets  
+According to IFRS 9, the Group classifies financial assets into the following categories:   
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+17  
+  
+ 
+ 
+– 
+measured at amortized cost (applies to instruments which, in case of a pre-mature payment cause 
+that an entity gets a smaller payment than the sum of the principal amount and interest (so-called 
+negative compensation),   
+– 
+measured at the fair value through other comprehensive income,   
+– 
+measured at the fair value through the financial result.  
+  
+The classification is made at the moment of the initial recognition of an asset. The classification of financial 
+assets depends on a business model of financial asset management and on the characteristics of contractual 
+cash flows (SPPI test) for a particular financial asset.  
+  
+In the category of assets measured at amortised cost, the Group classifies accounts receivable, granted loans 
+that successfully passed the SPPI test, other receivables, deposits, cash and cash equivalents.  
+  
+Financial assets measured at amortised cost are measured at the amount of amortised cost using the effective 
+interest rate method and taking into account any impairment losses. Accounts receivable with the maturity 
+below 12 months from the date they arise (i.e. exclusive of a financing element) not transferred for factoring 
+are not subject to discounting and are measured at the nominal value.  
+  
+In the category of assets measured at the fair value through other comprehensive income, the Group classifies 
+a financial asset upon fulfilment of the following conditions:   
+  
+− it is maintained in a business model the purpose of which is to obtain contractual cash flows due to 
+financial assets held or due to sale of financial assets, and   
+− contractual conditions give the right to obtain on defined dates cash flows consisting only of the capital 
+and interest on capital (i.e. successfully passed the SPPI test).  
+  
+The effects of changes of the fair value are recognized in other comprehensive income until the asset is no 
+longer recognized in the statement of financial position, when the accumulated profit/loss is recognized in the 
+statement of result.  
+In the category of assets measured at the fair value through the financial result, the Group classifies all financial 
+instruments that have not been classified as measured at the amortised cost or measured at the fair value 
+through other comprehensive income.  
+  
+Gains and losses on a financial asset classified as measured at the fair value through the financial result are 
+recognized in the financial result of the period in which they were generated (including revenues from interest 
+and dividends).  
+  
+IFRS 9 introduced an approach to loss assessment with respect to financial assets measured at amortised cost. 
+This approach is based on determining the expected losses, irrespectively of whether there were signs for 
+impairment loss or not. Due to the specificity of the activities run (sales to counterparties with a low credit risk, 
+the lack of impairment losses on financial assets determined on the basis of assessment made in the past, no 
+historically significant unfulfilled liabilities, cooperation with financial institutions with a stable rating), the 
+Group has not recognized in its consolidated statements any impairment losses on the grounds of expected 
+losses, as it finds them insignificant.   
+  
+The Group does not apply hedge accounting, therefore the IFRS 9 standard does not apply here.  
+  
+ 
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+18  
+  
+ 
+ 
+Financial liabilities  
+Financial liabilities other than hedging derivatives are presented in the following balance sheet items:  
+ 
+•  Accounts payable and other liabilities.  
+ 
+After initial recognition, financial liabilities are measured at amortised cost by applying the effective interest 
+method, save for held-for-trading financial liabilities or financial liabilities measured at their fair value through 
+profit or loss.   
+ 
+In the category of financial liabilities measured at their fair value through profit or loss, the Group recognises 
+derivative instruments other than hedging instruments. Short-term accounts payable are measured at the 
+amount due on account of insignificant discount effects.  
+Gains and losses on measurement of financial liabilities are recognized in profit or loss on financing activity.  
+ 
+Cash and cash equivalents  
+ 
+Cash and cash equivalents cover cash on hand and in bank accounts, as well as short-term investments of 
+high liquidity, easily exchangeable for cash, with low risk of changing value.  
+ 
+Equity  
+ 
+The share capital is presented at the nominal value of issued shares in accordance with the Articles of 
+Association of the Parent Company and the entry in the National Court Register.  
+The Parent Company’s shares which were purchased and retained by the Parent Company or consolidated 
+subsidiaries reduce equity. Treasury shares are measured at cost.  
+The capital from the sale of shares above their nominal value is created from the surplus of the issue price 
+above the share nominal value decreased by the issuance cost.  
+The other capitals comprise earnings retained by the Company.  
+ 
+Provisions, liabilities and contingent assets  
+ 
+Provisions are recognized when the Group has a present obligation (legal or constructive) as a result of past 
+events, and it is probable that an outflow of economic benefits will be required to settle the obligation and a 
+reliable estimate can be made of the amount of the obligation. Date of incurring as well as the amount of the 
+obligation may be uncertain.  
+ 
+Provisions are not recognized for future operating losses.  
+ 
+Provisions are recognized at the estimate of the expenditure required to settle the present obligation, based on 
+the most reliable evidence available as at the date of preparation of the consolidated financial statements, 
+including evidence concerning risks and uncertainties. In case money impact in time is significant, the provision 
+amount is determined by discounting the prospected future cash flows to the current value using a discount 
+rate reflecting current market assessments of money value in time and the possible risk related to a particular 
+obligation. If the discounting method is applied, the increase in the provision connected with the passing of 
+time is recognized as financial cost.  
+ 
+ 
+ 
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+19  
+  
+ 
+ 
+If the Group expects the costs covered by the provision to be reimbursed, e.g. under an insurance contract, the 
+reimbursement is recognized as a separate asset, but only when it is reasonably certain that the reimbursement 
+will be received. However, the value of the asset may not exceed the amount of the provision.  
+ 
+In case outflow of resources for settling the present obligation is not possible, the contingent liability is not 
+recognized in the balance sheet, except for contingent liabilities identified in the process of business 
+combination according to IFRS 3.  
+ 
+Leasing  
+ 
+IFRS 16 defines rules of recognizing certain leasing items in terms of measurement, presentation, and disclosure 
+of information. According to IFRS 16, all contracts complying with the definition of leasing, or contracts that 
+include leasing, are presented according to the model that has been applied to financial leasing contracts so 
+far.  
+Such contracts constitute a lease and have been recognized in accordance with a uniform model of lessee 
+accounting, which entailed recognising assets due to the right of use of buildings and liabilities thereto, which 
+reflect the obligation to make lease payments. 
+ 
+The Group owns a single agreement, which according to IFRS 16, meets the criteria of a lease – being a contract 
+for the lease of the office and the registered office of the Parent Company.  
+ 
+Revenues from sales  
+  
+IFRS 15 “Revenue from contracts with customers” was published by the IFRS Board on 28 May 2014 and 
+applies to annual periods commencing on or after 1 January 2018. 
+ 
+In accordance with IFRS 15, revenues from sales of services, less value added tax, discounts and rebates are, 
+recognized when the obligation to perform is fulfilled by providing the counterparty with a service.  
+ 
+Revenues include received or due inflows of economic benefits to which the Group is entitled. Receivables 
+from sales are amounts due or received for sales of assets and services, less applicable value added tax. The 
+amount of revenues is determined at the fair value of payment received or due, taking into account any 
+commercial discounts granted by the Group. Revenues from sales of services are recognized in the period in 
+which the services were provided.  
+ 
+The Group’s business is mostly based on retail sales to the end client (natural or legal person). When a service 
+purchase agreement is entered into, specified goods are immediately transferred via online distribution 
+channels at the time payment is received by the financial intermediary (payment aggregator). In the course of 
+ongoing business of the Group, agreements are continuously entered into with end clients with the use of 
+agreements signed remotely (i.e. acceptance of the terms of service and payment on terms and conditions 
+defined by the Group).  
+ 
+ According to the standard, variable amounts are not treated as revenues, unless there is a strong likelihood, 
+that in the future they will be reversed as a result of revaluation. Recognition and revaluation in the standard 
+are also applied to recognition and measurement of profit/loss on sale of non-financial assets, if such sale is not 
+made in the regular course of the economic activities run.   
+ 
+ 
+ 
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+20  
+  
+ 
+ 
+The Group presents the recognized revenues from contracts with customers divided into categories, which 
+reflect the way economic factors affect the nature, amount, payment date and uncertainty of revenues and 
+cash flows.  
+ 
+Revenues from sales are exclusively revenues generated by contracts concluded with customers which are 
+subject to IFRS 15. The way of treating revenues from sales in the consolidated financial statements of the 
+Group, including the value as well as the moment of recognising the revenues, is defined by a five-stage model 
+consisting of the following steps:  
+  
+1. Identification of a contract with a customer – The Group recognizes a contract with a customer only if 
+all of the following criteria are met: the parties have entered into a contract (in writing or 
+electronically) and are obligated to perform their obligations; the Group can identify the rights of each 
+party regarding the services to be transferred; the Group can identify the terms of payment for the 
+services to be transferred; the contract has economic substance (i.e., the risk, timing, or amount of the 
+Group's future cash flows can be expected to change as a result of the agreement); and it is likely that 
+the Group will receive the consideration to which it is entitled in exchange for the services to be 
+transferred to the customer. 
+ 
+2. Identification of performance obligations – At the time of entering into a contract, the Group evaluates 
+the services promised and identifies as a performance obligation any promise to transfer to the 
+customer a service (or bundle of services) that can be distinguished, or a group of separate services 
+that are substantially the same and transferred in the same manner. A service is considered separable 
+if it meets both of the following conditions: the customer can benefit from the service either directly 
+or through a link to other readily available resources; and the Group's obligation to transfer the 
+service is separable from other obligations in the contract. 
+ 
+3. Determination of transaction price – To determine the transaction price, the Group considers the terms 
+of the contract and its customary business practices. The transaction price is the amount of 
+remuneration that the Group expects to receive in exchange for providing the promised services to 
+the customer, excluding amounts collected on behalf of third parties. The remuneration specified in 
+the contract with the customer may include fixed amounts, variable amounts, or both. 
+ 
+4. Assignment of transaction price to performance obligations – The Group assigns a transaction price to 
+each performance obligation in an amount that reflects the consideration the Group expects to 
+receive for providing the promised services to the customer. 
+ 
+5. Revenue recognition during or after fulfilment of performance obligations – The Group recognizes 
+revenue at the time of fulfilment, or during the process of fulfilment, of a performance obligation by 
+transferring the promised service to the customer 
+ 
+ 
+Almost 95% of the consolidated sales revenues of the Group are generated by its subsidiary – Text Inc. 
+Revenues include 1- and 12-month licenses for the Issuer's products offered in the B2B segment. Revenue is 
+recognized in the period in which the service is provided – from the moment the contract is concluded until the 
+license expires. Following IFRS 15, revenue deferred to subsequent periods is currently presented in the 
+consolidated financial statements as a contractual liability that is settled when the service is provided. The 
+settled contract obligation increases net revenues from the sale of services. 
+ 
+ 
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+21  
+  
+ 
+ 
+In accordance with the general terms and conditions of Text Inc., the company is entitled to make changes such 
+as adding, removing, or modifying individual functionalities, and even discontinuing the provision of services, in 
+particular when it is related to the need for their modification or further development. However, the service 
+provider is not obliged to make such changes or updates. The support provided by the Company in no way 
+relates to the infrastructure, equipment, or Internet access on the part of customers. 
+ 
+Interest and dividends  
+ 
+Interest revenues are recognized progressively as they accrue in accordance with the effective interest rate 
+method. Dividends are recognized when the shareholder's right to receive payment is established.  
+ 
+Operating costs  
+ 
+Operating costs are recognized in the income statement using the matching principle. In its consolidated 
+financial statements, the Group presents costs according to the respective cost centers.  
+ 
+Income tax (incl. deferred tax)  
+ 
+The tax charged to the financial result comprises current tax and deferred tax, which was not recognized in 
+other comprehensive income or directly in equity.  
+Current tax expense is calculated based on taxable income (taxable basis) for a given financial year. Taxable 
+profit (loss) differs from the gross profit (loss) presented in the books due to a temporary transfer of taxable 
+revenues and costs being the cost of obtained revenues to other periods and due to excluding revenue and 
+cost items which will never be subject to taxation. Tax charges are computed based on tax rates in force in a 
+given tax year.  
+ 
+The Parent Company as a company that runs research and development activities gets its revenues from 
+qualifying intellectual property rights and uses the preferential tax rate. The Company as of 22 October 2019 
+was granted an individual interpretation of tax law regulations concerning corporate income tax and issues 
+related to preferential tax rates applied to income generated by intellectual property rights. In order to be 
+eligible for the IP Box tax relief, the Company:  
+  
+• 
+divides the taxable income into income from qualifying intellectual property rights and from other 
+sources,   
+• 
+calculates the nexus ratio for income from qualifying intellectual property rights according to the rules 
+defined in the Corporate Income Tax Act,   
+• 
+the nexus ratio is used for computing the amount of tax for each income source.   
+ 
+Deferred income tax is calculated by applying the balance sheet method as tax payable or refundable in the 
+future on differences between the carrying values of assets, liabilities and shareholders’ equity and the 
+corresponding tax values used for calculation of the taxable basis.  
+ 
+Deferred income tax liability is recognized on all positive taxable temporary differences and deferred income 
+tax assets are recognized up to the amount in which it is probable that future tax gains may be reduced by 
+recognized negative temporary differences. Neither an asset nor provision is recognized if the temporary 
+difference results from the initial recognition of assets or liabilities in a transaction which is not a business 
+combination and which at the time of its occurrence does not have an impact either on the taxable or 
+accounting result. Deferred income tax liabilities are not recognized for goodwill which is not subject to 
+amortisation under the provisions of tax law.  
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+22  
+  
+ 
+ 
+Deferred income tax is calculated with the use of tax rates which will be applicable when the asset is recovered 
+or the liability is settled, based on legal provisions applicable as at the balance sheet date.  
+The value of deferred income tax assets is analysed as at each balance sheet date, and in case the prospected 
+taxable profits will not be sufficient to realise the asset or its part, a relevant impairment loss is recognized.  
+ 
+Subjective judgement made by the Management Board and uncertainty of assessments  
+ 
+While preparing the consolidated financial statements, the Management Board of the Parent Company follows 
+judgement when making estimates and assumptions that affect the applied methods and the presented 
+amounts of assets, liabilities, equity, revenues and costs. The actual results may differ from the estimates of the 
+Management Board.  
+Information on the estimates and assumptions which are significant for the consolidated financial statements 
+is presented below.  
+ 
+Judgments connected with research and development  
+The Group begins capitalising expenditures on research and development when it is possible to demonstrate 
+that such works will constitute probable future economic benefits and provided that the Group has sufficient 
+funds required for completion, use and derivation of benefits from an intangible asset. Fulfilment of both 
+criteria, i.e. possibility to derive future economic benefits and having sufficient funds, is based on judgment of 
+the Management Board arising from an analysis of the market and the Group’s financial situation.  
+ 
+Recognising revenues from contracts with customers  
+ 
+The Company recognises revenues using the so-called five-step model provided for in IFRS 15. The revenues 
+comprise only the amounts received or due that are equal to transaction prices the Company is entitled to after 
+meeting (or when meeting) the obligation to render services, namely, to transfer the promised goods or services 
+(that is an asset) to the customer. Revenue includes 1- and 12-month licenses. After the expiry of the free trial 
+period in which the customer can learn about the product's functionalities, the fee for the subsequent periods 
+is charged in advance. All income is recognized as it is earned (at a point in time). The company is entitled to 
+introduce changes such as adding, removing, or modifying certain functionalities, and even cessation of 
+services, in particular in a situation where it is related to the need to modify or further develop them. However, 
+the service provider is not obliged to make such changes or updates. 
+The transaction price means the amount, to which, as the Company expects, the Company will be entitled to 
+for transferring the promised goods or services, less VAT.   
+ 
+Periods of economic useful life of non-current assets  
+The Management Board of the Parent Company verifies annually (as at the balance sheet date) periods of 
+economic useful life of non-current assets subject to amortisation. As at 31 March 2025, the Management 
+Board estimates that the economic useful life periods accepted by the Group for amortisation purposes reflect 
+the expected periods of receiving economic benefits from those assets in the future. However, the actual 
+periods of receiving benefits from those assets in the future may differ from the assumed ones, also due to 
+technical ageing of the assets.   
+ 
+Provisions  
+Provisions are recognized when the Group has an existing obligation (legal or customary) arising from past 
+events. Also, when it is certain or highly probable that an outflow of resources reflecting economic benefits will 
+be required to meet the obligation, and when a reliable estimate of the amount of the obligation can be made.  
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+23  
+  
+ 
+ 
+The amount of created provisions is reviewed and updated at the end of the reporting period to adjust the 
+estimates to those consistent with the Group's state of knowledge at that date. 
+ 
+Deferred income tax assets  
+Probability of settling deferred income tax assets with future taxable profits is based on the budget of the 
+Group companies approved by the Management Board of the Parent Company. If the projected financial results 
+show that the Group companies will generate taxable income, deferred income tax assets are recognized in full 
+amount.  
+ 
+Impairment loss on non-financial assets  
+In order to determine the useful value, the Management Board assesses the projected cash flows and the rate 
+at which the cash flows are discounted to the current value. In the process of measuring the current value of 
+future cash flows, the projected financial results are assumed. The assumptions refer to future events and 
+circumstances. The actually realized values may differ from the estimated ones, which in the following reporting 
+periods may cause adjustments in the value of the assets of the Group.  
+ 
+Expected credit losses on financial assets  
+Losses relating to financial assets measured at amortised cost are assessed by determining the expected losses, 
+independently of whether there were circumstances for impairment loss or not. Owing to the nature of the 
+activities run (sales to customers with low credit risk, the lack of impairment losses on financial assets 
+determined on the basis of assessments made in the past, no historical unfulfilled liabilities, cooperation with 
+financial institutions that have a stable rating), the Group has not recognized any impairment losses in its 
+consolidated statements on the basis of expected losses because it found them insignificant.   
+9. ADDITIONAL NOTES AND EXPLANATIONS 
+Explanatory notes to the statement of financial position 
+Note 1 Property, plant and equipment  
+Property, plant and equipment 
+As at 
+As at 
+31 March 2025 
+31 March 2024 
+Buildings and structures 
+ 5 064  
+1 078 
+Technical equipment and machinery 
+ 1 242  
+1 150 
+TOTAL PROPERTY, PLANT AND EQUIPMENT 
+ 6 306  
+ 2 228  
+ 
+The most important element of items other than buildings and structures is computer equipment. As at 31 
+March 2025, there were no significant liabilities due to the purchase of fixed tangible assets. The buildings and 
+structures are related to the recognized long-term office lease agreement, specifically for the headquarters of 
+the Parent Company, in accordance with IFRS 16. 
+ 
+Property, plant and equipment in the reporting period 
+from 1 April 2024 to 31 March 2025 
+Buildings and 
+structures  
+Technical equipment 
+and machinery  
+Total property, plant 
+and equipment  
+Gross balance sheet value as at 1 April 2024 
+5 230  
+ 4 321  
+9 551  
+Direct acquisitions  
+136  
+ 895  
+1 031  
+Increases due to differences in new lease agreement (IFRS 
+16) 
+5 006  
+ -  
+5 006  
+Decreases resulting from sale  
+- 
+155  
+139 
+Decreases resulting from liquidation  
+4 756  
+ 70  
+4 826  
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+24  
+  
+ 
+Gross balance sheet value as at 31 March 2025  
+ 5 616  
+ 4 991  
+ 10 607  
+Accumulated depreciation as at 1 April 2024  
+ 4 152  
+ 3 171  
+ 7 323  
+Increase of depreciation for the period  
+ 1 156  
+ 803  
+1 959  
+Decreases resulting from sale  
+ -  
+155  
+70 
+Decreases resulting from liquidation  
+4 756  
+155  
+ 4 911  
+Accumulated depreciation as at 31 March 2025 
+552  
+ 3 749  
+ 4 301  
+Value of impairment losses as at 1 April 2024 
+- 
+ -  
+ -  
+Value of impairment losses as at 31 March 2025 
+- 
+ -  
+ -  
+Net value as at 31 March 2025 
+5 064  
+ 1 242  
+ 6 306  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Property, plant and equipment in the reporting period 
+from 1 April 2023 to 31 March 2024 
+Buildings and 
+structures 
+Technical equipment 
+and machinery 
+Total property, plant 
+and equipment 
+Gross balance sheet value as at 1 April 2023 
+4 272 
+5 518 
+9 790 
+Increases due to differences in new lease agreement 
+- 
+338 
+338 
+Direct acquisitions  
+958 
+- 
+958 
+Decreases resulting from sale  
+- 
+506 
+506 
+Decreases resulting from liquidation  
+- 
+1029 
+1 029 
+Gross balance sheet value as at 31 March 2024 
+5 230 
+4 321 
+9 551 
+Accumulated depreciation as at 1 April 2023 
+3 285 
+3 832 
+7 117 
+Increase of depreciation for the period  
+867 
+863 
+1 730 
+Decreases resulting from sale  
+- 
+506 
+506 
+Decreases resulting from liquidation  
+- 
+1 018 
+1 018 
+Accumulated depreciation as at 31 March 2024 
+4 152 
+3 171 
+7 323 
+Value of impairment losses as at 1 April 2023 
+- 
+- 
+- 
+Value of impairment losses as at 31 March 2024 
+- 
+- 
+- 
+Net value as at 31 March 2024 
+1 078 
+1 150 
+2 228 
+ 
+ 
+The Group implemented IFRS 16 Leasing on 1 April 2019. As a result of application of the standard as at 1 April 
+2019, assets in the form of the right to use office space were recognized in the consolidated statement of 
+financial position. These assets are disclosed in the consolidated statement of financial position under Property, 
+plant and equipment, buildings and structures.   
+As of 31 March 2025, the office lease agreement concluded by the Parent Company was converted into an 
+agreement for an indefinite period. The Management Board estimates that this agreement will remain in force 
+for approximately 60 months from 31 March 2025. In connection with this change, a right-of-use asset in the 
+amount of (PLN thousand) 5,006 was recognized. At the same time, the previously recognized asset related to 
+the lease of the same office space, in the amount of (PLN thousand) 4,756 (gross value and accumulated 
+depreciation, resulting in a net value of zero), was derecognized. 
+ 
+The value of the machinery and equipment purchased in the current period amounted to PLN 895 thousand. 
+As at 31 March 2025, there were no significant liabilities due to the purchase of fixed tangible assets.  
+Note 2 Intangible assets  
+ 
+Intangible assets 
+As at 
+31 March 2025 
+31 March 2024 
+Research and development costs  
+                                    71 620  
+ 63 892  
+Other intangible assets, including intangible assets in progress  
+                                       4 943  
+ 5 196  
+TOTAL INTANGIBLE ASSETS  
+                                    76 563  
+ 69 088  
+ 
+ 
+The table below presents the main items of research and development related to the applications.  
+ 
+ 
+ 
+ 
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+25  
+  
+ 
+Costs of research and development, including costs related to the 
+following applications: 
+As at 
+31 March 2025 
+31 March 2024 
+LiveChat 
+                                    56 484  
+ 49 406  
+ChatBot 
+                                       2 854  
+ 2 512  
+HelpDesk 
+                                       5 262  
+ 4 034  
+Text.com 
+                                       6 218  
+ 7 012  
+KnowledgeBase 
+                                           802  
+ 928  
+TOTAL   
+                                    71 620  
+                                    63 892  
+ 
+ 
+Intangible assets in the reporting period from 1 April 2024 to 31 
+March 2025 
+Research and 
+development costs 
+Intangible assets in 
+progress 
+Total intangible 
+assets 
+Gross balance sheet value as at 1 April 2024 
+ 124 992   
+ 5 196   
+ 130 188   
+Reclassifications 
+30 009 
+(254) 
+29 755  
+Gross balance sheet value as at 31.03.2025 
+ 155 001   
+ 4 942   
+ 159 943   
+Accumulated amortisation as at 1 April 2024 
+ 61 100   
+ -   
+ 61 100   
+Increase of amortisation for the period 
+ 22 280   
+ -   
+ 22 280   
+Gross balance sheet value as at 31.03.2025 
+ 83 380   
+ -   
+ 83 380   
+Value of impairment losses as at 1 April 2024 
+ -   
+- 
+ -   
+Value of impairment losses as at 31.03.2025 
+ -   
+- 
+ -   
+Net value as at 31.03.2025 
+ 71 621   
+ 4 942   
+ 76 563   
+ 
+Intangible assets in the reporting period from 1 April 2023 to 31 
+March 2024 
+ 
+Research and 
+development costs  
+Intangible assets in 
+progress  
+Total intangible 
+assets  
+Gross balance sheet value as at 1 April 2023 
+95 547 
+4 708 
+100 255 
+Reclassifications 
+29 445  
+488  
+29 933  
+Gross balance sheet value as 31 March 2024 
+124 992  
+5 196  
+130 188  
+Accumulated amortization as at 1 April 2023 
+43 263  
+- 
+43 263  
+Increase of amortization for the period 
+17 837  
+- 
+17 837  
+Gross balance sheet value as at 31 March 2024 
+61 100  
+- 
+61 100  
+Value of impairment losses as at 1 April 2023 
+- 
+- 
+- 
+Value of impairment losses as at 31 March 2024 
+- 
+- 
+- 
+Net value as at 31 March 2024 
+63 892  
+5 196  
+69 088  
+ 
+The significant component of intangible assets is costs of non-completed research and development connected 
+with subsequent versions of products offered by the Group, with the value of (PLN thousand) 4,942 as at 31 
+March 2025 compared to (PLN thousand) 5,196 as at 31 March 2024. 
+Costs of non-completed research and development relate to products put into service (i.e. LiveChat, ChatBot, 
+HelpDesk, Text.com, and KnowledgeBase) and thus released for production. Such costs only include direct 
+expenditures on services connected with the development of applications such as programming and testing 
+services. All development expenditures incurred in the period of approx. 2 months are then accepted for 
+production (made available to customers). 
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+26  
+  
+ 
+LiveChat, ChatBot, and HelpDesk products account for nearly 100% of the Group's net sales revenue and, 
+therefore, constitute complete cash-generating centres. 
+  
+The Parent Company conducts an annual impairment test for the expenditure incurred on development works. 
+As a result of the impairment test carried out as at 31 March 2025, it should be stated that there was no 
+impairment of the expenditure incurred on development works. In addition, it should be noted that there are 
+no decreases in the costs of unfinished development works because all expenses for development works 
+incurred in the period of approx. 2 months are then accepted for production and spent. The next impairment 
+test for the expenditure incurred on development works will be carried out on 31 March 2026. 
+The recoverable amount of cash-generating units to which costs of uncompleted development works with 
+indefinite useful lives have been allocated has been determined on the basis of the use value calculated from 
+the cash flow forecast. 
+The main assumptions adopted to determine the value in use concerned: 
+– 
+service sales profitability; 
+– 
+the level of investment expenditures; 
+– 
+the level of working capital involvement;  
+– 
+a discount rate based on the weighted average cost of capital and reflecting the current market 
+assessment of the time value of money and the risk related to operating activities. 
+The impairment test was carried out on the basis of the following assumptions in three scenarios: 
+31 March 2025 
+Scenario 1 
+Scenario 2 
+Discount rate 
+11.00% 
+9.00% 
+Residual Growth Rate 
+0.00% 
+0.00% 
+EBITDA profitability 
+59.02% 
+57.70% 
+EBIT profitability 
+52.30% 
+50.98% 
+ 
+ 
+The conducted test did not show the need to recognize an impairment loss on the above-mentioned assets. 
+The Management Board of the Parent Company is convinced that no reasonably possible change in any key 
+assumptions determined as part of the tests performed will cause the carrying amount of the tested asset to 
+significantly exceed its recoverable amount. At the time of publication of this report, there were no 
+circumstances obliging the Group to prepare an update of the above-mentioned impairment test. 
+Intangible assets are not hedged in any of the presented periods. The Group has no intangible assets held for 
+sale. 
+Note 3 Long-term receivables  
+ 
+Long-term receivables as at 31 March 2025 amounted to PLN 160,000 and mainly concerned deposits paid (31 
+March 2024: PLN 0). In the comparative period, the Company did not recognize any impairment losses on long-
+term receivables.  
+Note 4 Prepayments and accruals   
+ 
+Long-term prepayments 
+As at 
+31 March 2025 
+31 March 2024 
+Long-term prepayments  
+                  38  
+1 
+TOTAL LONG-TERM PREPAYMENTS  
+                  38  
+1 
+  
+Short-term prepayments are related to costs accounted for over time.   
+ 
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+27  
+  
+ 
+Short-term prepayments 
+As at 
+31 March 2025 
+31 March 2024 
+Annual fees (domains, licences) 
+           1 781  
+ 663  
+Other 
+               115  
+ 78  
+TOTAL SHORT-TERM PREPAYMENTS 
+           1 896  
+ 741  
+ 
+Note 5 Accounts receivable and other receivables  
+  
+The majority of accounts receivable concerns short-term receivables from payment agents and transfer of 
+payments collected from customers. The other accounts receivable mature at up to 30 days.  
+  
+Accounts receivable and other receivables are measured at the amount of the amortised cost using the 
+effective exchange rate method and taking into account impairment losses on receivables. The book value 
+of receivables is close to their fair value.   
+Accounts receivable with maturity date of below 360 days following the date they occur are not subject to 
+discounting.  
+ 
+ 
+Receivables 
+31 March 2025 
+31 March 2024 
+Value  
+Impairment 
+losses  
+Balance sheet 
+value  
+Value  
+Impairment 
+losses  
+Balance sheet 
+value  
+Accounts receivable 
+1 536  
+- 
+1 536  
+3 398  
+- 
+3 398  
+CIT receivables 
+34 032  
+- 
+34 032  
+23 059 
+- 
+23 059 
+VAT receivables 
+22 355  
+- 
+22 355  
+21 073 
+- 
+21 073 
+Other receivables 
+67  
+- 
+67  
+759  
+- 
+759  
+TOTAL RECEIVABLES: 
+57 990  
+- 
+57 990  
+48 289  
+- 
+48 289  
+    
+As at 31 March 2025, the Group had no overdue receivables. 
+Note 6 Cash and cash equivalents  
+  
+Cash in bank bears interest according to a variable interest rate. The fair value of cash and cash equivalents 
+equals their balance sheet value.  
+  
+ 
+Cash 
+As at 
+As at 
+31 March 2025 
+31 March 2024 
+Cash in bank 
+74 964  
+83 182  
+Other cash and cash equivalents 
+2 740  
+1 678  
+TOTAL CASH: 
+77 704  
+84 860  
+- including cash of limited availability 
+- 
+- 
+ 
+Cash in foreign currencies is measured as at the balance sheet date according to the average currency 
+exchange rate for a particular currency determined by the National Bank of Poland.  
+ 
+ 
+ 
+ 
+ 
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+28  
+  
+ 
+  
+ 
+Cash – monetary structure 
+As at 
+As at 
+31 March 2025 
+31 March 2024 
+Cash in PLN 
+62 351  
+     73 101  
+Cash in USD 
+15 353  
+11 759  
+TOTAL CASH: 
+77 704 
+84 860  
+Note 7 Equity  
+ 
+7.1. Equity Management 
+ 
+The Group's goal in managing equity risk is to protect its ability to continue as a going concern, ensuring returns 
+to shareholders and benefits to other stakeholders. The Group does not finance itself with debt capital. 
+ 
+In accordance with the current dividend policy, as described in the Company's Prospectus, the Board of 
+Directors of Text S.A. recommends that the General Meeting pay the maximum (legally possible) portion of 
+profit for a given fiscal year in the form of dividends, unless investment opportunities arise that would provide 
+the Parent Company and shareholders with a higher rate of return than the payment of dividends. 
+ 
+The Management Board, with the approval of the Supervisory Board, is authorized to decide on the payment 
+of advances on expected dividends. 
+ 
+ 
+7.2. Share capital 
+ 
+SHARE CAPITAL (STRUCTURE) – as at 31 March 2025 and 31 March 2024 
+Name of 
+series 
+Type of 
+shares 
+Type of share 
+preference 
+Type of 
+share right 
+limits 
+Number of shares 
+(in thousand 
+items) 
+Nominal value 
+of series / 
+issue 
+Payment 
+method 
+Date of 
+registration 
+Right to 
+dividend 
+(since) 
+A series 
+ordinary 
+bearer 
+shares 
+none 
+none 
+25 000 
+500 000 
+cash 
+contribution 
+18 
+December 
+2013 
+In 
+accordance 
+with the Code of 
+Commercial 
+Companies and 
+Partnerships 
+B series 
+ordinary 
+bearer 
+shares 
+none 
+none 
+750 
+15 000 
+cash 
+contribution 
+18 
+December 
+2013 
+In 
+accordance 
+with the Code of 
+Commercial 
+Companies and 
+Partnerships 
+Total number of shares (in thousand items) 
+25 750 
+Total share capital (PLN) 
+515 000 
+Nominal value of 1 share = PLN 0.02 
+  
+People who are entitled to dividend are people who on the dividend day will have shares of Text Spółka 
+Akcyjna on a securities account. The Parent Company’s shareholders are entitled to dividend from the net 
+profit presented in the statements of Text Spółka Akcyjna in the amount fixed by the General Annual 
+Meeting of Shareholders. A single ordinary share entitles to cast one vote.  
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+29  
+  
+ 
+ 
+A series shares:  
+A series shares are shares issued in relation to the transformation of “LIVECHAT” Spółka z ograniczoną 
+odpowiedzialnością, the legal predecessor of the Issuer, into Text Spółka Akcyjna. The transformation was 
+adopted by the resolution of the General Meeting of Shareholders of “LIVECHAT” Spółka z ograniczoną 
+odpowiedzialnością of 10 January 2007. The resolution was recorded by Marek Leśniak, notary of Kancelaria 
+Notarialna Leśniak i Kawecka-Pysz Spółka partnerska with its registered office in Wrocław, Roll of Deeds A 
+No. 1324/2007. The transformation was registered by virtue of the order of the District Court for Wrocław-
+Fabryczna in Wrocław, 6th Commercial Division of the National Court Register of 16 October 2007.    
+  
+At the time of transformation the Issuer's share capital amounted to PLN 500,000 and was divided into 
+5,000,000 A series ordinary bearer’s shares with the nominal value of PLN 0.10 each.   
+  
+On 29 November 2013, the General Meeting of Shareholders of the Issuer adopted a resolution to change 
+the Issuer's Articles of Association, including, among other things, a stock split, fixing the nominal share value 
+at PLN 0.02 (two grosz). The resolution was recorded by Karolina Warczak-Mańdziak, notary of Kancelaria 
+Notarialna dr Wisława Boć-Mazur i Karolina Warczak–Mańdziak spółka cywilna with its registered office in 
+Wrocław, Roll of Deeds A No. 12380/2013. The shares were split in the proportion of 1:5 so that each 
+individual share of the Issuer, including each individual A series share, was split into 5 shares.  
+ 
+The change in the Issuer's Articles of Association covering a change in the share nominal value was registered 
+by virtue of the order of the District Court for Wrocław-Fabryczna in Wrocław, 6th Commercial Division of 
+the National Court Register, of 18 December 2013. As a result of the above-mentioned registration, A series 
+shares comprise 25,000,000 ordinary bearer's shares with the nominal value of PLN 0.02 each.   
+  
+B series shares:  
+On 26 April 2010, the General Meeting of Shareholders of the Issuer adopted a resolution to increase the 
+Issuer's share capital by the amount of PLN 15,000 through B series bearer's shares waiving the preemptive 
+right of the Company's current shareholders as well as to amend the Company's Articles of Association. By 
+virtue of the said resolution the General Meeting of Shareholders decided to increase the share capital by PLN 
+15,000 by issuing 150,000 B series ordinary bearer's shares with the nominal value of PLN 0.10. The series B 
+shares were subscribed for in full by Mariusz Ciepły and paid for by way of cash contribution in the amount of 
+PLN 15,000. The issue price of series B shares was 0.10 PLN per share.   
+  
+On 29 November 2013, the General Meeting of Shareholders of the Issuer adopted a resolution to change the 
+Issuer's Articles of Association, including, among other things, a stock split, fixing the nominal share value at 
+PLN 0.02 (two grosz). The resolution was recorded by Karolina Warczak-Mańdziak, notary of Kancelaria 
+Notarialna dr Wisława Boć-Mazur and Karolina Warczak–Mańdziak spółka cywilna with its registered office in 
+Wrocław, Roll of Deeds A No. 12380/2013. The shares were split in the proportion of 1:5 so that each 
+individual share of the Issuer, including each individual B series share, was split into 5 shares. The change in the 
+Issuer's Articles of Association covering a change in the share nominal value was registered by virtue of the 
+order of the District Court for Wrocław-Fabryczna in Wrocław, 6th Commercial Division of the National Court 
+Register, of 18 December 2013. As a result of the abovementioned registration, B series shares comprise 
+750,000 ordinary bearer's shares with the nominal value of PLN 0.02 each.  
+Shareholder 
+Share in the capital as 
+at 31 March 2024 
+Share in the capital as 
+at 31 March 2025 
+Share in the capital as at the date of  
+preparation of the financial 
+statements 
+PTE Allianz Polska 
+8.50% 
+9.43% 
+9.43% 
+Nationale-Nederlanden PTE 
+6.20% 
+6.17% 
+6.17% 
+Shareholders’ Agreement, including over 5% of 
+the capital: 
+41.27% 
+41.27% 
+41.27% 
+    Mariusz Ciepły 
+13.07% 
+13.07% 
+13.07% 
+    Jakub Sitarz 
+11.69% 
+11.69% 
+11.69% 
+    Maciej Jarzębowski 
+9.19% 
+9.19% 
+9.19% 
+Others 
+44.03% 
+43.13% 
+43.13% 
+TOTAL 
+100.00% 
+100.00% 
+100.00% 
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+30  
+  
+ 
+ 
+ 
+7.3. Supplementary capital  
+ 
+The supplementary capital was created when the Company retained a part of its earnings from previous 
+years. The Company made a distribution of the previous year's result according to Section 347(4) of the 
+Code of Commercial Companies and Partnerships.   
+  
+ 
+7.4. Retained earnings (accumulated loss)  
+ 
+Retained earnings include dividend advances paid, undistributed profit or loss from previous years, net profit 
+(loss) for the financial year and differences recognised in the financial results for previous years due to 
+corrections of errors. 
+ 
+Undistributed result of previous years refers only to undistributed net result of previous years and does not 
+contain any other economic events.   
+ 
+Pursuant to the resolution of the Management Board of 28 June 2024, the separate net profit of the Parent 
+Company for FY 2023/2024, amounting to PLN 165,868,993.30, was distributed to: 
+ 
+− 
+increase the Company's supplementary capital in the amount of PLN 11,883,993.30; 
+− 
+the payment of dividends to shareholders in the amount of PLN 153,985,000, which means the value 
+of the dividend per share was PLN 5.98; 
+− 
+taking into account advance payments on dividends for the FY 2023/2024, namely an advance 
+payment of PLN 41,972,500 paid by the Company based on the resolution of the Management Board 
+of 18 December 2023, and an advance payment of PLN 40,942,500 paid on 29 August 2024, based on 
+the resolution of the Management Board of 1 July 2024, the remaining dividend for the FY 2023/2024 
+was paid to shareholders in the amount of PLN 71,070,000.00, which was PLN 2.76 per share; 
+− 
+the dividend will cover 25,750,000 shares of the Company. 
+ 
+Pursuant the resolution of the Ordinary General Meeting of Shareholders of Text S.A. of 22 August 2024, 
+regarding the distribution of the net profit of Text S.A. for the FY 2023/2024, the Management Board's 
+recommendations concerning the allocation of net profit were adopted. 
+ 
+On 29 August 2024, the shareholders entitled to the dividend were determined, and the dividend was paid on 
+5 September 2024. 
+ 
+On 29 November 2024, the Management Board of Text S.A., with the consent of the Company’s Supervisory 
+Board, adopted a resolution to pay an advance on the expected dividend for the 2024/25 financial year in the 
+amount of PLN 1.66 per share. On 27 December 2024 the shareholders entitled to the dividend were 
+determined and the payments were made on 3 January 2025. 
+Note 8 Liabilities from contracts with customers  
+ 
+Liabilities from contracts with customers 
+As at 
+As at 
+31 March 2025 
+31 March 2024 
+Long-term 
+               2 515  
+         2 351  
+Short-term 
+            69 611  
+      68 657  
+Total liabilities 
+            72 126  
+      71 008  
+    
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+31  
+  
+ 
+ 
+Note 9 Lease liabilities  
+ 
+As at 1 April 2019, the Parent Company recognized for the first time the liability under the Agreement in 
+accordance with IFRRS 16 Leasing and recognized the asset in the form of the right to use the premises.  
+ 
+As at 2 August 2017, the Parent Company and Zwycięska 45 sp. z o.o. sp. k. with its registered office in 
+Świdnica entered into a lease agreement (hereinafter referred to as the “Agreement”) regarding real property 
+with a building used as an office by the Parent Company.  
+The Agreement was entered into for a fixed term to 29 February 2020 and then extended by Annex No. 1 
+to the Agreement to 31 March 2020 and by Annex No. 2 to the Agreement to 31 March 2024. Annex No. 3 
+was concluded on 10 August 2023, where the previous lease term was extended to 31 March 2025. 
+As at 31 March 2025, the lease agreement was converted into an agreement for an indefinite period. The 
+Management Board of the Parent Entity estimates that this agreement will remain in force for approximately 
+60 months. In connection with this change, a right-of-use asset in the amount of (PLN thousand) 5,006 and 
+a corresponding liability were recognized. 
+ 
+Note 10 Short-term liabilities  
+ 
+Short-term liabilities – currency structure 
+31 March 2025 
+31 March 2024 
+in 
+currency 
+in PLN after 
+conversion 
+in currency 
+in PLN after 
+conversion 
+PLN 
+83 788  
+83 788  
+79 441  
+79 441  
+EUR 
+24  
+105  
+- 
+- 
+USD 
+- 
+1 
+412 
+1 644 
+Total 
+- 
+83 894 
+-  
+81 085  
+ 
+Short-term liabilities – due dates 
+ 
+Up to 1 month  
+From 1 to 3 
+months  
+From 3 months 
+to 1 year  
+ 
+Total  
+Accounts payable 
+9 788  
+- 
+- 
+9 788   
+Current income tax liabilities 
+163  
+- 
+- 
+163   
+Payroll liabilities 
+- 
+- 
+- 
+-  
+Other financial liabilities 
+97  
+287  
+744  
+1 128   
+Liabilities for other taxes, customs duties, and social security 
+contributions 
+- 
+- 
+- 
+-  
+Liabilities from contracts with customers 
+18 565  
+17 405  
+33 641  
+69 611   
+Accruals and other liabilities 
+3 204  
+- 
+- 
+3 204   
+Total 
+83 894  
+- 
+- 
+83 894   
+ 
+1. Notes to the statement of comprehensive income  
+Note 11 Revenues from sales 
+ 
+Below is a summary of net sales revenue including the impact of deferred income over time. 
+ 
+Type of net sales revenue [PLN thousands] 
+For the period of 12 months 
+ended 31 March 2025 
+For the period of 12 months 
+ended 31 March 2024 
+Proceeds from the sale of products 
+355 296 
+337 644 
+Change in contract liabilities 
+(1 118) 
+(2 295) 
+Net income from sales 
+354 178 
+335 349 
+ 
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+32  
+  
+ 
+Type of net sales revenue [USD thousands] 
+For the period of 12 months 
+ended 31 March 2025 
+For the period of 12 months 
+ended 31 March 2024 
+Proceeds from the sale of products 
+                      88 476  
+                                 81 671  
+Change in contract liabilities 
+ 119  
+(967)  
+Net income from sales 
+88 595 
+80 704 
+ 
+The Group generates revenue from product lines that represent its main offerings and constitute its operating 
+segments. 
+ 
+Product sales revenue by product line 
+For the period of 12 months 
+ended 31 March 2025 
+For the period of 12 months 
+ended 31 March 2024 
+LiveChat 
+314 323 
+                           305 368  
+ChatBot 
+26 160 
+                              21 912  
+HelpDesk 
+12 248 
+                                7 100  
+KnowledgeBase 
+1 447 
+                                   969  
+TOTAL REVENUES FROM SALES 
+354 178 
+                           335 349  
+ 
+The Group generates approximately 95% of its consolidated revenue through its subsidiary in the US. This 
+includes the sale of 1-, 12-month, or longer licenses for LiveChat products in the B2B segment, as well as the 
+sale of other products. Sales are based on fixed prices. Other consolidated revenue is generated, among other 
+things, from the lease of office space and the sale of non-financial fixed assets. 
+ 
+ 
+Revenues from sales (geographical structure) 
+For the period of 12 months 
+ended 31 March 2025 
+For the period of 12 months 
+ended 31 March 2024 
+Poland 
+5 369 
+4 829 
+Sales revenues in countries where the share of revenues 
+exceeds 5%: 
+159 081 
+150 371 
+ 
+United States 
+105 423 
+102 550 
+United Kingdom 
+28 239 
+27 532 
+Indonesia 
+25 420 
+20 289 
+Other* 
+189 728 
+180 149 
+TOTAL REVENUES FROM SALES 
+354 178 
+335 349 
+* Applies to revenue from the sale of products in countries where revenue does not exceed 5% of total net sales revenue, as well as to 
+revenue that has not been assigned to any specific country due to a lack of information regarding the customer's headquarters. 
+ 
+      
+As a rule, sales are not recognized in the accounts until payment for license sales has been received, so there is no risk 
+associated with deferred payment terms. Consequently, no estimates are required in the valuation of sales revenue.  
+ 
+The right to return occurs rather rarely in a changed form. The unused part of the license can be changed; however, 
+it cannot be given back. It is also not possible to return the used license part.   
+ 
+ 
+ 
+ 
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+33  
+  
+ 
+ 
+Note 12 Costs of operating activity  
+ 
+Costs by type 
+For the period of 12 months 
+ended 31 March 2025 
+For the period of 12 months 
+ended 31 March 2024 
+Depreciation/amortization 
+                24 241  
+                     19 369  
+Consumption of materials and energy 
+                     695  
+                          226  
+Third party services 
+              140 300  
+                   117 822  
+Costs of employee benefits 
+                  7 443  
+                       7 634  
+Other prime costs 
+                  5 034  
+                       5 144  
+Foreign exchange differences relating to operating activity 
+(837)  
+                       6 296  
+TOTAL COSTS BY TYPE 
+176 876  
+                   156 491  
+Cost of goods sold  
+ 71 870  
+                     63 606  
+Cost of sales  
+ 64 799  
+                     62 730  
+General administrative costs  
+ 40 207  
+                     30 155  
+TOTAL OPERATING COSTS 
+ 176 876  
+                   156 491  
+Note 13 Other operating revenues and costs  
+Other operating income consists mainly of re-invoiced amounts related to settlements with co-workers. 
+Other operating expenses include donations and the settlement of co-worker benefits. 
+Note 14 Financial revenues and costs  
+ 
+Financial revenues 
+For the period of 12 months ended 31 
+March 2025 
+For the period of 12 months ended 31 
+March 2024 
+Interest 
+151  
+11 
+Excess of positive foreign exchange  
+                    255  
+109 
+TOTAL FINANCIAL REVENUES 
+                    406  
+120 
+    
+    
+Financial costs 
+For the period of 12 months ended 31 
+March 2025 
+For the period of 12 months ended 31 
+March 2024 
+Interest 
+35  
+265 
+Excess of negative foreign exchange  
+                     -  
+- 
+TOTAL FINANCIAL COSTS 
+                      35  
+265 
+Note 15 Income tax and deferred tax 
+ 
+Income tax reported in the statement of comprehensive income 
+ 
+For the period of 12 months 
+ended 31 March 2025 
+For the period of 12 months 
+ended 31 March 2024 
+Current income tax  
+                                 14 373  
+12 479 
+Relating to the financial year  
+                                 14 373  
+12 479 
+Deferred income tax  
+                                  (1 053)  
+(156) 
+Connected with origination and reversal of temporary differences  
+                                  (1 053)  
+(156) 
+Tax charge reported in the consolidated statement of comprehensive 
+income  
+                                 13 320  
+12 323 
+ 
+ 
+ 
+ 
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+34  
+  
+ 
+ 
+ 
+Reconciliation of gross profit to taxable basis is presented below: 
+ 
+Specification 
+For the period of 12 months 
+ended 31 March 2025 
+For the period of 12 months 
+ended 31 March 2024 
+Profit (loss) before tax 
+                               177 738   
+                        178 876   
+Differences between profit (loss) before tax and the taxable basis 
+                                   2 313   
+                             2 720   
+Taxable income 
+                               180 051   
+                        181 596   
+Income tax calculated on the basis of the rate applied (both current 
+and deferred tax) 
+                                 13 320   
+                          12 323   
+Income tax calculated on the basis of the rate applied, of which: 
+                                 13 320   
+                           12 323   
+– 
+income tax at the rate of 5% (IP Box)  
+                                   7 092   
+                               7 874   
+– 
+income tax at the rate of 19%  
+                                   6 228   
+                               4 448   
+ 
+ 
+From the FY 2020/2021, the Parent Company has applied the so-called IP Box relief. This relief means 
+application to income generated from qualified property rights of the rate of 5% instead of the standard rate 
+of 19%. However, the provisions concerning corporate income tax frequently change and, as a result, it is 
+difficult to refer to fixed regulations or legal precedents.   
+ 
+In addition, the applicable provisions contain ambiguities which result in different opinions on legal 
+interpretation of tax provisions, both between various state authorities and between state authorities and 
+entrepreneurs.   
+ 
+Tax and other settlements can be audited by entities which are entitled to impose high fines, and additional 
+liabilities identified during an audit must be paid together with high interest. As a result of those 
+circumstances, tax risk in Poland is higher than the one that usually exists in other countries where the tax 
+system is well developed. Tax settlements may be inspected for the period of five years. In effect, amounts 
+reported in the financial statements may change at a later date after they have been finally determined by 
+tax authorities.  
+ 
+The difference between the value of the income tax presented above and the amount of tax indicated in the 
+note to the consolidated statement of comprehensive income is a change in the balance of the deferred tax.   
+ 
+The structure of deferred income tax assets is presented below.  
+ 
+Specification 
+As at 31 March 2025 
+As at 31 March 2024 
+Investments in third party fixed tangible assets 
+ 17  
+                              13  
+Provision for liabilities due to bonuses for the Management Board 
+and provision for cost of audit 
+ 256  
+                            112  
+Foreign exchange losses on account of receivables 
+ 4  
+                                 4  
+Foreign exchange losses on account of cash and cash equivalents 
+ 16  
+                             -  
+Liabilities from contracts with customers 
+ 5 755  
+                       4 803  
+Total 
+ 6 048  
+4 932  
+ 
+ 
+ 
+ 
+ 
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+35  
+  
+ 
+ 
+ 
+The structure of the deferred income tax liability is presented below. 
+ 
+Specification 
+As at 31 March 2025 
+As at 31 March 2024 
+Positive foreign exchange differences on cash 
+- 
+11 
+Total 
+- 
+11 
+ 
+ 
+Deferred income tax assets and deferred income tax liability are measured with the use of tax rates which, 
+according to available forecasts, will be applied at the time deferred income tax assets will be realized or 
+deferred income tax liability will be reversed.  
+ 
+The current part of the income tax for the period of 12 months ended 31 March 2025 and for the period of 12 
+months ended 31 March 2024 was determined with the use of the corporate income tax rate of 19% of the 
+taxable basis in respect of income from other sources and the rate of 5% of the taxable basis in respect of 
+income from qualifying intellectual property rights (so-called IP Box).  
+ 
+The current deferred part of the income tax for the period of 12 months ended 31 March 2025 and for the 
+period of 12 months ended 31 March 2024 was determined with the use of the expected corporate income tax 
+rate of 7.43% and 6.87%, respectively.  
+ 
+2. Explanatory notes to the cash flow statement 
+Note 16 Change in Short-Term Receivables 
+ 
+The change in the status of short-term receivables within operating activities for the period from 1 April 2024 
+to 31 March 2025 included a reclassification of short-term VAT receivables (PLN 20,000) to short-term CIT 
+receivables. 
+ 
+3. Other explanatory notes  
+Note 17 Financial Instruments    
+Financial instruments by category 
+As at 31 March 2025 
+As at 31 March 2024 
+Book value  
+Fair value  
+Book value  
+Fair value  
+Financial assets  
+79 307  
+79 307  
+89 018  
+89 018  
+Assets measured at the fair value 
+through the financial result  
+- 
+- 
+- 
+- 
+Assets measured at amortized 
+cost, of which:  
+79 307  
+79 307  
+89 018  
+89 018  
+Own receivables  
+1 603  
+1 603  
+4 157  
+4 157  
+Cash   
+77 704  
+77 704  
+84 860  
+84 860  
+Assets measured at the fair value 
+through the financial result  
+- 
+- 
+- 
+- 
+Financial liabilities  
+90 124  
+90 124  
+83 436  
+83 436  
+Liabilities measured at amortized 
+cost  
+90 124  
+90 124  
+83 436  
+83 436  
+ 
+Financial assets measured at amortized cost include cash, accounts receivable and other short-term receivables.  
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+36  
+  
+ 
+ 
+Financial liabilities measured at amortized cost include other long-term financial liabilities, long term customer 
+contract liabilities, accounts payable, current income tax liabilities, long term customer contract liabilities, other 
+short-term financial liabilities, other short-term liabilities.  
+Note 18 Benefits to the key managing staff (incl. remuneration for members of the Management 
+Board and members of the Supervisory Board)  
+ 
+Remuneration for members of the Management Board  
+Remuneration for members of the Management Board of Text S.A. collected from 1 April 2024 to 31 March 
+2025 also includes a bonus granted by the Supervisory Board for the work of the Management Board and the 
+Company’s performance.  
+  
+ 
+Name and surname 
+For the period of 12 months ended 31 
+March 2025 
+For the period of 12 months ended 31 
+March 2024 
+Mariusz Ciepły 
+4 173 
+4 331 
+Urszula Jarzębowska 
+2 782 
+2 887 
+Total 
+6 955 
+7 218 
+Provision for future bonuses for the 
+Management Board 
+803 
+811 
+ 
+As at 31 March 2025 a provision of PLN 803,000 was recognized for the bonus due to the Management 
+Board for FY 2024/2025 (31 March 2024: PLN 811,00). 
+ 
+Remuneration for members of the Supervisory Board  
+In the reporting period, the value of remuneration for members of the Supervisory Board amounted to PLN 
+367,000.  
+ 
+For the period of 12 months ended 31 March 2024, the value of remuneration for members of the 
+Supervisory Board amounted to PLN 195,000. 
+ 
+Other benefits and unsettled loans and advances to the key managing staff  
+None.  
+All transactions with the key managing staff of the Parent Company are conducted on an arm’s length basis.  
+Note 19 Contingent items and other off-balance sheet items  
+ 
+No such events occurred.  
+Note 20 Employment  
+ 
+The Group does not employ employees, it only collaborates with business entities on a civil-law contract 
+basis.  
+Average number of collaborators 
+For the period of 12 
+months ended 31 March 
+2025 
+For the period of 12 
+months ended 
+31 March 2024 
+Blue-collar workers 
+- 
+- 
+White-collar workers 
+254 
+255 
+Total average number of FTEs 
+254 
+255 
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+37  
+  
+ 
+ 
+Note 21 Description of factors and events, especially of non-typical nature, having an impact on 
+the financial results  
+ 
+In the opinion of the Company's Management Board, in the period from 1 April 2024 to 31 March 2025 there 
+were no major events, including events of non-typical nature, having an impact on the financial results achieved 
+by the Group of Companies.  
+Note 22 Events after the end of the financial year, not taken into account in the financial 
+statements  
+Subsequent to the end of the fiscal year until the approval of this report for publication, the Parent Company 
+has not recorded any significant events that would have a material impact on its operations or financial results. 
+Note 23 Transactions with related entities  
+During the audited period, the Parent Company entered into transactions with consolidated entity Text Inc. 
+Transactions with Text Inc. have been excluded from the consolidated financial statements.  
+ 
+As part of the cooperation between related Group entities, the Parent Company provides the LiveChat platform 
+(including all the Group’s products) to Text Inc. for the distribution of access services to this platform to external 
+customers.  
+Text Inc. provides promotional and marketing support services, including activities aimed at acquiring and 
+retaining customers using the LiveChat communication platform, issuing invoices and monitoring the 
+implementation of customer receivables, as well as ongoing monitoring of the industry and the competitive 
+environment. All these activities are part of the distribution activities undertaken by Text Inc., in particular on 
+the American market for the benefit of the Company.  
+Text Inc. provides promotional and marketing services, taking into account the assumptions of the marketing 
+strategy developed by the Parent Company. Activities of Text Inc. are primarily aimed at implementing the 
+strategy with particular emphasis on the American market.  
+ 
+Furthermore, Text Inc. settles with the Parent Company by re-invoicing the costs of purchasing services from 
+external suppliers, mainly from the American market (in particular, this applies to IT services, the direct 
+acquisition of which by an entity not domiciled in the United States is difficult).  
+ 
+The basis of the relationship between the Parent Company and Text Inc. is a business assumption in the form 
+of the Parent Company’s willingness to enter the American market with its main product, i.e. the LiveChat 
+communication platform. Due to objective factors, such as, in particular the specificity of the market, the 
+specificity of the competitive environment, and significant legal differences in the field of this business activity, 
+a company operating on the Polish market wishing to enter the American market would find it significantly 
+difficult or even impossible. Hence the decision to establish a subsidiary company in the territory of the United 
+States – Text Inc. and its close cooperation with the Parent Company.  
+ 
+The Parent Company did not enter into any transactions with related parties other than Text Inc.  
+ 
+The Parent Company did not conclude any transactions with related entities on terms other than market terms.  
+Note 24 Cyclicality and seasonality of the activities run  
+ 
+No cyclicality or seasonality of sales can be observed in the Group of Companies.  
+Note 25 Remuneration of the statutory auditor 
+ 
+During the reporting period, the Parent Company paid remuneration of PLN 149,000 to Grant Thornton 
+Polska Prosta Spółka Akcyjna (formerly Grant Thornton Polska sp. z o.o. sp. k.). 
+ 
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+38  
+  
+ 
+ 
+In the corresponding comparative period, the Parent Company paid remuneration of PLN 214,000 to Grant 
+Thornton Polska Prosta Spółka Akcyjna (formerly Grant Thornton Polska sp. z o.o. sp. k.). 
+Note 26 Objective and principles of risk management  
+The main financial instruments used by the parent entity and its subsidiaries are cash and short-term 
+deposits. The main objective of those financial instruments is optimization of the financial result of the Group 
+and hedging exchange rate risk. The Group also has other financial instruments, such as accounts receivable 
+and accounts payable, which arise in the course of its operations.   
+The Group does not trade in financial instruments.  
+ 
+FOREIGN EXCHANGE RISK  
+ 
+Since over 95% of the sales are collected in USD, the Group is exposed to foreign exchange risk due to the 
+transactions made. In the reporting period, the Group did not hedge its sales denominated in foreign 
+currencies.  In order to decrease the foreign exchange risk, the Parent Company's Management Board 
+converts received USD to PLN. Moreover, the Management Board regularly monitors USD exchange rate 
+and adapts its pricing policy thereto. Cash denominated in USD is, as compared to cash in PLN, an 
+insignificant element as far as the value is concerned. Furthermore, the sales model based on automatic card 
+payment by the customer and ongoing conversion of USD minimize the foreign exchange risk.  
+ 
+The Group has cash and short-term receivables in PLN and USD (see Note 6 for details). The sensitivity 
+analysis for these balance sheet categories to the risk of changes in foreign exchange rates is presented in 
+the table below.  
+If the USD/PLN exchange rate at the balance sheet date had been PLN 0.05 higher/lower, the effect on the 
+value of assets would have been as follows: 
+ 
+Balance sheet category as at 31 March 
+2025 
+Value in PLN thousands 
+corresponding to exposure in USD 
+Increase / decrease in the USD 
+exchange rate 
++0.05 PLN 
+-0.05 PLN 
+Cash  
+15 353 
+ 15 551  
+ 15 155  
+Short-term receivables 
+1  
+1  
+1  
+ 
+Balance sheet category as at 31 March 
+2024 
+Value in PLN thousands 
+corresponding to exposure in USD 
+Increase / decrease in the USD 
+exchange rate 
++0.05 PLN 
+-0.05 PLN 
+Cash  
+11 759 
+11 896 
+11 622 
+Short-term receivables 
+11 265 
+ 11 396  
+ 11 134  
+ 
+INTEREST RATE RISK  
+ 
+The Group is exposed to the risk caused by changes in interest rates primarily due to the investment of the 
+generated financial surplus.  
+The Group has interest-bearing bank accounts where it invests cash in PLN (their value is not material from 
+the point of view of the financial statements). Due to the nature of its operations, the Group has no 
+financial liabilities. 
+ 
+OTHER PRICE RISK  
+ 
+The Group does not use any financial instruments connected with the price risk. The Group is not exposed to 
+other price risk.  
+ 
+CREDIT RISK  
+ 
+The business model adopted by the Group assumes sales completion only when a guarantee of payment is 
+received. The share of customers to whom buyer’s credit is granted is hardly 3%.  The Management Board of 
+the Parent Company regularly monitors the credit risk of its counterparties. The credit risk related to cash is  
+
+Text S.A. Group of Companies  
+ 
+Interim consolidated financial statements for the period from 1 April 2024 to 31 March 2025. All figures are 
+expressed in PLN (unless stated otherwise).  
+39  
+  
+ 
+marginal owing to the reputation and financial stability of financial institutions the Group cooperates with. In 
+view of the above, any estimates concerning expected credit losses are on a very low level. Therefore, the 
+consolidated financial statements do not present any impairment losses in this respect.  
+ 
+LIQUIDITY RISK  
+ 
+Due to the nature of the operations of the Group, this type of risk is not practically important here.  
+The value of cash exceeded several times the value of short-term liabilities as at the balance sheet dates of 31 
+March 2025 and 31 March 2024, therefore presentation of an analysis of liquidity risk is waived.  
+ 
+OPERATIONAL RISK 
+  
+The basic type of services purchased is services rendered by qualified IT engineers. Due to the fact that the 
+Parent Company's operations are run in Wrocław, where there is a large number of qualified IT specialists, and 
+the local university of technology educates many IT students, the risk of price increases for this type of services 
+is not significant.  
+The Parent Company's Management Board monitors the price levels for IT services on an ongoing basis.  
+ 
+Wrocław, 27 June 2025    
+    
+Mariusz Ciepły  
+  
+Urszula Jarzębowska  
+  
+Joanna Alwin  
+Chief Executive Officer    
+Member of the Management Board  
+  Chief Financial Officer

@@ -1,0 +1,10 @@
+{
+  "ticker": "GLOB",
+  "company_name": "Globant",
+  "one_line_description": "Globally distributed digital engineering and IT services provider delivering software development, AI, and technology consulting solutions to enterprise clients across multiple industries.",
+  "revenue_model": "it_services",
+  "end_market": "horizontal",
+  "customer_profile": "enterprise",
+  "primary_geography": "global",
+  "rd_intensity_signal": "low"
+}

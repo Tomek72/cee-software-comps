@@ -1,0 +1,17 @@
+{
+  "company_name": "DataFeedWatch",
+  "one_line_description": "Product data feed optimization platform enabling merchants and agencies to manage and optimize shopping feeds across Google and 2,000+ marketing channels globally.",
+  "target_segment": "mixed",
+  "product_scope": "point_tool",
+  "headcount_estimate": 80,
+  "headcount_source": "linkedin",
+  "primary_geography": "global",
+  "plausible_strategic_acquirers": [
+    "Productsup",
+    "Channable",
+    "Feedonomics (BigCommerce)",
+    "Klaviyo",
+    "Constant Contact"
+  ],
+  "equity_story_pillar": "Category-defining feed management SaaS with broad channel coverage and strong agency/merchant adoption, positioned as a consolidation target in the martech feed-optimization space."
+}

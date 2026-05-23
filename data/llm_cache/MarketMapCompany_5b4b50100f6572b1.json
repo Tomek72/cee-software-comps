@@ -1,0 +1,17 @@
+{
+  "company_name": "Synerise",
+  "one_line_description": "AI-driven behavioral data platform unifying CDP, personalization, analytics, and marketing automation on proprietary infrastructure.",
+  "target_segment": "enterprise",
+  "product_scope": "platform",
+  "headcount_estimate": 189,
+  "headcount_source": "linkedin",
+  "primary_geography": "europe",
+  "plausible_strategic_acquirers": [
+    "Salesforce",
+    "SAP",
+    "Adobe",
+    "Oracle",
+    "Twilio"
+  ],
+  "equity_story_pillar": "Fully proprietary, real-time behavioral AI stack (TerrariumDB + BaseModel.ai) consolidating the CDP/personalization/automation stack into one sub-50ms platform at enterprise scale."
+}

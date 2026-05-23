@@ -1,0 +1,17 @@
+{
+  "company_name": "Selly",
+  "one_line_description": "Polish SaaS e-commerce platform positioned between mass-market storefronts and bespoke builds, with AI-enabled commerce features and retail/wholesale automation.",
+  "target_segment": "smb",
+  "product_scope": "platform",
+  "headcount_estimate": 31,
+  "headcount_source": "linkedin",
+  "primary_geography": "poland",
+  "plausible_strategic_acquirers": [
+    "Shoper",
+    "IdoSell",
+    "Cyber_Folks",
+    "R22",
+    "Atman (MCI)"
+  ],
+  "equity_story_pillar": "Mid-tier SaaS storefront combining low entry cost with dedicated-grade customization and an AI/agentic commerce roadmap, targeting Polish SMB merchants outgrowing mass platforms."
+}

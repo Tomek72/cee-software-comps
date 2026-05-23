@@ -1,0 +1,17 @@
+{
+  "company_name": "DataFeedWatch",
+  "one_line_description": "Data feed optimization and management platform enabling merchants and agencies to syndicate product catalogs across Google Shopping and 2,000+ marketing and marketplace channels.",
+  "target_segment": "mixed",
+  "product_scope": "point_tool",
+  "headcount_estimate": 80,
+  "headcount_source": "linkedin",
+  "primary_geography": "global",
+  "plausible_strategic_acquirers": [
+    "Channable",
+    "Productsup",
+    "Shoplazza",
+    "Klaviyo",
+    "Bizon (Cap Gemini)"
+  ],
+  "equity_story_pillar": "A capital-efficient, globally distributed feed management SaaS sitting at the critical integration layer between e-commerce platforms and an ever-expanding universe of paid shopping channels."
+}

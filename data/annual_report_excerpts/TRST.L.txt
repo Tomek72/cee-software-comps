@@ -1,0 +1,256 @@
+Adjusted EBITDA increased to $40,669 thousand in FY25 from $24,106 thousand in FY24. Adjusted 
+EBITDA margin increased to 15.6% in FY25 from 11.4% in FY24. The increase in adjusted EBITDA and 
+adjusted EBITDA margin were driven by growth in revenue partially offset by staff cost growth. Included 
+in the FY25 share-based payments charge is a non-cash charge of $12,153 thousand (FY24: $7,403 
+thousand) and associated social security charge of $349 thousand (FY24: $2,149 thousand). Non-
+recurring costs incurred in FY24 related to costs incurred in the execution of the share buyback 
+programme and the capital reduction. The definition of adjusted EBITDA also includes restructuring 
+costs of which there were none in the current or prior year. 
+Functional distribution of adjustments
+FY25
+$ ’000
+Group
+Technology 
+and content
+General and 
+administrative
+Operating profit
+ 
+15,979 
+Depreciation, amortisation and impairment
+ 
+12,188  
+6,094  
+6,094 
+Non-recurring costs
+ 
+—  
+—  
+— 
+Net gain on disposal of leases
+ 
+—  
+—  
+— 
+Share-based compensation, including associated 
+social security costs
+ 
+12,502  
+—  
+12,502 
+Adjusted EBITDA
+ 
+40,669 
+FY24
+$ ’000
+Group
+Technology 
+and content
+General and 
+administrative
+Operating profit
+ 
+3,806 
+Depreciation, amortisation and impairment
+ 
+10,899  
+4,619  
+6,280 
+Non-recurring costs
+ 
+87  
+—  
+87 
+Net gain on disposal of leases
+ 
+(238)  
+—  
+(238) 
+Share-based compensation, including associated 
+social security costs
+ 
+9,552  
+—  
+9,552 
+Adjusted EBITDA
+ 
+24,106 
+No costs were allocated to cost of sales or sales and marketing during FY25 or FY24.
+Adjusted free cash flow
+Adjusted free cash flow is defined as net cash flow from operating activities, adjusted for non-recurring 
+costs, one-off restructuring costs, capital expenditure, principal lease payments and lease incentives 
+received. Management uses adjusted free cash flow to understand the Group's potential for cash 
+generation. Management finds the exclusion of certain costs from adjusted free cash flow to be 
+meaningful given their one-off nature.
+                                                                                      Trustpilot Group plc 
+ 
+Results for the year ended 31 December 2025
+17 March 2026  
+ 
+ 
+ 
+  
+ 
+ 
+27
+
+$ '000
+FY25
+FY24
+Net cash inflow from operating activities
+ 
+59,206 
+29,360
+Transaction costs
+ 
+— 
+87
+Capital expenditure1
+ 
+(8,339)  
+(9,623) 
+Principal element of lease payments
+ 
+(4,315)  
+(4,457) 
+Lease incentives received
+ 
+— 
+1,699
+Adjusted free cash flow
+ 
+46,552  
+17,066 
+1. Capital expenditure consists of purchase of property, plant and equipment and payments for intangible assets development.
+4.   Operating segments
+For management purposes and based on internal reporting information, the Group is organised in only 
+one operating segment, as the information reported includes operating results at a consolidated group 
+level only. The costs related to the main nature of the business, being the Group’s online review platform 
+which serves the Group’s customers, are not attributable to any specific revenue stream or customer 
+type and are therefore borne centrally. The results of the single reporting segment, comprising the entire 
+Group, are shown in the consolidated statement of comprehensive income. These represent a single 
+business segment for the sale of Company subscription plans, generally for a period of 12 months, where 
+the invoicing varies from monthly to annually.
+The Chief Executive Officer is the Chief Operating Decision Maker (CODM), responsible for the strategic 
+decision making and for the monitoring of the operating results of the single operating segment for the 
+purpose of performance assessment.
+Whilst Group operations are distributed globally with a large presence in Denmark and shares are listed 
+on the London Stock Exchange, the UK and North America are the Group’s primary markets where 
+revenue generated consists of approximately 40% and 21% (FY24: UK: approx. 40% and North America: 
+approx. 21%), respectively. Other geographical locations besides the UK and North America are defined 
+as ‘Europe and Rest of World’ where no individual country exceeded more than 6% of the consolidated 
+revenue in FY25 (FY24: 5%). 
+Trustpilot has customers in many regions around the world but is organised globally from an operation 
+perspective. For this reason, while operating assets may be recorded in Denmark for example, they will 
+be supporting customers around the world. Therefore, a single operating segment is reported with 
+revenue disclosed by region based on the location of the customer. Non-current operating assets are 
+similarly based on geographic location.
+The following table displays external revenue (based on customer location) and non-current operating 
+assets by geographic area:
+                                                                                      Trustpilot Group plc 
+ 
+Results for the year ended 31 December 2025
+17 March 2026  
+ 
+ 
+ 
+  
+ 
+ 
+28
+
+FY25
+FY24
+$ '000
+$ '000
+Revenue
+UK1
+ 
+104,454  
+84,896 
+Europe and Rest of World
+ 
+101,753  
+81,374 
+North America1
+ 
+54,843  
+44,481 
+Total revenue
+ 
+261,050  
+210,751 
+Non-current operating assets
+UK1
+ 
+6,374  
+7,923 
+Europe and Rest of World
+ 
+14,920  
+11,551 
+North America1
+ 
+7,988  
+10,126 
+Total non-current operating assets2
+ 
+29,282  
+29,600 
+1. For presentation purposes, the UK includes Isle of Man, Jersey and Guernsey. North America includes the USA and Canada.
+2. Non-current operating assets consist of intangible assets, property, plant and equipment, right-of-use assets and other 
+receivables.
+5.   Share-based payment plans
+The Group currently operates five share schemes: Employee Warrants, Long Term Incentive Plan, 
+Restricted Share Plan, Deferred Share Bonus Plan and Sharesave Plan. Employee Warrants and the 
+Sharesave Plan are share option schemes, and the Long Term Incentive Plan, Restricted Share Plan and 
+Deferred Share Bonus Plan are restricted share schemes. 
+For the financial year ended 31 December 2025 and 31 December 2024, the Group has recognised the 
+following share-based payment expense in the consolidated statement of profit or loss, and the relating 
+tax expense in the consolidated statement of changes in equity.
+FY25
+FY24
+$ '000
+$ '000
+Employee Warrants
+ 
+114  
+327 
+Long Term Incentive Plan
+ 
+2,886  
+1,513 
+Restricted Share Plan
+ 
+8,818  
+5,517 
+Deferred Share Bonus Plan
+ 
+146  
+46 
+Sharesave Plan
+ 
+189  
+— 
+ 
+12,153  
+7,403 
+Employee Warrants
+Employee Warrants are a share option scheme. The fair value at grant date is determined using a 
+Black-Scholes model that takes into account the share price at grant date, the exercise price, the 
+risk-free interest rate for the term of the warrants, the expected volatility and the term of the warrant (the 
+expected maturity). Settlement of any vested portion of the awards is expected to be satisfied by the issue 
+of new ordinary shares in the Company upon vesting date. 
+Movements in the number of Employee Warrants outstanding and their related weighted average 
+exercise prices in the financial year ended 31 December 2025 and 31 December 2024 are as follows:
+                                                                                      Trustpilot Group plc 
+ 
+Results for the year ended 31 December 2025
+17 March 2026  
+ 
+ 
+ 
+  
+ 
+ 
+29

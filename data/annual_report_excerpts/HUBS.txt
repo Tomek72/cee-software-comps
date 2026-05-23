@@ -1,0 +1,840 @@
+13
+representation, diversity of thought, inclusion, and equity—reflecting our view that inclusive teams fuel stronger innovation,
+better performance, and a more connected employee experience.
+•
+Compensation and Benefits. We provide competitive compensation and benefits for our employees globally. Our
+compensation packages may include base salary, commission or semi-annual bonuses, and stock-based compensation awards.
+We also offer an employee stock purchase plan, as well as benefit plans, such as employee medical, dental, life and disability
+insurance, and retirement and pension arrangements, that vary by geography that align with market norms. We evaluate both
+compensation and benefit offerings on an annual basis and we make adjustments as needed.
+•
+Learning and growth. We believe in life-long learning and invest in employee development at every stage. We offer
+interactive, regionalized on-boarding, one-on-one mentorship, year-round manager trainings and a mini-MBA Fellows
+program. In addition, we offer several live, self-paced and asynchronous resources to help employees develop their skills and
+capabilities through our internal, online learning management system.
+•
+Employee Well-Being. We offer a mental wellness platform as a global benefit for employees and their dependents. In order
+to prevent and battle burnout and its root causes, we also offer a company holiday week for all employees to take time off and
+recharge, and programming for employees to listen, learn, and identify ways to prioritize their mental health at work.
+•
+Social Impact. Our social impact work is focused on powering digital prosperity in the communities where our employees
+live and work. We do this through employee volunteering and giving initiatives, as well as through our newly launched
+signature social impact program, We Are All Entrepreneurs. This program is designed to support early-stage entrepreneurs in
+learning how to better leverage technology to grow their businesses. It combines asynchronous learning, live expert-led
+sessions, and mentorship from HubSpot employees to help make business technology more accessible to all entrepreneurs.
+With an intentionally distributed workforce, we have the opportunity to drive meaningful impact across the globe. We offer
+accessible and flexible ways for employees to engage in causes that matter to them, including micro-volunteering, mentoring,
+virtual volunteering, office-based drop-in events, offsite volunteering, and matching campaigns.
+•
+Employee Engagement and Feedback. We administer an employee engagement survey, to assess and understand employee
+engagement and the effectiveness of our organization. The survey also enables us to provide data to leaders across the
+organization, empowering them to identify, address, and monitor feedback at the department and team level. These insights
+shape both short term actions and long term people strategies, ensuring we remain responsive to employee needs and
+business priorities.
+Competition
+Our market is evolving, highly competitive and fragmented, and we expect competition to increase in the future. We believe the
+principal competitive factors in our market are:
+•
+vision for the market, product strategy and pace of innovation;
+•
+marketing focus and domain expertise;
+•
+integrated all-in-one customer platform;
+•
+breadth and depth of product functionality;
+•
+ease of use;
+•
+scalable, open architecture;
+•
+time to value and total cost of ownership;
+•
+integration with third-party applications and data sources;
+•
+use of CRM data to make strategic business decisions;
+•
+use of evolving AI technologies;
+•
+AI agents and automation capabilities that handle end-to-end workflows;
+•
+unified data platform with AI-powered data quality and enrichment;
+
+14
+•
+AEO and AI-native marketing capabilities;
+•
+name recognition and brand reputation; and
+•
+“freemium” go-to-market motion.
+We believe we compete favorably with respect to all of these factors.
+We face intense competition from other companies that develop marketing, sales, customer service, operations, commerce,
+intelligence and content management software. Our competitors offer various point applications that provide certain functions and
+features that we provide, including:
+•
+cloud-based marketing automation providers;
+•
+content management systems;
+•
+email marketing software vendors;
+•
+sales automation software vendors;
+•
+CRM software vendors;
+•
+customer service platform vendors;
+•
+CPQ and billing solution providers;
+•
+commerce and payments solution providers;
+•
+data enrichment vendors;
+•
+AI agent and providers;
+•
+AI-native CRM and workflow automation startups; and
+•
+large-scale enterprise suites.
+In addition, instead of using our customer platform, some prospective customers may elect to combine disparate point
+applications, such as content management, marketing automation, analytics, social media management, ticketing, and conversational
+bots.
+Intellectual Property
+Our ability to protect our intellectual property, including our technology, will be an important factor in the success and
+continued growth of our business. We protect our intellectual property through trade secrets law, copyrights, trademarks, patents, and
+contracts. Some of our technology relies upon third-party licensed intellectual property. We have 34 issued U.S. Patents and 35
+patents applications pending. We intend to pursue and are pursuing additional patent protection to the extent we believe it would be
+beneficial and cost-effective.
+In addition to the foregoing, we have established business procedures designed to maintain the confidentiality of our proprietary
+information, including the use of confidentiality agreements and assignment of inventions agreements with employees, independent
+contractors, consultants, and companies with which we conduct business.
+Despite our efforts to protect our intellectual property, unauthorized parties may still copy or otherwise obtain and use our
+technology. In addition, we intend to continue to expand our international operations, and effective intellectual property, copyright,
+trademark and trade secret protection may not be available or may be limited in foreign countries. Any significant impairment of our
+intellectual property rights could harm our business or our ability to compete.
+Financial Information About Segments
+We operate as one operating segment. Operating segments are defined as components of an enterprise for which separate
+financial information is regularly evaluated by the chief operating decision maker (“CODM”), which is our chief executive officer, in
+
+15
+deciding how to allocate resources and assess performance. The CODM evaluates our financial information and resources and
+assesses the performance of these resources on a consolidated basis. Since we operate in one operating segment, financial information
+evaluated by the CODM can be found in the consolidated financial statements. See Footnote 11 within the consolidated financial
+statements for information by geographic area.
+Available Information
+Our website is located at http://www.hubspot.com, and our investor relations website is located at
+https://www.hubspot.com/investor-relations. Copies of our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current
+Reports on Form 8-K, and amendments to these reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Securities
+Exchange Act of 1934, as amended, are available, free of charge, on our investor relations website as soon as reasonably practicable
+after such reports are filed with, or furnished to, the Securities and Exchange Commission, or the SEC. The SEC also maintains a
+website at http://www.sec.gov that contains our SEC filings and other information regarding issuers that file electronically with the
+SEC.
+We webcast our earnings calls and certain events we participate in or host with members of the investment community on our
+investor relations website. Additionally, we provide notifications of news or announcements regarding our financial performance,
+including SEC filings, investor events, press and earnings releases, and blogs as part of our investor relations website. We have used,
+and intend to continue to use, our investor relations website as means of disclosing material non-public information and for complying
+with our disclosure obligations under Regulation FD. Further corporate governance information, including our certificate of
+incorporation, bylaws, governance guidelines, board committee charters, and code of business conduct and ethics, is also available on
+our investor relations website under the heading “Corporate Governance.” The contents of our websites are not intended to be
+incorporated by reference into this Annual Report on Form 10-K or in any other report or document we file with the SEC, and any
+references to our websites are intended to be inactive textual references only.
+
+70
+HUBSPOT, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In thousands)
+Year Ended December 31,
+2025
+2024
+2023
+Operating Activities:
+Net income (loss)
+$
+45,911
+$
+4,628
+$
+(164,510)
+Adjustments to reconcile net income (loss) to net cash and cash equivalents
+provided by operating activities, net of acquisitions
+Depreciation and amortization
+136,295
+96,828
+72,673
+Stock-based compensation
+528,153
+504,770
+432,271
+Restructuring charges
+—
+—
+67,263
+Gain on strategic investments
+(5,500)
+(21,245)
+—
+Impairment of strategic investments
+5,923
+5,306
+1,704
+(Benefit from) provision for deferred income taxes
+(2)
+2,690
+550
+Amortization of debt discount and issuance costs
+577
+2,012
+1,986
+Accretion of bond discount
+(40,468)
+(51,676)
+(42,907)
+Unrealized currency translation
+(5,692)
+(1,550)
+(341)
+Changes in assets and liabilities, net of acquisition
+Accounts receivable
+(64,003)
+(48,428)
+(57,618)
+Prepaid expenses and other assets
+(34,060)
+(4,415)
+(47,048)
+Deferred commission expense
+(117,032)
+(96,687)
+(81,178)
+Right-of-use assets
+25,894
+32,297
+29,173
+Accounts payable
+18,999
+(4,577)
+(14,031)
+Accrued expenses and other current liabilities
+117,971
+89,129
+79,947
+Operating lease liabilities
+(36,124)
+(41,521)
+(36,889)
+Deferred revenue
+183,875
+131,038
+109,926
+Net cash and cash equivalents provided by operating activities
+760,717
+598,599
+350,971
+Investing Activities:
+Purchases of investments
+(1,443,998)
+(1,993,610)
+(1,580,504)
+Maturities of investments
+2,237,387
+1,658,601
+1,502,534
+Sale of investments
+—
+1,997
+—
+Purchases of property and equipment
+(53,165)
+(37,939)
+(33,718)
+Capitalization of software development costs
+(130,624)
+(89,636)
+(66,372)
+Purchases of intangible assets
+(274)
+(1,231)
+(164)
+Business acquisitions, net of cash acquired
+(87,608)
+(40,438)
+(142,129)
+Proceeds from net working capital settlement
+—
+1,933
+—
+Proceeds from strategic investments
+2,738
+—
+—
+Purchases of strategic investments
+(32,683)
+(15,538)
+(14,413)
+Net cash and cash equivalents provided by (used in) investing activities
+491,773
+(515,861)
+(334,766)
+Financing Activities:
+Repayment of 2025 Convertible Notes
+(459,811)
+(57)
+(13)
+Employee taxes paid related to the net share settlement of stock-based awards
+(21,573)
+(21,949)
+(10,714)
+Proceeds related to the issuance of common stock under stock plans
+71,394
+75,501
+47,738
+Repurchases of common stock
+(500,019)
+—
+—
+Net cash and cash equivalents (used in) provided by financing activities
+(910,009)
+53,495
+37,011
+Effect on exchange rate changes on cash and cash equivalents
+25,744
+(11,553)
+4,649
+Net increase in cash, cash equivalents and restricted cash
+368,225
+124,680
+57,865
+Cash, cash equivalents and restricted cash, beginning of year
+516,720
+392,040
+334,175
+Cash, cash equivalents and restricted cash, end of year
+884,945
+$
+516,720
+$
+392,040
+Supplemental cash flow disclosure:
+Cash paid for interest
+$
+422
+$
+1,721
+$
+1,722
+Cash paid for income taxes
+$
+19,311
+$
+12,187
+$
+12,911
+Right-of-use assets obtained in exchange for operating lease facilities
+$
+1,297
+$
+2,593
+$
+7,059
+Right-of-use asset reductions related to operating lease terminations
+$
+—
+$
+—
+$
+(7,382)
+Non-cash investing and financing activities:
+Capital expenditures incurred but not yet paid
+$
+3,389
+$
+1,703
+$
+1,068
+Settlement of Capped Call Options related to the 2025 Convertible Notes
+$
+50,600
+$
+—
+$
+—
+Asset retirement obligations
+$
+—
+$
+—
+$
+(199)
+The accompanying notes are an integral part of the consolidated financial statements
+
+71
+HUBSPOT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+1. Organization and Operations
+HubSpot, Inc. (the “Company”) provides an agentic customer platform that helps marketing, sales, and customer service teams
+drive business growth. The Company delivers seamless connection for customer-facing teams with a unified platform that includes
+three layers: AI-powered agents and engagement hubs, a Smart CRM, and a connected ecosystem supporting the customer platform
+with a marketplace of integrations, templates, expert partners, a community network, and an academy of educational content.
+The AI-powered agents and engagement Hubs that enable companies to attract, engage, and delight customers throughout the
+customer lifecycle include Marketing, Sales, Service, Operations, Content and Commerce. The Smart CRM is the foundational
+context layer that combines customer data with AI to power the entire customer platform with unified customer profiles and tools to
+manage and govern customer teams and business processes.
+2. Summary of Significant Accounting Policies
+Basis of Presentation —The consolidated financial statements have been prepared in U.S. dollars, in accordance with
+accounting principles generally accepted in the United States of America (“GAAP”). The accompanying consolidated financial
+statements include the accounts of the Company and its wholly owned subsidiaries. All intercompany transactions have been
+eliminated in consolidation.
+Use of Estimates —The preparation of consolidated financial statements in conformity with GAAP requires management to
+make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities
+at the date of the financial statements, and the reported amounts of revenue and expenses during the reporting period. Actual results
+could differ from those estimates.
+Operating Segments —See Note 11 for more information.
+Net Income (Loss) Per Share — Basic net income (loss) per share is computed by dividing net income (loss) by the weighted
+average number of common shares outstanding for the period. Diluted net income (loss) per share is computed by giving effect to all
+potential dilutive common stock equivalents outstanding for the period. For purposes of this calculation, options to purchase common
+stock, restricted stock units (“RSUs”), shares issued pursuant to the Employee Stock Purchase Plan (“ESPP”), performance restricted
+stock units (“PSUs”), and the Conversion Option of the 2025 Notes (the “Conversion Options”) (Note 10) are considered to be
+potential common stock equivalents.
+A reconciliation of the denominator used in the calculation of basic and diluted income (loss) per share is as follows:
+Year Ended December 31,
+2025
+2024
+2023
+(in thousands, except per share amounts)
+Net income (loss)
+$
+45,911
+$
+4,628
+$
+(164,510)
+Weighted-average common shares outstanding—basic
+52,455
+51,178
+49,877
+Dilutive effect of share equivalents resulting from stock
+options, RSUs, ESPP, PSUs, and the Conversion Options
+739
+641
+—
+Weighted-average common shares outstanding-diluted
+53,194
+51,819
+49,877
+Net income (loss) per share, basic
+$
+0.88
+$
+0.09
+$
+(3.30)
+Net income (loss) per share, diluted
+$
+0.86
+$
+0.09
+$
+(3.30)
+The Company uses the treasury stock method and the average market price per share during the period for calculating any
+potential dilutive effect of the stock options, RSUs, ESPPs, and PSUs. The Company uses the if-converted method when calculating
+any potential dilutive effect of the Conversion Options, which assumes conversion of outstanding convertible securities at the
+beginning of the reporting period or date of issuance, if the convertible security was issued during the period.
+Since the Company incurred net losses in 2023, diluted net loss per share is the same as basic net loss per share. All of the
+Company’s outstanding stock options, RSUs and shares issuable under the ESPP, PSUs as well as the Conversion Options were
+excluded in the calculation of diluted net loss per share as the effect would be anti-dilutive.
+
+72
+The weighted-average number of shares outstanding used in the computation of diluted net income (loss) per share does not
+include the effect of the following potentially outstanding common stock, as the effect would have been anti-dilutive:
+Year Ended December 31,
+2025
+2024
+2023
+(in thousands)
+Options to purchase common shares
+58
+302
+470
+RSUs and PSUs
+1,376
+1,546
+1,902
+Conversion Option
+—
+1,625
+1,625
+ESPP
+109
+5
+7
+Cash and Cash Equivalents — The Company considers all highly liquid investments purchased with original maturity of three
+months or less to be cash equivalents. Cash and cash equivalents consist of cash held in bank deposit accounts and short-term, highly-
+liquid investments with remaining maturities of three months or less at the date of purchase, consisting primarily of money-market
+funds.
+Available-for-sale Investments — Investments consist of commercial paper, corporate debt securities, U.S. Treasury securities,
+and U.S. Government agency securities. Securities having remaining maturities of more than three months at the date of purchase and
+less than one year from the date of the balance sheets are classified as short-term, and those with maturities of more than one year
+from the date of the balance sheet are classified as long-term in the consolidated balance sheets. The Company classifies its debt
+investments with readily determinable market values as available-for-sale. These debt investments are classified as investments on the
+consolidated balance sheets and are carried at fair market value.
+For available-for-sale debt securities, any realized gains and losses are determined based on the specific identification method
+and are reported in other income (expense) in the consolidated statements of operations. For securities in an unrealized loss position,
+the Company first assesses whether it intends to sell or if it is more likely than not that the Company will be required to sell the
+security before the recovery of its entire amortized cost basis. If either of these criteria is met, the security’s amortized cost basis is
+written down to fair value through other income (expense) in the consolidated statements of operations. The Company does not intend
+to sell these investments and it is more likely than not that the Company will not be required to sell these investments before recovery
+of their amortized cost basis.
+If neither of the above criteria is met, the Company further assesses whether the decline in fair value below amortized cost is
+due to credit or non-credit related factors. In making this assessment, the Company considers the extent to which fair value is less than
+amortized cost, credit ratings, the financial health of the industry and sector of the issuer, the overall risk profile of the securities,
+overall macroeconomic conditions, and more. Any credit-related unrealized losses are recognized as an allowance on the consolidated
+balance sheets with a corresponding charge in other income (expense) in the consolidated statements of operations. Non-credit related
+unrealized losses and unrealized gains on available-for-sale debt securities are included in accumulated other comprehensive income
+(loss). In considering the underlying risk of its portfolio, the Company has a zero-loss expectation for U.S. treasury and U.S.
+government agency securities, which represents the majority of its debt investment available-for-sale securities portfolio. As of
+December 31, 2025 and 2024, no allowance for credit losses in investments was recorded.
+Strategic Investments — Strategic investments consist of non-marketable equity investments of privately held companies in
+which the Company does not have a controlling interest.
+Strategic investments that consist of non-controlling equity investments without readily determinable fair values in privately
+held companies for which the Company does not have the ability to exercise significant influence are measured under the
+measurement alternative method of accounting. Under the measurement alternative method of accounting, the non-marketable equity
+securities are carried at cost less any impairment, plus or minus adjustments resulting from observable price changes in orderly
+transactions for the identical or a similar investment of the same issuer. On a quarterly basis, the Company performs a qualitative
+assessment to evaluate whether the investment is impaired. If there are sufficient indicators that the fair value of the investment is less
+than the carrying value, the carrying value of the investment is reduced and an impairment is recorded in the consolidated statements
+of operations in other income (expense).
+The Company has certain other non-marketable strategic investments that do not qualify for the measurement alternative method
+of accounting, for which the fair value option has been elected. Under the fair value option, the non-marketable investments are
+measured at fair value based on valuation methods which may include a combination of observable and unobservable inputs and are
+reviewed quarterly for reductions in fair value that are other-than-temporary. Any changes to the fair value are recorded in the
+consolidated statements of operations in other income (expense).
+
+87
+The excess of the purchase consideration over the fair value of net tangible and identifiable intangible assets and liabilities
+acquired was recorded as goodwill. The Company expects to derive value from the combination of Clearbit's data asset and HubSpot's
+AI-powered Smart CRM, as well as through other synergies. The goodwill recognized is not deductible for U.S. income tax purposes.
+The primary intangible asset acquired in the business combination was developed technology and the fair value of the developed
+technology of $28.9 million was determined based on the estimated present value of expected after-tax cash flows attributable to the
+technology using an excess earnings method. The Company applied significant estimates and assumptions with respect to forecasted
+revenue growth rates, the revenue attributable to the acquired intangible asset over its estimated economic life, and the discount rate.
+The fair values assigned to the other tangible and identifiable intangible assets acquired and liabilities assumed as part of the business
+combination were based on management’s estimates and assumptions. The Company began amortizing the acquired technology on the
+date of acquisition over a period of five years based on expected future cash flow attributable to the technology. The amortization
+expense is recorded to cost of subscription revenue in the consolidated statements of operations.
+The Company has included the operating results of Clearbit in its consolidated financial statements since the date of the
+acquisition. Separate financial results and pro forma financial information for Clearbit have not been presented as the effect of this
+acquisition was not material to the Company's financial results.
+9. Intangible Assets and Goodwill
+Intangible assets
+Intangible assets as of December 31, 2025 and 2024 consist of the following:
+Weighted
+Average
+Remaining
+Useful Life (in Years)
+December 31,
+2025
+2024
+(in thousands)
+Acquired technology
+3.3
+$
+60,199
+$
+49,791
+Domain name
+3.3
+10,000
+10,000
+Sublease asset
+0.3
+980
+980
+Other intangible assets
+1.6
+1,450
+1,279
+Total intangible assets
+72,629
+62,050
+Accumulated amortization
+(37,404)
+(24,487)
+Intangible assets, net
+$
+35,225
+$
+37,563
+The Company has intangible assets acquired through business acquisitions (Note 8). The estimated useful life of acquired
+technology is two to seven years and the estimated useful life of sublease assets is two years. The Company also purchased rights to
+the domain name "connect.com" and the cost is amortized on a straight-line basis over its estimated useful life of seven years. Other
+intangible assets have estimated useful lives of two to three years. The Company evaluates the useful lives of these assets on an annual
+basis and tests for impairment whenever events or changes in circumstances occur that could impact the recoverability of these assets.
+Amortization expense related to intangible assets was $12.1 million in 2025, $9.6 million in 2024, and $5.3 million in 2023.
+Amortization expense of acquired technology is included in cost of subscription revenue and cost of professional services and other
+revenue. Amortization expense of customer relationships and the domain name is included in sales and marketing expense in the
+consolidated statements of operations.
+Estimated future amortization expense for intangible assets as of December 31, 2025 is as follows:
+Amortization
+Expense
+(in thousands)
+2026
+$
+12,411
+2027
+10,174
+2028
+9,387
+2029
+2,884
+2030
+369
+Thereafter
+-
+Total
+$
+35,225
+
+88
+Goodwill
+Goodwill represents the excess of the purchase price in a business combination over the fair value of net assets acquired and is
+generally not deductible for tax purposes. Goodwill amounts are not amortized, but rather tested for impairment annually.
+The changes in the carrying amounts of goodwill consist of the following:
+(in thousands)
+Balance as of December 31, 2023
+$
+173,761
+Effect of foreign currency translation
+(636)
+Acquisitions
+36,383
+Balance as of December 31, 2024
+209,508
+Effect of foreign currency translation
+1,806
+Acquisitions
+80,138
+Balance as of December 31, 2025
+$
+291,452
+10. Convertible Senior Notes
+2025 Convertible Senior Notes and Capped Call Options
+In June 2020, the Company issued $400 million aggregate principal amount of 0.375% convertible senior notes due June 1,
+2025 (the “2025 Notes”) in a private offering and an additional $60 million aggregate principal amount of the 2025 Notes pursuant to
+the exercise in full of the over-allotment options of the initial purchasers. The interest rate was fixed at 0.375% per annum and was
+payable semi-annually in arrears on June 1 and December 1 of each year. The total net proceeds from the debt offering, after
+deducting initial purchase discounts and debt issuance costs, were approximately $450.1 million.
+Each $1,000 of principal amount of the 2025 Notes was initially convertible into 3.5396 shares of the Company’s common stock
+(the “Conversion Option of the 2025 Notes”), which was equivalent to an initial conversion price of approximately $282.52 per share,
+subject to adjustment upon the occurrence of certain specified events. Upon conversion, the Company would pay or deliver, as the
+case may be, cash, shares of the Company’s common stock or combination of cash and shares of the Company’s common stock, at the
+Company’s election. In connection with the offering of the 2025 Notes, the Company purchased capped call options (“Capped Call
+Options”) with respect to its common stock for $50.6 million. The Capped Call Options were purchased call options that give the
+Company the option to purchase up to approximately 1.6 million shares of its common stock for $282.52 per share, and were
+purchased in order to offset potential dilution to the Company’s common stock upon any conversion of the 2025 Notes, subject to a
+cap of $426.44 per share.
+In 2025, upon the election of holders to convert, the Company settled $233.4 million of principal balance of the 2025 Notes in
+cash and issued 0.5 million shares for the conversion premium in excess of the principal amount. Upon the maturity of the 2025 Notes
+in June 2025, the Company paid $225.6 million to satisfy the remaining aggregate principal amount due and issued 0.4 million shares
+for the conversion premium in excess of the principal amount. The Company also exercised the Capped Call Options, which the
+Company net share settled and received 0.4 million shares of its common stock. At settlement, the $50.6 million paid for the Capped
+Call Options was recorded in treasury stock and netted within additional paid-in capital.
+The Company recognized interest expense of $0.9 million in 2025 and $3.7 million in 2024 and 2023.
+11. Segment Information and Geographic Data
+The Company provides a customer platform that helps businesses connect and grow better. The Company generates revenue
+from subscriptions to its customer platform and related professional services and other revenue consisting mainly of customer on-
+boarding, training and consulting services and Payments.
+The Company operates as one operating segment. Operating segments are defined as components of an enterprise for which
+separate financial information is regularly evaluated by the CODM, which is the Company’s chief executive officer, in deciding how
+to allocate resources and assess performance. The Company’s CODM evaluates the Company’s financial information and resources
+and assesses the performance of these resources on a consolidated basis. There is no expense or asset information supplemental to
+those disclosed in these consolidated financial statements that is regularly provided to the CODM. The allocation of resources and
+
+89
+assessment of performance of the operating segment is based on consolidated net income (loss) as shown in the consolidated
+statements of operations. The CODM considers net income (loss) in the annual forecasting process and reviews actual results when
+making decisions about allocating resources. Since the Company operates as one operating segment, financial segment information,
+including profit or loss and asset information, can be found in the consolidated financial statements.
+Geographic information
+Revenue and long-lived assets by geographic region, based on the physical location of the operations recording the revenue or
+the long-lived assets, respectively, are as follows:
+Revenues by geographic region:
+Year Ended December 31,
+2025
+2024
+2023
+(In thousands)
+Americas
+$
+1,872,171
+$
+1,588,886
+$ 1,321,568
+Europe
+1,010,968
+825,598
+668,263
+Asia Pacific
+248,127
+213,059
+180,399
+Total
+$
+3,131,266
+$
+2,627,543
+$ 2,170,230
+Percentage of revenues generated outside of the Americas
+40%
+40%
+39%
+Revenue derived from customers outside the United States (international) was approximately 48% of total revenue in 2025, and
+47% of total revenue in 2024 and 2023. Revenues of Americas attributed to the United States were 96%, 95%, and 96% of in the years
+ended December 31, 2025, 2024 and 2023. Revenues of Europe attributed to Ireland were 50%, 47%, and 54% in the years ended
+December 31, 2025, 2024 and 2023.
+Total long-lived assets by geographic region:
+As of December 31,
+2025
+As of December 31,
+2024
+(In thousands)
+Americas
+$
+238,095
+$
+231,984
+Europe
+95,798
+93,288
+Asia Pacific
+8,797
+5,123
+Total long lived assets
+$
+342,690
+$
+330,395
+Percentage of long lived assets held outside of the
+Americas
+31%
+30%
+Long-lived assets of Americas attributed to the United States were 97% as of December 31, 2025 and 2024. Long-lived assets of
+Europe attributed to Ireland were 82% and 80% as of December 31, 2025 and 2024.
+12. Commitments and Contingencies
+Contractual Obligations
+The Company leases its office facilities under non-cancelable operating leases that expire at various dates through February
+2035. Certain leases contain optional termination dates. The table below only includes payments up to the optional termination date. If
+the Company were to extend leases beyond the optional termination date, the future commitments would increase by approximately
+$91.8 million.
+
+90
+Future minimum payments under all operating lease agreements as of December 31, 2025, are as follows:
+(in thousands)
+2026
+$
+56,535
+2027
+50,257
+2028
+37,455
+2029
+37,188
+2030
+36,117
+Thereafter
+95,832
+Total
+$
+313,384
+The Company has entered into certain non-cancelable vendor commitments, which require the future purchase of goods or
+services. Future minimum payments under all vendor commitments as of December 31, 2025 are as follows:
+(in thousands)
+2026
+$
+286,458
+2027
+202,784
+2028
+4,463
+2029
+1,025
+2030
+—
+Thereafter
+—
+Total
+$
+494,730
+Legal Contingencies
+From time to time the Company may become involved in legal proceedings or be subject to claims arising in the ordinary course
+of its business. Although the results of litigation and claims cannot be predicted with certainty, the Company currently believes that
+the final outcome of these ordinary course matters will not have a material adverse effect on its business, operating results, financial
+condition or cash flows. Regardless of the outcome, litigation can have an adverse impact on the Company because of defense and
+settlement costs, diversion of management resources and other factors.
+13. Changes in Accumulated Other Comprehensive Income (Loss)
+The following table summarizes the changes in accumulated other comprehensive income (loss), which is reported as a
+component of stockholders’ equity, for the years ended December 31, 2025 and 2024:
+Cumulative
+Translation
+Adjustment
+Unrealized Gain
+(Loss) on
+Investments
+Unrealized
+Gain (Loss) on
+Derivate
+Instruments
+Total
+(in thousands)
+Ending balance at December 31, 2023
+$
+950
+$
+877
+$
+—
+$
+1,827
+Other comprehensive (loss) income before
+reclassifications
+(6,878)
+318
+(1,622)
+(8,182)
+Amounts reclassified from accumulated other
+comprehensive income, net of tax, to revenue
+—
+—
+701
+701
+Ending balance at December 31, 2024
+$
+(5,928)
+$
+1,195
+$
+(921)
+$
+(5,654)
+Other comprehensive (loss) income before
+reclassifications
+9,354
+94
+1,472
+10,920
+Amounts reclassified from accumulated other
+comprehensive income, net of tax, to revenue
+—
+—
+(22)
+(22)
+Ending balance at December 31, 2025
+$
+3,426
+$
+1,289
+$
+529
+$
+5,244
+14. Stockholders’ Equity and Stock-Based Compensation
+Common Stock Reserved — As of December 31, 2025 and 2024, the Company has authorized 500 million shares of common
+stock. The number of shares of common stock reserved for the vesting of RSUs, PSUs, and exercise of common stock options are as
+follows (in thousands):

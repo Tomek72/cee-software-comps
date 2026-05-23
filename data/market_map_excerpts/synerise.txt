@@ -1,0 +1,33 @@
+Cutting-edge AI-driven infrastructure tailored for collecting, analyzing, and interpreting behavioral data. By leveraging the power of AI and machine learning, we transform raw behavioral data into actionable intelligence, enabling organizations to make data-driven decisions with unprecedented accuracy and efficiency.
+
+Proprietary Technology
+
+Every layer — from TerrariumDB to BaseModel.ai — is built in-house. No dependency on third-party AI, databases, or cloud vendors.
+30K PREDICTIONS/SEC
+Award-Winning AI
+
+The behavioral foundation model wins international competitions and powers real-time predictions at enterprise scale.
+<50MS LATENCY
+Real-Time by Default
+
+From event capture to profile enrichment to AI decision — everything happens in under 50 milliseconds. Not batch. Not near-real-time. Real-time.
+90 DAYS TO ROI
+Instant Time-to-Value
+
+Go live in weeks, not months. Pre-built AI models, ready-made integrations, and guided onboarding mean you see measurable ROI within 90 days — not after a year-long implementation project.
+6 INDEPENDENT HUBS
+Composable Architecture
+
+Deploy only what you need. Each hub works independently or together — from data ingestion to AI to automation to experience delivery.
+31B EVENTS/MONTH
+Planetary Scale
+
+Built to handle 31 billion events per month, 21 billion API calls, and 12 billion workflow decisions — with linear horizontal scalability.
+
+Enterprise Security
+
+SaaS, Private Cloud, or On-Premise. GDPR, SOC 2, zero-trust architecture. Your data, your rules, your infrastructure.
+1 PLATFORM, NOT 12 TOOLS
+End-to-End Platform
+
+Replace your disconnected stack of CDPs, personalization engines, analytics tools, and marketing automation with one unified system

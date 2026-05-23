@@ -1,0 +1,10 @@
+{
+  "ticker": "VRC.WA",
+  "company_name": "Vercom S.A.",
+  "one_line_description": "Vercom operates a multichannel CPaaS platform delivering SMS, email, push, voice and OTT messaging services to business customers across Poland, Czechia and global markets.",
+  "revenue_model": "hybrid_saas_services",
+  "end_market": "horizontal",
+  "customer_profile": "mixed",
+  "primary_geography": "global",
+  "rd_intensity_signal": "medium"
+}

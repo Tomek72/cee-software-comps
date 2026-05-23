@@ -1,0 +1,16 @@
+Collect, analyze, and act on customer feedback with Survicate—a complete customer feedback platform.
+
+With Survicate, teams across the org can:
+
+👉 Measure customer satisfaction: launch CSAT & NPS surveys, analyze results with customizable dashboards and AI, easily spot trends, and act when it matters.
+👉  Evaluate customer journeys: launch highly-targeted surveys that pop up exactly when you want them to, asking questions you need answers for. Exit intent, post-purchase, in-product, and more.
+👉 Create perfectly-personalized content based on real customer feedback integrated with 20+ native connections, from HubSpot to Braze and Salesforce. 
+
+Besides launching multi-channel surveys and collecting feedback across sources, Survicate also makes it possible to analyze all that data like never before, with:
+
+👉 Customizable dashboards: a flexible bird’s-eye view showing all the insights exactly how you need them to make smart decisions quickly.
+👉 AI feedback analysis: automatically categorizing feedback across sources, from surveys to external review sites and sales calls, extracting what matters: insights with analyzed sentiment.
+👉 AI chat: need a deeper dive? Ask AI to analyze the feedback based on your criteria. Easily compare survey results from a given quarter, feature launch, or extract only negative feedback about a specific area.
+
+Survicate—everything you need to build a customer feedback program and close all the feedback loops.
+

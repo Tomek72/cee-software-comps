@@ -1,0 +1,17 @@
+{
+  "company_name": "Base",
+  "one_line_description": "Polish multichannel e-commerce integration and order management platform connecting marketplaces, online stores, couriers and accounting systems.",
+  "target_segment": "smb",
+  "product_scope": "platform",
+  "headcount_estimate": -299,
+  "headcount_source": "linkedin",
+  "primary_geography": "poland",
+  "plausible_strategic_acquirers": [
+    "Allegro",
+    "BaseLinker",
+    "InPost",
+    "Shoper",
+    "Cdiscount/Mirakl"
+  ],
+  "equity_story_pillar": "Single-pane multichannel order and listing management with deep local marketplace and courier integrations tailored to Polish SMB sellers."
+}

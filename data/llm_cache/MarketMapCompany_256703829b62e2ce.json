@@ -1,0 +1,17 @@
+{
+  "company_name": "Shoper",
+  "one_line_description": "Poland's leading SaaS e-commerce platform offering a full ecosystem for online stores including payments, logistics, and digital advertising services.",
+  "target_segment": "smb",
+  "product_scope": "suite",
+  "headcount_estimate": 391,
+  "headcount_source": "linkedin",
+  "primary_geography": "poland",
+  "plausible_strategic_acquirers": [
+    "Shopify",
+    "Lightspeed Commerce",
+    "Allegro",
+    "Cyberport (MTH)",
+    "Visma"
+  ],
+  "equity_story_pillar": "Category-leading Polish SaaS e-commerce platform monetizing SMB merchants through a vertically integrated stack of payments, logistics, and ad services with high attach rates."
+}

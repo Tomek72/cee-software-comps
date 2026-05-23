@@ -1,0 +1,17 @@
+{
+  "company_name": "eStoreBrands",
+  "one_line_description": "Digital shelf analytics platform helping consumer brands monitor and improve product visibility, conversion, and sales across online retailers globally.",
+  "target_segment": "enterprise",
+  "product_scope": "platform",
+  "headcount_estimate": 6,
+  "headcount_source": "linkedin",
+  "primary_geography": "global",
+  "plausible_strategic_acquirers": [
+    "Salsify",
+    "Profitero",
+    "DataWeave",
+    "NielsenIQ",
+    "Similarweb"
+  ],
+  "equity_story_pillar": "CEE-born digital shelf analytics player with global retailer coverage (3,000+ sites across 70+ markets) translating data into prioritized revenue actions for brands."
+}

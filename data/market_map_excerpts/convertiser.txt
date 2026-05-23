@@ -1,0 +1,40 @@
+Convertiser jest platformą marketingu efektywnościowego, która pomaga reklamodawcom pozyskiwać nowych klientów, a wydawcom monetyzować treści dzięki zautomatyzowanym narzędziom.
+
+Nasze rozwiązania są korzystne dla każdej ze stron. Reklamodawcy otrzymują opłacalny kanał marketingowy, w którym rozliczają się za efekty, podczas gdy Wydawcy i Deweloperzy Aplikacji, otrzymują prowizje z wygenerowanej sprzedaży. Naszym priorytetem jest uproszczenie całego procesu, tak aby każdy z uczestników mógł skoncentrować się na swoich celach.
+
+produktów topowych marek powiązanych z Twoim kontentem.
+Widget porównywarki cenowej (API)
+Wzbogaci Twoje treści o aktualne zestawienie cen produktu w największych sklepach.
+
+Widget porównywarki cenowej
+Strony z recenzjami
+Zobacz więcej
+Widget rekomendacji produktów (API)
+Widget pokaże czytelnikom produkty o których piszesz. Musisz zobaczyć go na żywo, jest piękny!
+
+Widget rekomendacji produktów (API)
+Blogi & Serwisy tematyczne Strony z recenzjami
+Zobacz więcej
+Widget kontekstowy
+Znajdzie w treściach strony słowa związane z nazwą produktów i zamieni je na linki afiliacyjne.
+
+Widget kontekstowy
+Blogi & Serwisy tematyczne Fora internetowe Strony z recenzjami
+Zobacz więcej
+Wtyczka Convertiser Editor
+Skróci czas na generowanie linków do kilku sekund - bez potrzeby logowania się do panelu.
+
+Wtyczka Convertiser Editor
+Blogi & Serwisy tematyczne Profile w Social Media Duże grupy mediowe
+Zobacz więcej
+REST API & WTYCZKA WORDPRESS
+Pomoże tworzyć marketplace, porównywarki cen i inne narzędzia, które chcesz wyposażyć w dane.
+
+Feedy produktowe (API & wtyczka WordPress)
+Marketplace'y produktowe Strony z rankingami produktów
+Zobacz więcej
+Kody i promocje (api)
+Pozwoli na wdrożenie na stronie regularnie aktualizowanej bazy promocji i kuponów rabatowych.
+
+Kody i promocje (API & WordPress)
+Serwisy cashback Strony z kuponami rabatowymi Agregatory promocji i obniżek 

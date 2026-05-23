@@ -1,0 +1,17 @@
+{
+  "company_name": "SALESmanago",
+  "one_line_description": "AI-powered Customer Engagement Platform unifying marketing automation, personalization, and CDP capabilities for mid-market eCommerce brands.",
+  "target_segment": "mid_market",
+  "product_scope": "platform",
+  "headcount_estimate": 458,
+  "headcount_source": "linkedin",
+  "primary_geography": "europe",
+  "plausible_strategic_acquirers": [
+    "Klaviyo",
+    "Bloomreach",
+    "Emarsys (SAP)",
+    "Insider",
+    "Sinch"
+  ],
+  "equity_story_pillar": "Category-leading European AI-driven customer engagement platform for mid-market eCommerce, with 2,000+ customers across 50 countries and a defensible position between SMB tools and enterprise marketing clouds."
+}

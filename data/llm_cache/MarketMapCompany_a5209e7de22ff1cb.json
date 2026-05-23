@@ -1,0 +1,17 @@
+{
+  "company_name": "RTB House",
+  "one_line_description": "Global performance demand-side platform (DSP) using proprietary deep learning algorithms to power full-funnel retargeting and customer acquisition campaigns for brands.",
+  "target_segment": "enterprise",
+  "product_scope": "platform",
+  "headcount_estimate": 1405,
+  "headcount_source": "linkedin",
+  "primary_geography": "global",
+  "plausible_strategic_acquirers": [
+    "Criteo",
+    "The Trade Desk",
+    "Publicis Groupe",
+    "Applovin",
+    "Vista Equity Partners"
+  ],
+  "equity_story_pillar": "Polish-built, globally scaled deep-learning DSP competing directly with Criteo across 90+ markets with proprietary AI as the defensible moat."
+}

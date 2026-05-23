@@ -1,0 +1,897 @@
+Vercom Group 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Consolidated financial statements 
+for the financial year ended 
+31 December 2025  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Poznań, 17 March 2026
+ 
+ 
+ 
+ 
+
+Vercom Group 
+Consolidated financial statements  
+for the financial year ended 31 December 2025   
+(all amounts in PLN thousand) 
+2 
+ 
+Table of contents 
+ 
+Table of contents......................................................................................................................................................... 2 
+Consolidated statement of profit or loss and other comprehensive income ......................................................... 5 
+Consolidated statement of financial position ........................................................................................................... 6 
+Consolidated statement of changes in equity ........................................................................................................... 7 
+Consolidated statement of cash flows ....................................................................................................................... 9 
+Notes to the consolidated financial statements ...................................................................................................... 10 
+1. 
+General information ......................................................................................................................................... 10 
+1.1. 
+General information on Vercom S.A. and the Vercom Group .....................................................10 
+1.2. 
+Management Board and Supervisory Board .................................................................................10 
+1.3. 
+Principal business .........................................................................................................................11 
+1.4. 
+List of subsidiaries ........................................................................................................................12 
+1.5. 
+Financial year ...............................................................................................................................13 
+1.6. 
+Authorisation for issue .................................................................................................................13 
+2. 
+Basis of preparation .......................................................................................................................................... 13 
+2.1. 
+Statement of compliance ..............................................................................................................13 
+2.2. 
+Accounting policies ......................................................................................................................13 
+2.2.1. 
+Change in the presentation of bank borrowings and lease liabilities ............................................13 
+2.2.2. 
+Change in revenue recognition .....................................................................................................14 
+2.2.3. 
+Impact on comparative information .............................................................................................14 
+2.3. 
+Going concern ..............................................................................................................................16 
+2.4. 
+Functional currency and presentation currency ............................................................................16 
+3. 
+Material accounting policies ............................................................................................................................ 17 
+3.1. 
+Preparation of the consolidated financial statements ....................................................................17 
+3.2. 
+Property, plant and equipment ......................................................................................................17 
+3.3. 
+Goodwill .......................................................................................................................................18 
+3.4. 
+Trademarks ...................................................................................................................................18 
+3.5. 
+Customer relationships .................................................................................................................19 
+3.6. 
+Research and development expenditure and internally generated software .................................19 
+3.7. 
+Other intangible assets ..................................................................................................................20 
+3.8. 
+Impairment of non-financial assets ...............................................................................................20 
+3.9. 
+Financial instruments ...................................................................................................................21 
+3.10. 
+Other assets ..................................................................................................................................21 
+3.11. 
+Cash and cash equivalents ............................................................................................................22 
+3.12. 
+Equity ...........................................................................................................................................22 
+3.12.1. 
+Share capital .................................................................................................................................22 
+3.12.2. 
+Statutory reserve funds .................................................................................................................22 
+3.12.3. 
+Capital reserve ..............................................................................................................................22 
+3.13. 
+Treasury shares .............................................................................................................................22 
+3.14. 
+Income tax (including deferred tax) .............................................................................................23 
+3.15. 
+Employee benefits ........................................................................................................................24 
+3.16. 
+Share-based payments ..................................................................................................................24 
+3.17. 
+Revenue recognition .....................................................................................................................24 
+3.18. 
+Operating segments ......................................................................................................................24 
+3.19. 
+Finance income and finance costs ................................................................................................25 
+3.20. 
+Right-of-use assets/leases (IFRS 16) ............................................................................................25 
+3.21. 
+Position regarding new IFRS standards and interpretations .........................................................26 
+4. 
+Significant estimates and assumptions ........................................................................................................... 28 
+5. 
+Operating segments .......................................................................................................................................... 29 
+6. 
+Revenue .............................................................................................................................................................. 31 
+7. 
+Operating expenses by nature and function .................................................................................................. 33 
+8. 
+Impairment losses and loss allowances for assets .......................................................................................... 34 
+9. 
+Other income and expenses ............................................................................................................................. 34 
+10. Operating EBITDA .......................................................................................................................................... 34 
+11. Finance income and finance costs ................................................................................................................... 35 
+12. Income tax ......................................................................................................................................................... 35 
+13. Deferred tax assets and liabilities .................................................................................................................... 37 
+
+Vercom Group 
+Consolidated financial statements  
+for the financial year ended 31 December 2025   
+(all amounts in PLN thousand) 
+3 
+ 
+14. Property, plant and equipment ....................................................................................................................... 39 
+15. Right-of-use assets ............................................................................................................................................ 41 
+16. Intangible assets and goodwill ......................................................................................................................... 43 
+17. Impairment testing ........................................................................................................................................... 47 
+18. Acquisition of subsidiaries ............................................................................................................................... 49 
+19. Trade receivables .............................................................................................................................................. 49 
+20. Loans .................................................................................................................................................................. 50 
+21. Cash and cash equivalents ............................................................................................................................... 50 
+22. Lease receivables ............................................................................................................................................... 51 
+23. Other assets ....................................................................................................................................................... 51 
+24. Share capital and other components of equity .............................................................................................. 52 
+25. Treasury shares ................................................................................................................................................. 54 
+26. Earnings per share ............................................................................................................................................ 55 
+27. Allocation of profit ............................................................................................................................................ 56 
+28. Borrowings and lease liabilities ....................................................................................................................... 57 
+29. Lease liabilities .................................................................................................................................................. 59 
+30. Trade payables .................................................................................................................................................. 59 
+31. Employee benefit obligations ........................................................................................................................... 59 
+32. Contingent liabilities, guarantees and sureties .............................................................................................. 59 
+33. Other liabilities .................................................................................................................................................. 61 
+34. Financial instruments ....................................................................................................................................... 61 
+34.1. 
+Classification and measurement of financial instruments ............................................................61 
+34.2. 
+Capital management .....................................................................................................................63 
+34.3. 
+Principles of financial risk management.......................................................................................63 
+34.3.1. 
+Credit risk .....................................................................................................................................64 
+34.3.2. 
+Liquidity risk ................................................................................................................................65 
+34.3.3. 
+Interest rate risk ............................................................................................................................67 
+34.3.4. 
+Currency risk ................................................................................................................................68 
+35. Notes to the statement of cash flows ................................................................................................................ 71 
+36. Non-controlling interests .................................................................................................................................. 73 
+37. Related-party transactions ............................................................................................................................... 74 
+37.1. 
+Transactions with key management personnel .............................................................................74 
+37.2. 
+Other related-party transactions....................................................................................................75 
+38. Average employment ........................................................................................................................................ 76 
+39. Share-based incentive scheme ......................................................................................................................... 76 
+40. Auditor’s fees..................................................................................................................................................... 78 
+41. Events after the reporting date ........................................................................................................................ 78 
+ 
+ 
+ 
+
+Vercom Group 
+Consolidated financial statements  
+for the financial year ended 31 December 2025   
+(all amounts in PLN thousand) 
+ 
+The notes on pages 10–78 form an integral part of these consolidated financial statements 
+23 
+In the case of disposal of treasury shares, the cost of shares disposed of is determined using the weighted 
+average cost method. This method is applied consistently to all equity instruments in book-entry form quoted 
+on the Warsaw Stock Exchange (WSE) for which specific identification of individual instruments is not 
+possible. 
+The difference between the sale price and the carrying amount of the disposed treasury shares, determined 
+using the weighted average cost method, is recognised directly in equity.  
+ 
+3.14. Income tax (including deferred tax) 
+Income tax presented in the statement of profit or loss and other comprehensive income comprises current tax 
+and deferred tax. Current tax expense represents the amount of income tax payable on taxable profit for the 
+reporting period. Taxable profit (loss) is the profit (loss) calculated for tax purposes and differs from 
+accounting net profit (loss), as it excludes specific items of income or expense. Specifically, taxable profit 
+(loss) excludes income or expense items that are taxable or deductible in future periods, as well as items never 
+subject to taxation or deduction. Tax liabilities are measured using the tax rates effective for the reporting 
+period. 
+Deferred tax is measured using the balance sheet liability method, in respect of temporary differences between 
+the carrying amounts of assets and liabilities and their tax bases. The Group recognises a deferred tax asset for 
+unused tax losses to the extent that it is probable that the asset can be utilised in the future. 
+Where applicable, the Group considers whether it is probable that a taxation authority will accept an uncertain 
+tax treatment. If it is probable that the taxation authority will accept the uncertain tax treatment, the Group 
+determines taxable profit (tax loss), tax bases, unused tax losses, unused tax credits and tax rates consistently 
+with the tax treatment used or planned to be used in its income tax filings. If it is not probable that the taxation 
+authority will accept the uncertain tax treatment, the Group reflects the effect of the uncertainty in determining 
+the related taxable profit (tax loss), tax bases, unused tax losses, unused tax credits and tax rates. The Group 
+reflects the effect of uncertainty for each uncertain tax treatment using one of the following methods, 
+depending on which method better predicts the resolution of the uncertainty: 
+a) the most likely amount – the single most likely amount in a range of possible outcomes. The most 
+likely amount may better predict the resolution of the uncertainty if the possible outcomes are binary 
+or are concentrated on one value; 
+b) the expected value – sum of the probability-weighted amounts in a range of possible outcomes. The 
+expected value may better predict the resolution of the uncertainty if there is a range of possible 
+outcomes that are neither binary nor concentrated on one value. 
+If an uncertain tax treatment affects current tax and deferred tax (for example, if it affects both taxable profit 
+used to determine current tax and tax bases used to determine deferred tax), the Group makes consistent 
+judgements and estimates for both current tax and deferred tax. 
+The Group applied the mandatory temporary exception introduced by the amendments to IAS 12 issued in 
+May 2023, relating to the recognition and disclosure of information about deferred tax assets and liabilities 
+
+Vercom Group 
+Consolidated financial statements  
+for the financial year ended 31 December 2025   
+(all amounts in PLN thousand) 
+ 
+The notes on pages 10–78 form an integral part of these consolidated financial statements 
+24 
+arising from the Pillar Two Model Rules published by the OECD (International Tax Reform—Pillar Two 
+Model Rules). 
+Deferred tax assets and deferred tax liabilities are offset if, and only if, they relate to income taxes levied by 
+the same taxation authority and the Group has a legally enforceable right to set off current tax assets against 
+current tax liabilities, in accordance with IAS 12. 
+ 
+3.15. Employee benefits 
+Employee benefits include monthly salaries, annual bonuses, remuneration related to the incentive programme 
+and unused paid leave together with social security contributions. 
+The Group has neither a legal nor a constructive obligation to pay future retirement benefits. Contributions 
+relating to the current period are recognised in profit or loss as an employee benefit expense. 
+Taking into account the number and age structure of the Group’s employees, the Management Board of the 
+Parent concluded that any obligation in respect of retirement benefits would not be material to the 
+consolidated financial statements. Accordingly, no related liability or expense has been recognised. To date, 
+the Group has not made any payments in respect of retirement benefits.  
+ 
+3.16. Share-based payments 
+The fair value of discounts granted to employees of the Group in transactions involving the subscription for 
+equity instruments of the Parent and its subsidiaries is recognised as employee benefits expense when the 
+vesting conditions are satisfied and the employees become entitled to exercise the transaction on terms more 
+favourable than market conditions. 
+ 
+3.17. Revenue recognition 
+The accounting policies relating to revenue recognition are presented in note 6. 
+ 
+3.18. Operating segments 
+The Group operates in three main geographical areas: Poland, the Czech Republic and the Rest of the World 
+(the MailerLite Group), which together constitute a single operating segment, namely the multi-channel 
+electronic communication segment based on the CPaaS (Communication Platform as a Service) model, being 
+a platform that enables the addition of communication functions to applications without the need to build 
+proprietary infrastructure, together with related services. 
+The measurement of the results and financial position of operating segments applied in internal management 
+reporting is consistent with the accounting policies applied in the preparation of the consolidated financial 
+statements. 
+Revenue presented in the consolidated statement of profit or loss and other comprehensive income does not 
+differ from revenue presented within operating segments (note 5). 
+In certain cases, in accordance with the criteria set out in IFRS 8 Operating segments, paragraph 12, the Group 
+aggregates operating segments into a single operating and reportable segment. 
+
+Vercom Group 
+Consolidated financial statements  
+for the financial year ended 31 December 2025   
+(all amounts in PLN thousand) 
+ 
+The notes on pages 10–78 form an integral part of these consolidated financial statements 
+25 
+ 
+3.19. Finance income and finance costs 
+In the statement of profit or loss, within finance income and finance costs, the Group presents foreign 
+exchange gains and losses, interest on borrowings and loans, interest on lease liabilities, impairment losses on 
+financial assets (other than receivables), and changes in the fair value of financial assets measured at fair value 
+through profit or loss. 
+ 
+3.20. Right-of-use assets/leases (IFRS 16) 
+The Group is a party to contracts that meet the definition of a lease in accordance with IFRS 16. A contract is, 
+or contains, a lease if it conveys the right to control the use of an identified asset for a period of time in 
+exchange for consideration. 
+As a lessee, the Group recognises lease contracts in the consolidated financial statements as: 
+a) a right-of-use asset measured at cost; and 
+b) a lease liability representing the present value of lease payments and the present value of expected 
+payments at the end of the lease term. 
+After the commencement date, the Group measures the right-of-use asset applying a cost model. Right-of-use 
+assets are measured at cost less any accumulated depreciation and any accumulated impairment losses and 
+adjusted for any remeasurement of the lease liability.  
+The depreciation period is determined as follows: 
+a) if the lease transfers ownership of the underlying asset to the lessee or if the lessee will exercise a 
+purchase option, the right-of-use asset is depreciated from the commencement date to the end of the 
+useful life of the underlying asset, or 
+b) otherwise, the right-of-use asset is depreciated from the commencement date to the earlier of: 
+− 
+the end of the useful life of the asset, or 
+− 
+the end of the lease term.  
+The present value of future lease payments is calculated using a discount rate determined as the Group’s 
+incremental borrowing rate.  
+The Group determines the lease term as the non-cancellable period of the lease, together with both: 
+a) periods covered by an option to extend the lease if the Group is reasonably certain to exercise that 
+option; and 
+b) periods covered by an option to terminate the lease if the Group is reasonably certain not to exercise 
+that option. 
+The Group remeasures the lease liability upon reassessment if there is a change in future lease payments 
+resulting from changes in an index or rate used to determine the payments, if there is a change in the amount 
+expected to be payable under a guaranteed residual value, or if the Group revises its assessment of the 
+likelihood of exercising a purchase, extension, or termination option.  
+Any remeasurement of the lease liability is recognised as an adjustment to the right-of-use asset. 
+
+Vercom Group 
+Consolidated financial statements  
+for the financial year ended 31 December 2025   
+(all amounts in PLN thousand) 
+ 
+The notes on pages 10–78 form an integral part of these consolidated financial statements 
+27 
+published on 21 August 2025, effective from 1 January 2027. The standard, which can be applied on 
+a voluntary basis, provides for a number of simplifications to the recognition and measurement 
+requirements for subsidiaries applying IFRS that are not publicly accountable entities. The standard 
+has not been endorsed for use in the European Union. 
+▪ 
+Amendments to IFRS 9 and IFRS 7 Contracts Referencing Nature-Dependent Electricity – the 
+amendments clarify the application of the ‘own-use’ requirements; permit hedge accounting where 
+such contracts are used as hedging instruments; and introduce new disclosure requirements. The 
+amendments are effective for annual periods beginning on or after 1 January 2026. The amendments 
+were endorsed for use in the EU on 1 July 2025. 
+▪ 
+Amendments to IAS 21 Translation to a Hyperinflationary Presentation Currency. The amendments 
+are effective for annual periods beginning on 1 January 2027. The amendments clarify the following 
+matters: 
+− 
+Translation into a hyperinflationary presentation currency: current and comparative 
+information is translated using the closing rate at the date of the most recent statement of 
+financial position. 
+− 
+Cessation of hyperinflation: the change in the translation method is applied prospectively 
+(without restating comparative information). 
+− 
+Foreign operations: when translating comparative information of entities operating in non-
+hyperinflationary economies into a hyperinflationary presentation currency, a general price 
+index is applied (in accordance with IAS 29). 
+▪ 
+Amendments to various standards following Annual Improvements to IFRS Accounting Standards – 
+Volume 11. They are mostly effective for annual periods beginning on or after 1 January 2026, with 
+early adoption permitted. The amendments relate to: 
+− 
+IFRS 1 – hedge accounting for first-time adopters, 
+− 
+IFRS 7 – recognition of gains or losses on derecognition of financial instruments, disclosure 
+of deferred differences between fair value and transaction price, as well as introduction and 
+disclosure of credit risk information, 
+− 
+IFRS 9 – derecognition of lease liabilities and clarification of the definition of ‘transaction 
+price’ in relation to IFRS 15, 
+− 
+IFRS 10 – clarification of the term ‘de facto agent’, 
+− 
+IAS 7 – clarification of the term ‘cost method’. 
+The Group did not elect to early adopt any of the standards, interpretations or amendments that have been 
+published but are not effective.  
+The new IFRS 18 will affect information presented in the consolidated financial statements, including the 
+aggregation and disaggregation of data or the disclosure of additional performance measures monitored by 
+management and stakeholders. 
+Apart from the new IFRS 18 referred to above, the Management Board of the Parent does not expect the 
+application of the above new or amended standards and interpretations to have a material effect on the 
+consolidated financial statements. 
+
+Vercom Group 
+Consolidated financial statements  
+for the financial year ended 31 December 2025   
+(all amounts in PLN thousand) 
+ 
+The notes on pages 10–78 form an integral part of these consolidated financial statements 
+28 
+ 
+4. Significant estimates and assumptions 
+The preparation of these consolidated financial statements requires the Parent’s Management Board to make 
+judgements and estimates that affect the accounting policies applied and the amounts reported in these 
+consolidated financial statements and the related notes. Judgements and estimates are based on the 
+Management Board’s best knowledge of current and future events and actions. Actual results may, however, 
+differ from those estimates.  
+The principal areas in which the Management Board’s judgements and estimates have a material impact on the 
+consolidated financial statements are as follows: 
+• 
+Recoverable amount of goodwill, intangible assets and investments in entities – assets are tested for 
+impairment based on a number of assumptions, some of which are beyond the control of the Group. 
+Significant changes in these assumptions, including those relating to estimated cash flows in the terminal 
+period, affect the results of impairment tests and consequently the financial position and financial 
+performance of the Group (note 17). 
+• 
+Recognition of development expenditure – in determining the point at which expenditure incurred 
+should be recognised as an intangible asset, the Management Board of the Parent exercises judgement in 
+assessing whether all the recognition criteria for an intangible asset arising from development activities 
+have been met (note 16). 
+• 
+Depreciation/amortisation periods of property, plant and equipment/intangible assets – depreciation 
+and amortisation charges are determined on the basis of the expected useful lives of items of property, 
+plant and equipment and intangible assets. Useful lives are reviewed at least at the end of each financial 
+year. For information on the useful lives applied, please refer to notes 3.2, 3.4, 3.5, 3.6 and 3.7. 
+• 
+Residual value of depreciable assets – the Group estimates the amount that it would currently obtain 
+from the disposal of an asset, after deducting the estimated costs of disposal, if the asset were already of 
+the age and in the condition expected at the end of its useful life. Where the Management Board of the 
+Parent determines that the estimated residual value is material, it reduces the depreciable amount of the 
+asset accordingly. Residual values are reviewed at least at the end of each financial year. 
+• 
+Right-of-use assets and lease liabilities – the Group recognises right-of-use assets as a separate class of 
+assets and lease liabilities in the consolidated financial statements. They are measured taking into account 
+the estimated period of use of the underlying asset and the discount rate applied to future lease payments 
+(notes 15 and 29). 
+• 
+Loss allowances for trade receivables – the loss allowance represents the difference between the 
+carrying amount and the present value of estimated future cash flows discounted using the effective 
+interest rate. Changes in estimates of future cash flows will result in changes in the loss allowance for 
+trade receivables (note 19). 
+• 
+Operating segments – taking into account the similarity of certain geographical areas and/or the 
+similarity of the services provided, the structure and type of customers, distribution methods and margins 
+achieved, the Group identifies one operating and reportable segment. 
+ 
+
+Vercom Group 
+Consolidated financial statements  
+for the financial year ended 31 December 2025   
+(all amounts in PLN thousand) 
+ 
+The notes on pages 10–78 form an integral part of these consolidated financial statements 
+29 
+5. Operating segments 
+Based on the criteria set out in IFRS 8 Operating Segments, the Group has determined that the Management 
+Board of the Parent is its chief operating decision maker (CODM). The Parent’s Management Board regularly 
+reviews consolidated management information in order to assess the Group’s performance and to make 
+decisions on the allocation of resources.  
+The Group currently has one operating segment, which involves the provision of multichannel electronic 
+communication services under the CPaaS (Communication Platform as a Service) model, a platform that 
+enables the addition of communication functions to applications without the need to build proprietary 
+infrastructure, together with related services. The Group operates in three main geographical areas: Poland, the 
+Czech Republic and Rest of the World (MailerLite Group). The Parent’s Management Board expects similar 
+long-term gross margins across all these geographical areas. Poland, the Czech Republic and Rest of the 
+World (MailerLite Group) share similar economic characteristics in all respects referred to in paragraph 12 of 
+IFRS 8, namely that the same types of services are offered across these markets and are directed to similar 
+customer types and classes.  
+ 
+Operating segments – profit or loss 
+Financial year ended 31 Dec 2025 
+    
+CPaaS segment 
+Total 
+PLN thousand 
+    
+Revenue 
+    
+471,152 
+471,152 
+Segment revenue 
+    
+471,152 
+471,152 
+Other income 
+170 
+170 
+Total expenses, including: 
+ 
+ 
+(358,491) 
+(358,491) 
+- depreciation and amortisation 
+ 
+ 
+(15,447) 
+(15,447) 
+Gain on disposal of non-current non-financial assets 
+(72) 
+(72) 
+Other expenses 
+ 
+ 
+(686) 
+(686) 
+Impairment losses on non-current non-financial assets 
+ 
+ 
+26 
+26 
+Loss allowances for receivables 
+ 
+ 
+191 
+191 
+Operating profit 
+    
+112,290 
+112,290 
+Operating EBITDA* 
+    
+127,711 
+127,711 
+% Operating EBITDA** 
+27.1% 
+27.1% 
+Finance income 
+772 
+772 
+Finance costs 
+(5,303) 
+(5,303) 
+Profit before tax 
+    
+107,759 
+107,759 
+Income tax 
+(16,835) 
+(16,835) 
+Net profit 
+    
+90,924 
+90,924 
+* Operating EBITDA is calculated as operating profit/(loss) before depreciation, amortisation and impairment losses on 
+non-current non-financial assets.  
+** % Operating EBITDA is defined as the ratio of Operating EBITDA to segment revenue. 
+ 
+ 
+
+Vercom Group 
+Consolidated financial statements  
+for the financial year ended 31 December 2025   
+(all amounts in PLN thousand) 
+ 
+The notes on pages 10–78 form an integral part of these consolidated financial statements 
+30 
+ 
+Financial year ended 31 Dec 2024 (restated) 
+    
+CPaaS segment 
+Total 
+PLN thousand 
+    
+Revenue 
+    
+495,885 
+495,885 
+Segment revenue 
+    
+495,885 
+495,885 
+Other income 
+275 
+275 
+Total expenses, including: 
+ 
+ 
+(401,569) 
+(401,569) 
+- depreciation and amortisation 
+ 
+ 
+(16,175) 
+(16,175) 
+Gain on disposal of non-current non-financial assets 
+15 
+15 
+Other expenses 
+ 
+ 
+(496) 
+(496) 
+Loss allowances for non-current financial assets 
+ 
+ 
+(116) 
+(116) 
+Loss allowances for receivables 
+ 
+ 
+(1,040) 
+(1,040) 
+Operating profit 
+    
+92,954 
+92,954 
+Operating EBITDA* 
+    
+109,245 
+109,245 
+% Operating EBITDA** 
+22.0% 
+22.0% 
+Finance income 
+3,057 
+3,057 
+Finance costs 
+(7,561) 
+(7,561) 
+Profit before tax 
+    
+88,450 
+88,450 
+Income tax 
+(11,577) 
+(11,577) 
+Net profit 
+    
+76,873 
+76,873 
+* Operating EBITDA is calculated as operating profit/(loss) before depreciation, amortisation and impairment losses on 
+non-current non-financial assets.  
+** % Operating EBITDA is defined as the ratio of Operating EBITDA to segment revenue. 
+ 
+Operating segments – assets 
+PLN thousand 
+  
+31 Dec 2025 
+31 Dec 2024 
+CPaaS 
+595,387 
+626,375 
+Total assets 
+  
+595,387 
+626,375 
+ 
+Operating segments – net debt 
+PLN thousand 
+  
+31 Dec 2025 
+31 Dec 2024 
+CPaaS 
+(24,587) 
+(10,509) 
+Total net debt 
+  
+(24,587) 
+(10,509) 
+Net debt is defined as the sum of debt under borrowings and leases less cash and cash equivalents. 
+Disclosures on the Group’s products and services, geographical areas and major customers are presented in 
+note 6 ‘Revenue’. 
+ 
+ 
+
+Vercom Group 
+Consolidated financial statements  
+for the financial year ended 31 December 2025   
+(all amounts in PLN thousand) 
+ 
+The notes on pages 10–78 form an integral part of these consolidated financial statements 
+31 
+6. Revenue 
+The Group generates revenue from the sale of electronic communication services delivered through modern 
+technologies offered under the CPaaS model, comprising: 
+ 
+PLN thousand 
+  
+1 Jan–31 Dec 
+2025 
+1 Jan–31 Dec 
+2024 (restated) 
+Communication platform services 
+ 
+426,589 
+454,793 
+Complementary services 
+ 
+44,564 
+41,092 
+Total 
+  
+471,152 
+495,885 
+The Group distinguishes the following categories of revenue provided under the CPaaS (Communication 
+Platform as a Service) model:  
+• 
+revenue from communication platforms – this comprises revenue from multichannel electronic 
+communication services, including SMS, e-mail, push notifications, voice and messages delivered via 
+mobile applications (OTT channel). These services are offered through advanced proprietary and 
+acquired technological solutions;  
+• 
+revenue from services complementary to multichannel communication services – this comprises 
+services enabling the use of communication platforms for marketing and sales campaigns, including 
+performance marketing, internet access services and other complementary services such as telephone 
+calls or television access, targeted primarily at retail customers. 
+Revenue from communication platforms is generated under two complementary pricing models:  
+• 
+variable usage-based fees, determined primarily by the number of messages sent and the number of 
+recipients;  
+• 
+fixed subscription fees for access to the communication platform, which provide (i) access to certain 
+functionalities and services, and (ii) the right to send a specified number of messages without 
+incurring additional charges (the cost of such messages being included in the fixed fee). 
+Revenue is recognised when a performance obligation is satisfied through the transfer of the promised service 
+to the customer. If control of the service is transferred over time, revenue is recognised over time, even where 
+payment is received in advance. 
+• 
+Communication platform services – revenue is recognised when the service is performed. Fixed 
+subscription fees are recognised over the monthly service period to which they relate, while variable 
+usage-based fees are recognised in the month in which the relevant messages are transmitted; 
+• 
+Complementary services – revenue is recognised when the service is performed, i.e. in the month in 
+which the campaign is executed. 
+Revenue from marketing campaigns is generated under a performance-based settlement model. Under this 
+model, the amount of revenue depends on the effectiveness of the campaign. Two principal variants of the 
+performance-based model are applied. The first one is pay per click, with revenue recognised when the 
+recipient clicks on a link to a website or application contained in a message sent via the CPaaS platform. The 
+unit price is determined and allocated to each click. The other one is pay per sale, with revenue recognised 
+when the recipient of a message sent via the CPaaS platform purchases the promoted product or service. The 
+
+Vercom Group 
+Consolidated financial statements  
+for the financial year ended 31 December 2025   
+(all amounts in PLN thousand) 
+ 
+The notes on pages 10–78 form an integral part of these consolidated financial statements 
+46 
+Expenditure incurred on development work undertaken as part of a project is assessed by the Management 
+Board of the Parent against the criteria for recognition as an intangible asset: 
+a) the technical feasibility of completing the intangible asset so that it will be available for use or sale: 
+ 
+The Group possesses both the expertise and the technical and other resources necessary to complete 
+the development work; 
+b) the intention to complete the intangible asset and to use or sell it: 
+ 
+Within the Vercom Group, the provision of services based on multi-channel electronic 
+communication platforms constitutes the core business activity of the Group. Accordingly, development 
+work aimed at enhancing the functionality of these platforms is necessary to maintain the competitiveness 
+of the services offered by the Group. 
+c) the ability to use or sell the intangible asset; and 
+d) how the intangible asset will generate probable future economic benefits. Among other things, the 
+undertaking can demonstrate the existence of a market for the output of the intangible asset or for the 
+intangible asset itself, or, if it is to be used internally, the usefulness of the intangible asset: 
+ 
+All expenditure on development work relates to the Group’s key assets that form the basis for the 
+services provided by the Group; 
+e) the availability of adequate technical, financial and other resources to complete the development and 
+to use or sell the intangible asset. 
+ 
+The Group finances expenditure on development work from funds generated from operating 
+activities, but it also has access to long-term sources of financing. Accordingly, the Group has sufficient 
+financial resources available. The Group also has adequate technical and other resources, in particular a 
+team of experienced programmers and contractors providing programming services to the Group; 
+f) 
+the ability to measure reliably the expenditure attributable to the intangible asset during its 
+development. 
+ 
+The Group maintains records of expenditure on development work in a manner that enables reliable 
+measurement and clear allocation to individual projects. The expenditure is identified on the basis of data 
+from accounting and controlling systems, ensuring reliable recognition of the cost of the internally 
+generated intangible asset. 
+Expenditure incurred on development work is, upon its completion, transferred to the line item Internally 
+generated software within intangible assets. 
+The Group did not recognise any research expenditure in the current or comparative reporting periods. 
+Customer relationships 
+Customer relationships represent intangible assets acquired in a business combination in 2017 with 
+SerwerSMS Polska Sp. z o.o., in 2019 with PromoSMS Sp. z o.o., in 2020 with the ProfiSMS Group, in 2021 
+with Freshmail Sp. z o.o. and PushPushGo Sp. z o.o., and in 2022 with Oxylion Sp. z o.o. and the MailerLite 
+Group. 
+In the financial year ended 31 December 2025, the Group did not acquire any new intangible assets in the 
+
+Vercom Group 
+Consolidated financial statements  
+for the financial year ended 31 December 2025   
+(all amounts in PLN thousand) 
+ 
+The notes on pages 10–78 form an integral part of these consolidated financial statements 
+47 
+form of customer relationships. 
+Trademarks 
+The trademarks line item includes the registered trademark SerwerSMS, acquired in 2017 as part of the 
+business combination with the subsidiary SerwerSMS Polska Sp. z o.o., the Freshmail trademark acquired in 
+2021 and the MailerLite trademark acquired in 2022. 
+Other intangible assets 
+The other intangible assets line item mainly comprises acquired software. In the financial year ended 31 
+December 2025, the Group incurred expenditure on software in the amount of PLN 76 thousand (PLN 50 
+thousand in the financial year ended 31 December 2024).  
+ 
+17. Impairment testing  
+Assets are analysed for impairment whenever there is an indication that an asset may be impaired, and 
+annually in the case of goodwill and intangible assets with indefinite useful lives or intangible assets not yet 
+available for use. 
+No indications were identified that any of the Group’s assets may be impaired. Accordingly, an impairment 
+test was performed for goodwill and development work in progress. Goodwill is allocated to three identified 
+cash-generating units or groups of cash-generating units which, in the assessment of the Management Board of 
+the Parent, correspond to operating segments (and are not larger than an operating segment before 
+aggregation), namely: (i) the Parent and its subsidiaries operating in Poland, (ii) ProfiSMS operating in the 
+Czech Republic, and (iii) the MailerLite Group operating primarily in the United States and European 
+markets. Development work in progress relates to the Poland operating segment. The functional currency of 
+the MailerLite Group cash-generating unit is the US dollar, as the majority of its revenue is generated in USD. 
+The recoverable amount of the cash-generating units was estimated based on value in use determined using the 
+discounted cash flow method on the basis of financial projections. 
+In determining the assumptions described below, the Management Board of the Parent relied on historical data 
+reported by the companies comprising each cash-generating unit, adjusted, where appropriate, to reflect the 
+Management Board’s expectations regarding the future development of those units. 
+A five-year forecast period was adopted. The D/E ratio represents the ratio of debt to the market value of 
+equity. The market value of this ratio was determined based on an analysis of companies operating in 
+comparable sectors. The beta coefficient represents systematic risk. The market value of the beta coefficient 
+was determined based on an analysis of the correlation between the rates of return on investments in the shares 
+of companies operating in comparable sectors and the rates of return on market indices. 
+The discount rate is based on the weighted average cost of capital (WACC). In determining the WACC, the 
+risk-free rate as at 31 December 2025 was assumed to be 5.15%, 4.50% and 4.16% for the Poland, Czech 
+Republic and Rest of the World (MailerLite Group) cash-generating units, respectively, and was adjusted by a 
+
+Vercom Group 
+Consolidated financial statements  
+for the financial year ended 31 December 2025   
+(all amounts in PLN thousand) 
+ 
+The notes on pages 10–78 form an integral part of these consolidated financial statements 
+48 
+risk premium reflecting both the increased risk of investment and the systematic risk of the respective cash-
+generating unit. 
+As at 31 December 2025, the discount rates for the Poland, Czech Republic and Rest of the World (MailerLite 
+Group) cash-generating units were estimated at 8.16%, 7.39% and 6.77%, respectively (corresponding to pre-
+tax rates of 10.16%, 9.14% and 8.61%, respectively). For all of these cash-generating units, a growth rate of 
+0% was assumed beyond the forecast period.  
+The impairment tests performed revealed that the recoverable amount exceeded the carrying amount of the 
+assets. The excess amounted to PLN 290,936 thousand for Poland, PLN 69,706 thousand for the Czech 
+Republic and PLN 721,066 thousand for the Rest of the World (MailerLite Group). 
+The terminal value was determined as the present (discounted) value of a perpetuity (using the Gordon Growth 
+Model) calculated on the basis of the free cash flows of the final projection period, adjusted by a constant 
+growth rate. 
+Reasonably possible changes in individual key assumptions that would cause the recoverable amount of the 
+Poland cash-generating unit to equal its carrying amount, compared with the assumptions applied in the 
+impairment test performed as at 31 December 2025, are as follows: 
+• 
+a decrease in the number of customers by 9.66% in each year until 2030 compared with the previous 
+year; 
+• 
+a decrease in the number of processed messages by 9.88% in each year until 2030 compared with the 
+previous year; 
+• 
+an increase in the discount rate by 17.91pp. 
+Reasonably possible changes in individual key assumptions that would cause the recoverable amount of the 
+Czech Republic cash-generating unit to equal its carrying amount, compared with the assumptions applied in 
+the impairment test performed as at 31 December 2025, are as follows: 
+• 
+a decrease in the number of customers by 15.95% in each year until 2030 compared with the previous 
+year; 
+• 
+a decrease in the number of processed messages by 15.95% in each year until 2030 compared with 
+the previous year; 
+• 
+an increase in the discount rate by 84.42pp. 
+Reasonably possible changes in individual key assumptions that would cause the recoverable amount of the 
+MailerLite Group cash-generating unit to equal its carrying amount, compared with the assumptions applied in 
+the impairment test performed as at 31 December 2025, are as follows: 
+• 
+a decrease in the number of customers by 13.82% in each year until 2030 compared with the previous 
+year; 
+• 
+a decrease in the number of processed messages by 14.12% in each year until 2030 compared with 
+the previous year;

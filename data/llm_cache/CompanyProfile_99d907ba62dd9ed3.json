@@ -1,0 +1,10 @@
+{
+  "ticker": "GFT.DE",
+  "company_name": "GFT Technologies SE",
+  "one_line_description": "Global IT services provider delivering digitalization, cloud, and SAP consulting solutions primarily to banking, insurance, and industrial enterprise clients.",
+  "revenue_model": "it_services",
+  "end_market": "vertical_specific",
+  "customer_profile": "enterprise",
+  "primary_geography": "global",
+  "rd_intensity_signal": "low"
+}

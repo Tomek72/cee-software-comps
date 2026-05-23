@@ -1,0 +1,9 @@
+DataFeedWatch enables Merchants and Agencies to optimize their data feeds and campaign results for Google and 2,000+ other shopping channels in more than 60 countries.
+
+DataFeedWatch puts the power of data feed optimization in the hands of the marketer: It is easy-to-use, non-technical and very affordable. 
+DataFeedWatch provides detailed cost and revenue data on product level. Identifying and removing unprofitable products with a single click enables the merchant to maximize his RoI across different channels.
+
+DataFeedWatch is a DiY-tool that seamlessly integrates with Magento, Shopify, PrestaShop, Shopware, BigCommerce, WooCommerce, OpenCart and any other eCommerce platform with product feeds in xml, csv or txt. 
+
+DataFeedWatch is easier to use and more affordable than most other data feed tools.
+

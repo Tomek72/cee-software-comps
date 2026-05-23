@@ -1,0 +1,17 @@
+{
+  "company_name": "Atomstore",
+  "one_line_description": "Polish SaaS e-commerce platform offering B2C and B2B online store deployments with native integrations to local ERP systems.",
+  "target_segment": "mid_market",
+  "product_scope": "platform",
+  "headcount_estimate": 6,
+  "headcount_source": "linkedin",
+  "primary_geography": "poland",
+  "plausible_strategic_acquirers": [
+    "Shoper",
+    "IdoSell",
+    "Comarch",
+    "CCC Group",
+    "Asseco Poland"
+  ],
+  "equity_story_pillar": "All-in-one scalable e-commerce platform tailored to Polish mid-market merchants with deep local ERP integrations (Comarch, Subiekt, WF-Mag)."
+}

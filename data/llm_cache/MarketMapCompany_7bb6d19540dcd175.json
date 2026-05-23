@@ -1,0 +1,17 @@
+{
+  "company_name": "Survicate",
+  "one_line_description": "Customer feedback platform combining multi-channel surveys (NPS, CSAT, in-product, post-purchase) with AI-powered analysis and 20+ native integrations to CRM and marketing tools.",
+  "target_segment": "mid_market",
+  "product_scope": "platform",
+  "headcount_estimate": 36,
+  "headcount_source": "linkedin",
+  "primary_geography": "global",
+  "plausible_strategic_acquirers": [
+    "Qualtrics",
+    "Medallia",
+    "SurveyMonkey (Momentive)",
+    "HubSpot",
+    "Sprinklr"
+  ],
+  "equity_story_pillar": "AI-native voice-of-customer platform unifying multi-channel feedback collection and automated insight extraction for product and CX teams."
+}

@@ -1,0 +1,10 @@
+{
+  "ticker": "ASE.WA",
+  "company_name": "Asseco Poland",
+  "one_line_description": "Diversified IT group providing proprietary software, ERP solutions, third-party software resale and IT services to public sector, banking and enterprise customers across Central Europe.",
+  "revenue_model": "hybrid_saas_services",
+  "end_market": "horizontal",
+  "customer_profile": "enterprise",
+  "primary_geography": "cee",
+  "rd_intensity_signal": "medium"
+}

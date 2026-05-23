@@ -1,0 +1,860 @@
+In the financial year 2025, the GFT Group increased its 
+revenue by 2% to €888.29 million (2024: €870.92 million), 
+which was in line with its most recent guidance (see 
+table “Performance Compared to Guidance” ). This 
+revenue growth was driven by persistently high 
+demand for complex digitalization projects, albeit with 
+significant regional variations. With regard to the 
+sectors served by GFT, revenue in the Banking sector 
+was slightly down on the previous year at −2%. By 
+contrast, the Insurance sector recorded significant 
+growth of 15%. The Industry & Others sector also 
+achieved significant growth of 14%. Both sectors thus 
+exceeded their prior-year growth rates.
+As a result of the aforementioned initiatives in the UK 
+and at Software Solutions GmbH, the GFT Group’s 
+operating result, adjusted EBIT, declined by 14% to 
+€67.44 million (2024: €78.05 million) in the reporting 
+period. This was above the adjusted guidance, as 
+was EBT, which decreased by 29% to €46.01 million 
+(2024: €65.01 million).
+Cash flow from operating activities resulted in a cash 
+inflow of €43.27 million in 2025 (2024: €72.42 million). 
+Among other things, the decline was due to negative 
+working capital effects. There was an opposing effect 
+from lower income tax and interest payments than in 
+the previous year. In total, net liquidity decreased to 
+€-55.19 million at year-end (December 31, 2024: 
+€-42.53 million). In addition to the acquisition of 
+Megawork Consultoria e Sistemas Ltda (Megawork), a 
+share buyback program amounting to €15 million also 
+contributed to this development. The GFT Group 
+continues to have a solid capital and balance sheet 
+structure; the equity ratio remained virtually 
+unchanged at 41% as at December 31, 2025 
+(December 31, 2024: 42%).
+On September 2, 2025 (acquisition date), the takeover 
+of Megawork announced on July 15, 2025, was suc-
+cessfully completed. The acquisition of the SAP con-
+sulting company marks GFT’s entry into one of the 
+world’s leading software markets. In addition, this 
+acquisition is expected to accelerate the Group’s 
+growth by opening up new sectors, particularly in 
+manufacturing, pharmaceuticals, the public sector, 
+energy, and consumer goods, where SAP is already 
+firmly established.
+Performance compared to Guidance
+Guidance
+Result
+∆ %
+in € million
+FY 2025 
+03/05/2025
+FY 2025 
+07/23/2025
+FY 2025
+03/05/2025
+07/23/2025
+Revenue
+930
+885
+888.29
+−5%
+0%
+Adjusted EBIT
+75
+65
+67.44
+−10%
+4%
+EBT
+60
+45
+46.01
+−23%
+2%
+Key Figures by Quarter
+in € million
+Q1 2025 1
+Q2 2025 1
+Q3 2025 1
+Q4 2025 1
+FY 2025
+Revenue
+221.91
+219.60
+213.75
+233.03
+888.29
+Adjusted EBIT
+15.09
+15.05
+15.40
+21.90
+67.44
+EBT
+10.01
+9.01
+13.19
+13.80
+46.01
+1	  unaudited
+[ 36 ]	 GFT Integrated Annual Report 2025
+Economic Report
+Company
+Consolidated Financial Statements
+Service
+Combined Management Report
+
+3.3	 Development of Revenue
+Revenue Growth in the Insurance and 
+Industrial Sectors
+In the reporting period, revenue increased by 2%. 
+Adjusted for currency fluctuations, this corresponds 
+to growth of 5%. GFT thus continued its solid growth 
+trajectory in the reporting year. Business with clients 
+in the Insurance and Industrial sectors was particu-
+larly strong, with revenue growth of 15% and 14% 
+respectively.This was driven by persistently high 
+demand for digitalization and cloud solutions in the 
+Americas region. Business with clients in the Banking 
+sector declined slightly by 2%. This development 
+reflects clients’ reluctance to invest in Europe due to 
+macroeconomic uncertainties, along with a significant 
+decline in revenue in the UK, which resulted in the 
+realignment of this GFT site.
+The order backlog as at December 31, 2025, fell by 2% 
+to €495.38 million (2024: €503.12 million).
+2025
+2024
+€ million
+share in %
+€ million
+share in %
+∆%
+  Banking
+635.07
+71%
+649.21
+75%
+−2%
+  Insurance
+150.34
+17%
+131.21
+15%
+15%
+  Industry & Others
+102.88
+12%
+90.50
+10%
+14%
+GFT Group
+888.29
+100%
+870.92
+100%
+2%
+Client Diversification
+In order to further reduce its dependence on individ-
+ual clients, GFT continued to focus on client diversifi-
+cation in the past financial year. All in all, the 25 largest 
+clients accounted for around 60% of total revenue 
+(2024: 60%). The ten largest clients accounted for 
+around 38.4% of total revenue (2024: 40%). The share 
+of total revenue attributable to the largest client 
+reached 11% in the reporting period (2024: 14%). This 
+balanced diversification of the client base strengthens 
+the long-term stability of the business model.
+Revenue by Segment
+In the Americas, UK & APAC segment, revenue grew 
+by 6% to €522.79 million (2024: €494.28 million, +9%). 
+The main drivers were the positive business trends in 
+Brazil, Colombia, Canada, and the USA. Revenue in the 
+APAC region was up 17% on the previous year. The 
+significant decline in sales in the UK (-25%) was thus 
+more than offset by the strong performance in the 
+Americas and APAC regions.
+Revenue in the Continental Europe segment declined 
+by 3% to €364.53 million (2024: €375.73 million, +13%). 
+Macroeconomic uncertainties in Europe led to invest-
+ment restraint among clients, especially in Italy, Spain, 
+and Poland.
+2025
+2024
+€ 
+­million
+share 
+in %
+€ 
+­million
+share 
+in %
+∆ %
+Americas, 
+UK & APAC
+522.79
+59%
+494.28
+57%
+6%
+Continental 
+Europe
+364.53
+41%
+375.73
+43%
+−3%
+Others
+0.97
+0%
+0.91
+0%
+6%
+GFT Group
+888.29
+100%
+870.92
+100%
+2%
+Revenue by Industry
+  Banking 71%
+  Insurance 17%
+  Industry & Others 12%
+in € million
+150.34
+635.07
+102.88
+2025
+2024
+1,000
+800
+600
+400
+200
+0
+649.21
+131.21
+90.50
+Revenue by Segment
+in € million
+0.97
+364.53
+522.79
+494.28
+375.73
+0.91
+2025
+2024
+600
+500
+400
+300
+200
+100
+0
+  Americas, UK & APAC
+  Continental Europe
+  Others
+[ 37 ]	 GFT Integrated Annual Report 2025
+Economic Report
+Company
+Consolidated Financial Statements
+Service
+Combined Management Report
+
+2025
+2024
+1,000
+800
+600
+400
+200
+0
+	 Other countries
+	 Singapore
+	 Hungary
+	 France
+	 Switzerland
+	 Mexico
+	 Poland
+	 Colombia
+	 Canada
+	 UK
+	 USA
+	 Italy
+	 Spain
+	 Germany
+	 Brazil
+Revenue per Country
+in € million
+2025
+2024
+€ million
+share 
+in %
+€ million
+share 
+in %
+∆%
+Brazil
+183.07
+21%
+142.58
+16%
+28%
+Germany
+111.76
+13%
+115.63
+13%
+−3%
+Spain
+100.63
+11%
+101.71
+12%
+−1%
+Italy
+83.09
+9%
+86.37
+10%
+−4%
+USA
+79.96
+9%
+68.20
+8%
+17%
+UK
+70.19
+8%
+94.05
+11%
+−25%
+Canada
+68.15
+8%
+67.82
+8%
+0%
+Colombia
+48.48
+5%
+40.88
+5%
+19%
+Poland
+29.39
+3%
+32.30
+4%
+−9%
+Mexico
+26.53
+3%
+27.43
+2%
+−3%
+Switzerland
+15.92
+2%
+10.14
+1%
+57%
+France
+12.32
+1%
+15.85
+2%
+−22%
+Hungary
+11.98
+1%
+9.32
+1%
+29%
+Singapore
+11.34
+1%
+10.63
+1%
+7%
+Other countries
+35.48
+5%
+48.01
+6%
+−26%
+GFT Group
+888.29
+100%
+870.92
+100%
+2%
+3.4	 Earnings Position
+Income Statement
+The GFT Group's revenue for the 2025 financial year 
+amounted to €888.29 million, up 2% on the previous 
+year's figure of €870.92 million. Adjusted for acquisi-
+tion and exchange rate effects, organic revenue 
+growth was 4%. Whereas exchange rate effects had 
+a negative impact on revenue of €28.92 million (-3%), 
+acquisition effects had a positive impact of 
+€10.26 million (1%). This solid revenue performance 
+was primarily driven by multi-sector growth in Brazil.
+At €14.70 million, other operating income was signifi-
+cantly down on the previous year (2024: €28.35 million). 
+In the financial year 2025, this item mainly comprised 
+government grants (especially for R&D activities) 
+amounting to €8.58 million (2024: €11.55 million) and 
+foreign currency gains of €4.08 million (2024: 
+€3.95 million). The prior-year figure was significantly 
+influenced by the reversal of provisions for wage tax 
+obligations amounting to €10.58 million as a result of 
+a financial court verdict in Brazil.
+The cost of purchased services amounted to 
+€114.46 million and was up by 3% on the previous 
+year (2024: €111.17 million). This item includes the 
+purchase of external services in connection with the 
+core operating business. The ratio of cost of pur-
+chased services to revenue remained virtually 
+unchanged at 12.9% (2024: 12.8%).
+Personnel expenses rose by 3% to €643.35 million 
+(2024: €622.30 million). The increase was mainly due to 
+the increase in average headcount in Brazil, as well as 
+capacity adjustments (particularly in the UK) amount-
+ing to €13.24 million (2024: €10.36 million). A rise in 
+social security contributions also contributed to the 
+increase in personnel expenses. By contrast, there 
+were positive effects from the valuation of the share-
+based component of management remuneration 
+amounting to €0.41 million, compared with €1.47 million 
+in the previous year. The ratio of personnel expenses 
+to revenue (personnel cost ratio) increased to 72.4% 
+(2024: 71.5%). The personnel cost ratio without capacity 
+adjustments and plus the purchase of external services 
+rose to 83.8% (2024: 83.0%).
+Other operating expenses amounted to €75.65 million, 
+up 5% on the previous year (2024: €71.86 million). They 
+mainly comprise rental and maintenance expenses of 
+€20.81 million (2024: €17.60 million), personnel-related 
+expenses of €16.71 million (2024: €17.56 million), audit-
+ing and consulting costs of €9.74 million (2024: 
+€9.22 million), and sales and marketing expenses of 
+€8.89 million (2024: €7.77 million). At €5.97 million, 
+currency losses included in other operating expenses 
+were up on the previous year (2024: €4.68 million). 
+Overall, the increase in other operating expenses is 
+mainly attributable to higher rental expenses for 
+software licenses and increased sales and marketing 
+activities.
+As a result, EBITDA (earnings before interest, taxes, 
+depreciation and amortization) for the financial year 
+2025 amounted to €69.54 million, which was signifi-
+cantly below the prior-year level (2024: €93.95 million).
+Depreciation and amortization of intangible assets 
+and property, plant and equipment amounted to 
+€20.12 million (2024: €22.96 million). The decrease is 
+mainly due to lower amortization of intangible assets 
+from purchase price allocations. Right-of-use assets 
+in connection with leases accounted for €10.51 million 
+of total depreciation and amortization (2024: 
+€10.90 million). Impairment expenses amounted to 
+€0.50 million (2024: €0.10 million) and were primarily 
+related to building leases.
+[ 38 ]	 GFT Integrated Annual Report 2025
+Economic Report
+Company
+Consolidated Financial Statements
+Service
+Combined Management Report
+
+8	 Segment 
+ Reporting
+8.1	 General Information
+The GFT Group has two reporting segments. As the 
+chief operating decision-makers responsible for 
+assessing the Company’s results of operations and 
+allocating resources, the Managing Directors regularly 
+assess the business activities of these two segments.
+The Americas, UK & APAC segment comprises operat-
+ing companies in the following countries:
+•	 Brazil
+•	 Chile
+•	 Costa Rica
+•	 UK
+•	 Hong Kong
+•	 India
+•	 Canada
+•	 Colombia
+•	 Mexico
+•	 Panama
+•	 Peru
+•	 Singapore
+•	 Thailand
+•	 USA
+•	 Vietnam
+The Continental Europe segment comprises operating 
+companies in the following countries:
+•	 Belgium
+•	 Germany
+•	 France
+•	 Italy
+•	 Poland
+•	 Switzerland
+•	 Spain
+The internal controlling and reporting structures of the 
+GFT Group are fundamentally based on the IFRS 
+accounting principles described in section 1. The GFT 
+Group measures the success of its segments on the 
+basis of revenue and EBT. Segment revenue and 
+earnings also include transactions between the busi-
+ness segments.
+The types of services with which the reporting seg-
+ments generate their income are all activities related 
+to IT services.
+The Managing Directors do not receive regular infor-
+mation on segment assets, segment liabilities, or the 
+capital expenditure of each segment.
+Detailed information on the business segments for 
+the financial years 2025 and 2024 is presented in the 
+table below.
+Americas, UK & APAC
+Continental Europe
+Total segments
+Reconciliation
+GFT Group
+in € thousand
+2025
+2024
+2025
+2024
+2025
+2024
+2025
+2024
+2025
+2024
+External revenue
+522,787
+494,282
+364,531
+375,729
+887,318
+870,011
+968
+909
+888,286
+870,920
+Intersegment revenue
+6,530
+5,926
+80,016
+80,455
+86,546
+86,381
+−86,546
+−86,381
+0
+0
+Total revenue
+529,317
+500,208
+444,547
+456,184
+973,864
+956,392
+−85,578
+−85,472
+888,286
+870,920
+Segment result (EBT)
+30,370
+46,179
+26,220
+25,563
+56,590
+71,742
+−10,577
+−6,729
+46,013
+65,013
+thereof personnel expenses
+−328,374
+−301,254
+−300,512
+−304,038
+−628,886
+−605,292
+−14,461
+−17,003
+−643,347
+−622,295
+thereof depreciation and
+amortisation
+−5,745
+−8,152
+−13,534
+−13,565
+−19,279
+−21,717
+−839
+−1,246
+−20,118
+−22,963
+thereof interest income
+2,958
+2,929
+792
+1,298
+3,750
+4,227
+−1,061
+−1,641
+2,689
+2,586
+thereof interest expenses
+−1,626
+−2,980
+−4,142
+−5,593
+−5,768
+−8,573
+−326
+707
+−6,094
+−7,866
+[ 192 ]	GFT Integrated Annual Report 2025
+Notes to the Consolidated Financial Statements
+Company
+Combined Management Report
+Service
+Consolidated Financial Statements
+
+8.2	 Reconciliation
+The reconciliation of the Group’s revenue as well as 
+the sum of the segment results (EBT) to the Group’s 
+earnings before taxes is presented in the table below.
+The reconciliation discloses items which per definition 
+are not components of the segments. It also includes 
+non-allocated items of Group HQ, for example from 
+centrally managed issues, or revenue which only 
+occasionally occurs for company activities. Business 
+transactions between the segments are also elimi-
+nated in the reconciliation. The reconciliation of seg-
+ment figures is as follows:
+Reconciliation of Segment Figures
+in € thousand
+2025
+2024
+Total segment revenue
+973,864
+956,392
+Elimination of intersegment revenue
+−86,546
+−86,381
+Occasionally occurring revenue
+968
+909
+Group revenue
+888,286
+870,920
+Total segment earnings (EBT)
+56,590
+71,742
+Non-allocated expenses of Group HQ
+−9,818
+−5,281
+Other
+−759
+−1,448
+Group net income before taxes
+46,013
+65,013
+8.3	 Geographical Information
+The following table shows the revenue of the GFT 
+Group as well as non-current intangible assets and 
+property, plant and equipment, broken down by the 
+company’s country of domicile. This geographical 
+information discloses segment revenue based on 
+customer location and segment assets based on the 
+locations of assets.
+Revenue and Non-Current Intangible and Tangible Assets by Country
+Revenue from Sales to External 
+Clients 1
+Non-Current Intangible 
+and Tangible Assets
+in € thousand
+2025
+2024
+12/31/2025
+12/31/2024
+Brazil
+183,067
+142,583
+15,112
+4,232
+Germany
+111,756
+115,634
+105,001
+105,700
+France
+12,319
+15,852
+181
+40
+UK
+70,190
+94,053
+33,954
+36,577
+Italy
+83,094
+86,366
+29,696
+32,028
+Canada
+68,147
+67,816
+13,139
+14,475
+Colombia
+48,480
+40,877
+77,741
+87,532
+Mexico
+26,528
+27,430
+484
+462
+Poland
+29,390
+32,300
+6,279
+9,275
+Switzerland
+15,923
+10,138
+395
+455
+Singapore
+11,345
+10,631
+5
+2
+Spain
+100,630
+101,713
+23,396
+24,900
+USA
+79,957
+68,198
+6,499
+7,667
+Other countries
+47,460
+57,329
+659
+830
+Total
+888,286
+870,920
+312,541
+324,175
+1	 By client location
+[ 193 ]	GFT Integrated Annual Report 2025
+Notes to the Consolidated Financial Statements
+Company
+Combined Management Report
+Service
+Consolidated Financial Statements
+
+Revenue from sales to external clients which account 
+for more than 10% of consolidated revenue developed 
+as follows in the financial year 2025:
+Clients Accounting for over 10% of Revenue
+Revenue
+Segments in which this Revenue is Generated
+in € thousand
+2025
+2024
+2025
+2024
+Client 1
+100,525
+123,881
+Americas, UK & APAC, 
+Continental Europe
+Americas, UK & APAC, 
+Continental Europe
+As in the previous year, revenue was generated from 
+the provision of services.
+9	 Other 
+ Disclosures
+9.1	 Financial Instruments
+Carrying Amounts and Fair Values of 
+Financial Instruments
+The table on page 195 and page 196 to the Notes 
+to the Consolidated Financial Statements shows the 
+carrying amounts and fair values for the respective 
+classes of financial instruments of the GFT Group and 
+reconciles these to the corresponding balance sheet 
+items.
+The fair value of a financial instrument is the price that 
+would be received to sell an asset or paid to transfer a 
+liability in an orderly transaction between market par-
+ticipants at the measurement date. In view of the vary-
+ing influencing factors, the reported fair values can 
+only be regarded as indicators of the prices that may 
+actually be achieved on the market.
+The fair values of financial instruments were deter-
+mined on the basis of the market information available 
+on the reporting date. The following methods and 
+premises were applied.
+Trade Receivables as well as Cash and Cash 
+Equivalents
+Due to the short terms and the generally low credit 
+risk of these financial instruments, it was assumed that 
+their fair values correspond to the carrying amounts.
+Other Financial Assets
+Other financial assets relate to investments in equity 
+instruments and other types of financial assets.
+Investments in equity instruments are measured at fair 
+value through profit or loss. As there were no public 
+quotations for the equity shares, the market value was 
+determined on the basis of parameters for which 
+either directly or indirectly derived quoted prices were 
+available on an active market. The market values were 
+calculated using recognized financial mathematical 
+models.
+Other types of financial assets were measured at 
+amortized cost. Amortized cost is determined on the 
+basis of the present value of future cash inflows, dis-
+counted at an interest rate prevailing at the end of the 
+reporting period, taking into account the respective 
+maturities of the financial assets. Due to the predomi-
+nantly short terms of these financial instruments, it 
+was assumed that their fair values correspond to the 
+carrying amounts.
+Financing Liabilities
+Financing liabilities refer to liabilities owed to banks. 
+The fair values of loans or other financing liabilities 
+were determined as the present values of expected 
+future cash flows. Market interest rates for the appro-
+priate terms were used for discounting.
+Trade Payables
+Due to their short maturities, it was assumed that the 
+fair values correspond to the carrying amounts of 
+these financial instruments.
+[ 194 ]	GFT Integrated Annual Report 2025
+Notes to the Consolidated Financial Statements
+Company
+Combined Management Report
+Service
+Consolidated Financial Statements

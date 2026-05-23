@@ -1,0 +1,17 @@
+{
+  "company_name": "Apilo",
+  "one_line_description": "Polish multichannel e-commerce management platform automating order processing, marketplace integrations, and warehouse/dropshipping workflows for online sellers.",
+  "target_segment": "smb",
+  "product_scope": "platform",
+  "headcount_estimate": 31,
+  "headcount_source": "linkedin",
+  "primary_geography": "poland",
+  "plausible_strategic_acquirers": [
+    "BaseLinker",
+    "Allegro",
+    "Shoper",
+    "IAI (IdoSell)",
+    "Mirakl"
+  ],
+  "equity_story_pillar": "Established multichannel commerce automation hub with 350+ integrations and a flat-fee, no-commission model positioning it as a scalable alternative to BaseLinker for Polish SMB sellers."
+}

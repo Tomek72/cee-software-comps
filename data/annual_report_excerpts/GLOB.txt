@@ -1,0 +1,445 @@
+67
+Measuring our greenhouse gas emissions
+Effective energy management is central to our 
+environmental strategy. During the year, our total energy 
+consumption reached 10,844.96 MWh(1)
+, comprised of 
+233.77 MWh derived from the use of non-renewable 
+fuels (6.02  MWh
+(2)
+ Diesel and 227.75  MWh
+(3)
+ Natural 
+Gas) and 10,611.19 MWh(4)
+ from on-site electricity. 
+In addition our “Work from Anywhere” policy, allow 
+Globers to perform their duties from offices, their 
+homes, or alternative locations, depending on their 
+needs. While this flexibility enhances work-life balance 
+and operational adaptability, it also requires a robust 
+approach to capturing energy use beyond conventional 
+office environments. T
+o address this, we use 
+“MyFootprint”, our internal web app that estimates the 
+carbon footprint associated with employees’ commuting 
+habits and remote-work setups. 
+The app collects information on typical work scenarios 
+throughout the year, including the energy consumption 
+of laptops, monitors, and heating or cooling equipment 
+used in home workspaces. Globers can update their 
+information at any time, ensuring that the data reflects 
+their actual working conditions. In 2025, the estimated 
+energy consumption associated with remote work 
+reached 11,077.15 MWh(5)
+, informed by 9,860 Globers
+who updated their commuting and working-from-home 
+profiles in the application. Beyond improving reporting 
+accuracy, MyFootprint encourages employees to reflect 
+on their daily choices and adopt more energy-efficient 
+behaviors.
+In addition to office and remote-work consumption, we also 
+include electricity used by third-party data centers, which 
+totaled 586.77 MWh(6)
+ in 2025, representing a decrease of 
+10.1% vs the previous year
+. We also include energy losses 
+associated with electricity transmission and distribution in 
+national grids across the countries where we operate, which 
+accounted for an additional 2,507.41 MWh(7)
+. In this sense 
+our total energy consumption outside the organization was 
+14,171.33 MWh(7)
+.
+Energy management
+(1) The conversion factor from MWh to GJ is 3.6 GJ/MWh. 
+ 
+(2) Includes an estimate of 6.1% of total diesel fuel consumption based on the 
+reported consumption. The conversion factor from MWh to GJ is 3.6 GJ/MWh. 
+ 
+(3) Includes an estimate of 19.4% of total natural gas consumption based on the 
+reported consumption. The conversion factor from MWh to GJ is 3.6 GJ/MWh. 
+ 
+(4) Calculated as the electricity consumption within the organization, considering 
+the following countries: Argentina, Australia, Belarus, Brazil, Bulgary, Canada, Chile, 
+China, Colombia, Costa Rica, Denmark, Ecuador, France, Germany, India, Italy, 
+Ireland, Luxemburg, Mexico, Moldova, Morocco, Peru, Philippines, Portugal, 
+Romania, Saudi Arabia, Singapore, Spain, UK, United Arab Emirates, Uruguay, USA 
+and Vietnam.The conversion factor from MWh to GJ is 3.6 GJ/MWh. 
+ 
+(5) Includes electricity, natural gas and solid fuels consumption.Corresponds to 
+estimated consumption based on the results of the survey MyFootprint updated in 
+2025.Estimates are based on responses from 37% of the total global payroll.The 
+conversion factor from MWh to GJ is 3.6 GJ/MWh. 
+ 
+(6) Includes an estimate of 3.6% by projection. 
+The conversion factor from MWh to GJ is 3.6 GJ/MWh. 
+ 
+(7) The conversion factor from MWh to GJ is 3.6 GJ/MWh.
+Energy intensity Ratio(1) 
+0.39 MWh/Glober 
+(1) The energy intensity ratio includes the energy consumed of 
+electricity and from the Non-renewable fuel sources.The ratio uses 
+energy consumption within the organization.
+
+68
+We measure our corporate carbon footprint annually, a 
+practice we have strengthened since 2012 to enhance the 
+quality, depth, and precision of our GHG data. Our 
+calculation methodology undergoes independent third-
+party assurance to ensure the reliability and transparency 
+of our disclosures. This process is carried out in 
+accordance with internationally recognized standards, 
+including ISAE 3000 for non-financial assurance 
+engagements and ISAE 3410 for greenhouse gas 
+statements, issued by the International Auditing and 
+Assurance Standards Board. 
+In alignment with the Corporate GHG Protocol, we define 
+our organizational boundaries using the operational 
+control approach. We consider the reporting and 
+processing of energy consumption and emission data from 
+all locations where the headcount exceeds 1% of Globant’
+s 
+total payroll at the end of the reporting period. When 
+mergers or acquisitions modify this threshold, newly 
+incorporated operations are added effective on their 
+official “roll-out” date, and baselines are recalculated  
+as needed. 
+We measure direct GHG emissions, Scope 1, from 
+stationary combustion sources under our control—such as 
+backup power generators, natural gas use in offices, and 
+fugitive emissions from air-conditioning systems. Our 
+Scope 2 inventory includes indirect emissions from 
+electricity consumption, reported under both the location-
+based and market-based methods. 
+Our assessment also covers material upstream Scope 3 
+categories relevant to our business model, including:
+Our Carbon Numbers
+Purchased Goods and Services: electricity 
+consumption from third-party data centers. 
+Capital Goods: emissions associated with hardware 
+and other capital goods. 
+Business Travel: emissions from domestic and 
+international flights. 
+Employee Commuting: emissions associated with 
+commuting patterns and working-from-home.
+By maintaining rigorous measurement practices and 
+continuously improving the completeness and 
+granularity of our data, Globant strengthens the 
+consistency and comparability of its carbon footprint 
+while supporting transparent climate-related reporting 
+across its global operations. 
+Working from home
+Natural Gas
+Diesel 
+Capital Goods
+Purchased Goods 
+& Services
+Fugitive Emissions
+Business Travel
+Employee 
+Commuting
+14.0%
+0.13%
+0.01%
+35.5%
+0.99%
+1.19%
+30.6%
+17.5%
+GHG Emissions 2025:  
+16,990.02 tCO2e
+
+69
+1.13%
+98.87%
+of total emissions
+of total emissions
+(5)
+of total  
+emissions
+Refrigerant Gas(2)
+100% Renewable Electricity Supply
+Business Travel
+(8)
+Employee Commuting
+(9)
+Working from Home Modalities
+(9)
+Fuel and Energy related activities
+(10)
+167.96 tCO₂e
+87.61%
+(Scope 1) Direct GHG emissions 
+Gasses Included: CO
+2
+ , N
+2
+O ,CH
+4
+, R410
+(Scope 2) Indirect GHG Emissions  
+Gasses Included: CO
+2
+, CH
+4
+, N
+2
+O
+(Scope 3) Other indirect GHG emissions
+Market Based(5): 16,798.31 tCO2e
+Location Based(11): 17,669.72  tCO2e
+Gasses Included: CO
+2
+, CH
+4
+, N
+2
+O
+Reporting Company
+Upstream Activities
+Upstream Activities
+22.13 tCO₂e
+3,243.03  tCO
+2
+e
+(4)
+6,036.37 tCO₂e
+5,205.22 tCO₂e
+2,981.12 tCO₂e
+2,372.93 tCO₂e
+0 tCO2e
+(10)
+191.71  tCO2e(1)
+Diesel Fuel(1)
+Market-Based
+Purchased Goods and Services(6)
+1.62 tCO₂e
+0  tCO
+2
+e
+(3)
+202.67 tCO₂e
+0.85%
+0%
+1.21%
+16.03%
+35.93%
+17.75%
+14.13%
+0%
+30.99%
+11.54%
+Natural Gas(1)
+Location Based
+Capital Goods(7)
+(1) Considering the regions with a headcount ≥ 1% of the total Globant payroll 
+at the end of the period under analysis. 
+(2) The scope includes those sites in Argentina where refrigerant gas was 
+replenished. 
+(3) By acquiring renewable energy certificates based on I-REC (International 
+Renewable Energy Certificate), Green-e and GO (Guarantees of Origin), 
+Globant covers 100% of electricity consumption through renewable 
+sources.In line with the criteria of the RE100 Standard, when the purchase of 
+local certificates was not technically feasible (because the installed capacity 
+of the renewable parks was not sufficient to cover the demand, or due to the 
+lack of access to a local certificate market), the aquisition was completed 
+through external markets, these are the cases of Uruguay (where I-RECs were 
+sourced from Argentina), Ecuador and Costa Rica (where I-RECs were 
+sourced from Peru). 
+(4) Emissions are calculated using local emission factors of each country 
+within the scope.Report limits: regions with a headcount ≥ 1% of Globant’s 
+total payroll at the end of the period under analysis. Operational limits: 
+Installed power that is part of the permanent infrastructure for exclusive use at 
+each site in each of the countries where Globant operates. 
+(5) Includes the following categories: 
+- Cat. 1: Purchased Goods and Services. 
+- Cat. 2: Capital Goods 
+- Cat. 3: Fuel and energy related activities not included in Scope 1 or 2 - T&D 
+losses 
+- Cat. 6: Business travel - air travel 
+- Cat. 7: Employee Commuting & Working from home 
+By acquiring renewable energy certificates based on green-e, I-REC 
+(International Renewable Energy Certificate) and GO (Guarantees of Origin) 
+standards, Globant covers 100% of electricity consumption (including T&D 
+losses) through renewable sources, which implies zero T&D losses emissions. 
+(6) Includes an estimate of 3.7% by projection. 
+(7) Scope: The calculation considered the company’s capitalized assets 
+(Fixed assets) as of December 31, 2025, including hardware (notebooks, 
+Tablets, Servers, PC, Monitors and other electronic products) and other 
+commodities (such as construction, furniture, telecommunication and 
+networking). Emission factors were obtained from public sources, for 
+hardware from the reports of the corresponding suppliers when available, 
+and for other capital goods from US EPA Supply Chain GHG Emission 
+Factors. Report limits: regions with a headcount ≥ 1% of Globant’s total 
+payroll at the end of the period under analysis.  
+(8) Emissions were obtained for each segment from the ICAO (International 
+Civil Aviation Organization) website. When the information was not available, 
+the calculation was made from the km between airports and emission factors 
+obtained from DEFRA UK, 2025. Report limits: regions with a headcount ≥ 1% 
+of Globant’s total payroll at the end of the period under analysis. 
+(9) Report limits: regions with a headcount ≥ 1% of Globant’s total payroll at 
+the end of the period under analysis. Corresponds to estimated consumption 
+based on the results of the survey MyFootprint updated in 2025.Estimates are 
+based on responses from 37% of total employees in the countries in scope. 
+(10) Fuel and other energy-related activities -Location Based: 871.41  
+tCO2e.By acquiring renewable energy certificates based on green-e, I-REC 
+(International Renewable Energy Certificate) and GO (Guarantees of Origin) 
+standards, Globant covers 100% of electricity consumption (including T&D 
+losses) through renewable sources, which implies zero T&D losses emissions. 
+(11) Includes the following categories: 
+- Cat. 1: Purchased Goods and Services. 
+- Cat. 2: Capital Goods 
+- Cat. 3: Fuel and energy related activities not included in Scope 1 or 2 - T&D 
+losses 
+- Cat. 6: Business travel - air travel 
+- Cat. 7: Employee Commuting & Working from home 
+By acquiring renewable energy certificates based on green-e, I-REC 
+(International Renewable Energy Certificate) and GO (Guarantees of Origin) 
+standards, Globant covers 100% of electricity consumption (including T&D 
+losses) through renewable sources, which implies zero T&D losses emissions. 
+Report limits: regions with a headcount ≥ 1% of Globant’s total payroll at the 
+end of the period under analysis.
+
+80
+WWF
+Globant partnered with WWF to digitize and scale a carbon footprint 
+calculator for Argentinian agro-businesses.
+Business Challenge 
+The World Wildlife Fund (WWF), a global conservation organization committed to addressing climate 
+change and preserving natural ecosystems, sought to expand the impact of its carbon footprint calculator 
+for the beef production value chain in Argentina. While the existing Excel-based tool was technically solid, 
+it faced limitations in scalability, accessibility, and user experience. These constraints hindered 
+widespread adoption among farmers and limited WWF’
+s ability to generate consolidated insights for data-
+driven sustainability strategies.
+Project Description:  
+Carbon Footprint Calculator for Livestock Production  
+Globant supported WWF in transforming its Excel-based calculator into an interactive, web-based solution 
+built on the GeneXus low-code platform. The new digital tool enables farmers to measure both the carbon 
+footprint and productivity of their operations through a user-friendly interface. By analyzing variables such 
+as energy consumption, herd composition, and feeding practices, the platform delivers clear and 
+actionable insights to improve environmental and operational performance. The solution also enhances 
+data consolidation and reporting capabilities across the value chain.
+Value Delivered 
+ 
+Globant delivered a scalable and accessible digital platform to significantly increased adoption among farmers 
+and stakeholders. The solution was designed to improve usability, streamlined data collection, and enabled 
+more robust environmental analysis. By turning complex calculations into practical insights, the tool empowers 
+agro-businesses to reduce emissions, optimize productivity, and advance more sustainable livestock practices 
+across Argentina’
+s beef sector
+. 
+
+81
+Compensate 
+beyond value 
+chain mitigation
+Climate 
+Performance 
+Disclosure
+The Qori Q’oncha program, managed by Microsol 
+in Peru, enhances the quality of life of rural 
+families through the installation and maintenance 
+of Improved Cookstoves (ICS). 
+In 2025, Globant supported the Qori Q’
+oncha 
+Program, contributing to the prevention of 18,000 
+tonnes of CO₂ emissions from being released into 
+the atmosphere. This support advances access to 
+cleaner cooking technologies and promotes 
+emissions reductions in vulnerable communities 
+in the La Libertad region. 
+Beyond its climate impact, the initiative helps 
+reduce household air pollution, improve health 
+conditions—particularly for women and children—
+and decrease the time families spend collecting 
+firewood. This, in turn, creates greater 
+opportunities for education, training, and 
+community development.
+Transparency in environmental performance 
+provides stakeholders with relevant financial and 
+operational insights to inform business decisions 
+and investments. By disclosing our climate 
+performance, we reinforce accountability and 
+demonstrate our long-term commitment to 
+sustainable value creation. 
+We integrated the recommendations of the T
+ask 
+Force on Climate-related Financial Disclosures 
+(TCFD) into this report. Alignment with TCFD
+enhances our ability to identify, assess, and manage 
+climate-related risks and opportunities, while 
+improving the robustness, comparability, and 
+reliability of our climate reporting. 
+Through our participation in CDP (formerly the 
+Carbon Disclosure Project), we maintained a B score 
+in the Climate Change questionnaire and an A- in 
+the Supplier Engagement Assessment (SEA), which 
+evaluates how effectively companies engage 
+suppliers on climate action across governance, 
+targets, and value-chain emissions.  
+This achievement demonstrates continued progress 
+in climate governance and emissions management, 
+while highlighting the work ahead to further elevate 
+our performance. 
+Also, as part of our value chain engagement, we 
+participate in the EcoVadis Sustainability Rating, 
+earning a Commitment Badge and driving 
+continuous improvement in social and environmental 
+performance across our supply chain. 
+Advancing as a climate-tech company is a collective 
+effort. Through active collaboration with our Globers, 
+clients, investors, and partners, we continue to evolve 
+our business model, design sustainable solutions, 
+and address climate-related challenges while 
+supporting long-term growth.
+Thanks to these efforts, Globant fully 
+compensated its remaining emissions 
+for 2025.
+For more information about Public Disclosure Statement 
+Pursuant to California AB 1305: Voluntary Carbon Market 
+Disclosures.
+
+82
+While mitigation remains central to our climate strategy, 
+we recognize that adaptation is equally critical in 
+addressing the growing challenges posed by a volatile 
+climate. Strengthening our resilience enables us            
+to safeguard our people, operations, and long-term       
+value creation. 
+Understanding the potential impacts of extreme weather 
+events and natural disasters, we continuously evolve our 
+business model to enhance operational continuity while 
+supporting our employees’ well-being. Our Be Kind to 
+Yourself (BKTY) initiative is embedded in Globant’
+s 
+culture and promotes self-care by equipping Globers 
+with tools to nurture their mental, physical, and social 
+well-being. 
+Flexible work arrangements—including remote and 
+hybrid models—play a key role in our adaptation 
+approach. These measures allow employees to manage 
+personal and professional responsibilities during 
+disruptive events (such as heatwaves or extreme 
+weather), reduce stress, and maintain overall wellness 
+while ensuring business continuity.
+Climate volatility may also contribute to migration, 
+displacement, or geopolitical disruptions. Our 
+regionalized and decentralized talent model strengthens 
+operational resilience by enabling continuity in the face 
+of localized physical risks or shifting workforce 
+dynamics. When appropriate, we activate Charitable 
+Campaigns to support affected communities, with 
+company-matching mechanisms to amplify impact.  
+Operationally, we mitigate energy-related physical risks 
+through backup electricity generators strategically 
+located across facilities to reduce service disruptions 
+during outages. In parallel, our Energy Management 
+System monitors consumption and billing trends, 
+enabling proactive cost management and strengthening 
+preparedness for mid- and long-term energy volatility. 
+Through these combined measures, we continue to 
+enhance our capacity to adapt to climate-related risks 
+while protecting our people, communities, and   
+business operations.
+Climate Adaptation

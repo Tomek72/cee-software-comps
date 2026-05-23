@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+*.egg
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# uv
+.uv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/*.ipynb
+
+# Project data — runtime artifacts
+data/data.db.wal
+data/data.db
+
+# Keep these committed (override defensively):
+!data/annual_report_excerpts/
+!data/market_map_excerpts/
+!data/output/comps_v1.xlsx
+!data/output/ecom_map_v1.pdf
+
+# But ignore everything else under output/ (intermediate renders, drafts)
+data/output/*
+!data/output/comps_v1.xlsx
+!data/output/ecom_map_v1.pdf
+
+# Env / secrets
+.env
+.env.local
+*.key
+
+# OS
+Thumbs.db
+
+# input data
+data/source_pdfs/
+notes.txt

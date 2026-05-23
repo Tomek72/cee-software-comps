@@ -1,0 +1,17 @@
+{
+  "company_name": "Alokai",
+  "one_line_description": "Frontend-as-a-Service platform (formerly Vue Storefront) enabling composable, headless commerce storefronts with pre-built integrations and components.",
+  "target_segment": "enterprise",
+  "product_scope": "platform",
+  "headcount_estimate": 112,
+  "headcount_source": "linkedin",
+  "primary_geography": "global",
+  "plausible_strategic_acquirers": [
+    "commercetools",
+    "Adobe",
+    "Shopify",
+    "Salesforce",
+    "Vercel"
+  ],
+  "equity_story_pillar": "Category-defining Frontend-as-a-Service layer for the rapidly growing composable commerce stack, monetizing the storefront tier across MACH ecosystems."
+}

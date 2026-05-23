@@ -1,0 +1,17 @@
+{
+  "company_name": "IdoSell",
+  "one_line_description": "Polish SaaS e-commerce platform for professional B2C and B2B online sellers, with built-in WMS, multichannel selling and cross-border capabilities.",
+  "target_segment": "mid_market",
+  "product_scope": "suite",
+  "headcount_estimate": 230,
+  "headcount_source": "linkedin",
+  "primary_geography": "poland",
+  "plausible_strategic_acquirers": [
+    "Shoper",
+    "Shopify",
+    "Allegro",
+    "Mirakl",
+    "Lightspeed Commerce"
+  ],
+  "equity_story_pillar": "Long-established, vertically integrated Polish e-commerce suite combining storefront SaaS, WMS and multichannel sales for a sticky base of 7,500+ professional merchants."
+}

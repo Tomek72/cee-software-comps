@@ -1,0 +1,10 @@
+{
+  "ticker": "BC8.DE",
+  "company_name": "Bechtle AG",
+  "one_line_description": "European IT reseller and system integrator providing hardware trading, software licensing and managed services to commercial and public-sector clients across 14 countries.",
+  "revenue_model": "it_services",
+  "end_market": "horizontal",
+  "customer_profile": "mixed",
+  "primary_geography": "europe",
+  "rd_intensity_signal": "low"
+}

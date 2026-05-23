@@ -1,0 +1,17 @@
+{
+  "company_name": "Ergonode",
+  "one_line_description": "User-friendly headless Product Information Management (PIM) platform for omnichannel e-commerce catalog management.",
+  "target_segment": "mid_market",
+  "product_scope": "point_tool",
+  "headcount_estimate": 31,
+  "headcount_source": "linkedin",
+  "primary_geography": "europe",
+  "plausible_strategic_acquirers": [
+    "Akeneo",
+    "Contentserv",
+    "Pimcore",
+    "Centric Software",
+    "commercetools"
+  ],
+  "equity_story_pillar": "Developer-friendly, no-code headless PIM positioned as a more usable alternative to incumbent European PIM vendors for omnichannel mid-market retailers."
+}

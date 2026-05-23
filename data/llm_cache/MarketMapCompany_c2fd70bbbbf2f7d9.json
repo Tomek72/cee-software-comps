@@ -1,0 +1,17 @@
+{
+  "company_name": "Sky-Shop",
+  "one_line_description": "Polish SaaS platform for online stores with integrated dropshipping, marketplace and multi-channel sales tooling.",
+  "target_segment": "smb",
+  "product_scope": "platform",
+  "headcount_estimate": 31,
+  "headcount_source": "linkedin",
+  "primary_geography": "poland",
+  "plausible_strategic_acquirers": [
+    "Shoper",
+    "IAI (IdoSell)",
+    "Atman/Cyfrowy Polsat group",
+    "MK Partners (BaseLinker ecosystem)",
+    "Mid Europa Partners"
+  ],
+  "equity_story_pillar": "All-in-one Polish e-commerce platform with native dropshipping and marketplace integrations targeting SMB merchants entering online sales."
+}
